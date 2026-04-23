@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tilth — your garden has a memory now</title>
+  <meta name="description" content="A garden tracking app for iPhone. Log your beds, plants, soil, and weather. When something's going wrong, get a personalized AI diagnosis grounded in your garden's history.">
+
+  <!-- Open Graph / social sharing -->
+  <meta property="og:title" content="Tilth — your garden has a memory now">
+  <meta property="og:description" content="Track your garden. Diagnose what's going wrong. A quiet, editorial iOS app for gardeners who want more than a checklist.">
+  <meta property="og:url" content="https://gettilth.com">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://gettilth.com/assets/app-icon.png">
+  <meta property="og:image:width" content="512">
+  <meta property="og:image:height" content="512">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <link rel="icon" type="image/png" sizes="512x512" href="/assets/app-icon.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;1,8..60,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/styles.css">
+</head>
+<body>
+
+  <main>
+
+    <!-- Hero -->
+    <section class="hero">
+      <div class="hero-inner">
+        <img class="hero-icon" src="/assets/app-icon.png" alt="Tilth app icon" width="72" height="72">
+        <p class="eyebrow">TILTH · FOR iPHONE</p>
+        <h1 class="display">Your garden<br>has a memory now.</h1>
+        <p class="lede">
+          Track what you planted where. Log check-ins with photos, notes, and
+          weather. When something's going wrong, get a diagnosis grounded in
+          everything your garden has recorded — not a generic answer, a
+          personalized one.
+        </p>
+        <a class="app-store" href="#" aria-label="Download Tilth on the App Store">
+          <span>Download on the App Store</span>
+          <svg class="app-store-arrow" width="14" height="14" viewBox="0 0 24 24"
+               fill="none" stroke="currentColor" stroke-width="2"
+               stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M7 17L17 7M17 7H7M17 7V17"/>
+          </svg>
+        </a>
+        <p class="coming-soon">Launching soon on iOS.</p>
+      </div>
+    </section>
+
+    <!-- Screenshot gallery — horizontal on desktop, scrolls on mobile -->
+    <section class="gallery" aria-label="App screenshots">
+      <div class="gallery-track">
+        <figure class="shot">
+          <img src="/assets/screenshots/01-garden.png"
+               alt="Home screen — Your garden. Featured plant card, beds list."
+               loading="eager">
+        </figure>
+        <figure class="shot">
+          <img src="/assets/screenshots/02-plant-detail.png"
+               alt="Plant detail — days since transplant, diagnosis card, activity log."
+               loading="lazy">
+        </figure>
+        <figure class="shot">
+          <img src="/assets/screenshots/03-weather.png"
+               alt="Weather tab — 14-day rainfall, 7-day forecast, watering alerts."
+               loading="lazy">
+        </figure>
+        <figure class="shot">
+          <img src="/assets/screenshots/04-check-in.png"
+               alt="Check-in wizard — photo, note, action tags."
+               loading="lazy">
+        </figure>
+        <figure class="shot">
+          <img src="/assets/screenshots/05-bed-detail.png"
+               alt="Bed detail — soil profile, readings, plants list, activity log."
+               loading="lazy">
+        </figure>
+        <figure class="shot">
+          <img src="/assets/screenshots/06-settings.png"
+               alt="Settings — garden name, location, subscription."
+               loading="lazy">
+        </figure>
+      </div>
+    </section>
+
+    <!-- Feature 1: Diagnose -->
+    <section class="narrative">
+      <div class="narrative-inner">
+        <p class="eyebrow">DIAGNOSE</p>
+        <h2 class="section-title">Why isn't<br>this growing?</h2>
+        <p class="body">
+          Tap the plant. Describe what you're seeing. Tilth assembles every
+          soil reading, weather event, and check-in the garden has logged,
+          then asks Claude to reason through what's most likely happening —
+          and what to do this week.
+        </p>
+        <p class="body-muted">
+          Not a chat window. A structured diagnosis with evidence from your
+          own data: the nitrogen reading from last Tuesday, the dry stretch
+          before the last rain, the transplant three weeks ago.
+        </p>
+      </div>
+    </section>
+
+    <!-- Feature 2: Journal -->
+    <section class="narrative narrative--alt">
+      <div class="narrative-inner">
+        <p class="eyebrow">JOURNAL</p>
+        <h2 class="section-title">A journal<br>that remembers.</h2>
+        <p class="body">
+          Check in on plants with a photo and a note. Tilth stamps the weather,
+          temperature, and humidity automatically, so months later you can see
+          exactly what was happening when the basil was at its best.
+        </p>
+        <p class="body-muted">
+          Every reading, amendment, and transplant is dated. Every check-in
+          carries its own conditions. Nothing has to be remembered because
+          nothing is forgotten.
+        </p>
+      </div>
+    </section>
+
+    <!-- Feature 3: Privacy -->
+    <section class="narrative">
+      <div class="narrative-inner">
+        <p class="eyebrow">PRIVATE BY DEFAULT</p>
+        <h2 class="section-title">Your data<br>stays yours.</h2>
+        <p class="body">
+          No account. No cloud lock-in. No ad networks. Your plants, soil
+          readings, and photos live on your device in a local database you
+          own. Uninstall the app and it's gone — no server copy to chase.
+        </p>
+        <p class="body-muted">
+          Diagnoses send only the minimum context a plant question needs —
+          species, bed, soil, weather, your concern. No name, no email, no
+          identifier that ties any of it back to you.
+        </p>
+      </div>
+    </section>
+
+    <!-- Pricing -->
+    <section class="pricing">
+      <p class="eyebrow">PRICING</p>
+      <h2 class="section-title">Free to start.</h2>
+      <p class="body">
+        Log unlimited plants, photos, and check-ins on the free tier.
+        Tilth Premium unlocks unlimited AI diagnoses and unlimited beds —
+        <strong>$4.99/month</strong> or <strong>$29.99/year</strong>.
+      </p>
+      <p class="body-muted">
+        Cancel any time. Your data stays either way.
+      </p>
+    </section>
+
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <div class="wordmark-group">
+        <img class="footer-icon" src="/assets/app-icon.png" alt="" width="28" height="28">
+        <p class="wordmark">Tilth</p>
+      </div>
+      <nav class="footer-nav">
+        <a href="/privacy">Privacy</a>
+        <a href="/terms">Terms</a>
+        <a href="mailto:mikespearman.e@gmail.com">Support</a>
+      </nav>
+      <p class="copyright">© 2026 Mike Spearman. Made in California.</p>
+    </div>
+  </footer>
+
+</body>
+</html>

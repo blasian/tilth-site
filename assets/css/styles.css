@@ -1,0 +1,402 @@
+/*
+ * Tilth landing page
+ * Colors + typography ported from Garden/Views/Components/DesignTokens.swift
+ * so the site reads as one product with the app.
+ */
+
+:root {
+  /* Paper palette — warm cream base, matches GT.paper / paperDim / paperDeep */
+  --paper: oklch(0.965 0.012 75);
+  --paper-dim: oklch(0.93 0.015 72);
+  --paper-deep: oklch(0.90 0.018 72);
+
+  /* Paper gradient endpoints (GT.paperBackground radial gradient) */
+  --paper-grad-start: oklch(0.91 0.02 68);
+  --paper-grad-end: oklch(0.88 0.02 72);
+
+  /* Ink — dark warm browns for text */
+  --ink: oklch(0.22 0.018 55);
+  --ink-dim: oklch(0.38 0.014 55);
+  --ink-mute: oklch(0.55 0.012 55);
+
+  /* Rule lines */
+  --rule: oklch(0.82 0.018 70);
+  --rule-soft: oklch(0.88 0.015 72);
+
+  /* Terracotta accent — GT.accent / accentDim / accentDeep */
+  --accent: oklch(0.54 0.125 40);
+  --accent-dim: oklch(0.88 0.04 45);
+  --accent-deep: oklch(0.42 0.13 40);
+
+  /* Typography
+   *
+   * Serif stack prioritizes 'New York' (Apple's system serif — what the
+   * app uses via `.design(.serif)`), then `ui-serif` which resolves to
+   * New York on iOS Safari automatically, then Source Serif 4 as a
+   * hand-picked fallback for non-Apple browsers (warmer + wider
+   * proportions than Instrument Serif — closer to New York's feel).
+   */
+  --font-serif: 'New York', ui-serif, 'Source Serif 4', Georgia, 'Times New Roman', serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif;
+  --font-mono: 'JetBrains Mono', 'SF Mono', ui-monospace, 'Menlo', monospace;
+
+  /* Layout */
+  --container: 1080px;
+  --gutter: clamp(24px, 5vw, 64px);
+  --radius-md: 12px;
+  --radius-lg: 20px;
+}
+
+/* ---------- Reset ---------- */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  font-size: 17px;
+  line-height: 1.55;
+  color: var(--ink);
+  background:
+    radial-gradient(
+      circle at 20% 0%,
+      var(--paper-grad-start) 0%,
+      var(--paper-grad-end) 80%
+    )
+    fixed;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+a:hover {
+  color: var(--accent-deep);
+}
+
+/* ---------- Typography primitives ---------- */
+
+.display {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: clamp(42px, 8vw, 84px);
+  line-height: 1.02;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+}
+
+.section-title {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: clamp(30px, 3.6vw, 46px);
+  line-height: 1.08;
+  letter-spacing: -0.005em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+
+.eyebrow {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ink-mute);
+  margin-bottom: 20px;
+}
+
+.lede {
+  font-size: clamp(18px, 2vw, 20px);
+  line-height: 1.5;
+  color: var(--ink-dim);
+  max-width: 34em;
+}
+
+.body {
+  font-size: 17px;
+  line-height: 1.6;
+  color: var(--ink-dim);
+  max-width: 34em;
+  margin-bottom: 14px;
+}
+
+.body-muted {
+  font-size: 15px;
+  line-height: 1.6;
+  color: var(--ink-mute);
+  max-width: 34em;
+}
+
+strong {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+/* ---------- Hero ---------- */
+
+.hero {
+  padding: clamp(56px, 9vw, 112px) var(--gutter) clamp(32px, 5vw, 56px);
+}
+
+.hero-inner {
+  max-width: var(--container);
+  margin: 0 auto;
+}
+
+.hero-icon {
+  width: 72px;
+  height: 72px;
+  border-radius: 16px;
+  box-shadow:
+    0 1px 2px rgba(42, 31, 24, 0.08),
+    0 8px 24px rgba(42, 31, 24, 0.10);
+  margin-bottom: 28px;
+  display: block;
+}
+
+.hero .lede {
+  margin-top: 24px;
+}
+
+.app-store {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 32px;
+  padding: 14px 22px;
+  background: var(--ink);
+  color: var(--paper);
+  font-family: var(--font-sans);
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: var(--radius-md);
+  transition: background 0.15s ease, transform 0.15s ease;
+}
+
+.app-store:hover {
+  background: var(--accent-deep);
+  color: var(--paper);
+  transform: translateY(-1px);
+}
+
+.app-store-arrow {
+  transition: transform 0.2s ease;
+}
+
+.app-store:hover .app-store-arrow {
+  transform: translate(2px, -2px);
+}
+
+.coming-soon {
+  margin-top: 14px;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-mute);
+}
+
+/* ---------- Screenshot gallery ---------- */
+/*
+ * Desktop: flex row with 3 shots visible, rest off-screen right, horizontal
+ *          scroll via trackpad / shift-scroll.
+ * Mobile: same horizontal scroll, snaps to each shot.
+ * The App Store screenshots are already complete marketing units with
+ * headlines baked in, so they don't need captions or hover states — the
+ * gallery just presents them.
+ */
+
+.gallery {
+  padding: 0 0 clamp(48px, 7vw, 88px);
+  overflow: hidden;
+}
+
+.gallery-track {
+  display: flex;
+  gap: 24px;
+  padding: 0 var(--gutter);
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-padding-inline: var(--gutter);
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE/Edge legacy */
+}
+
+.gallery-track::-webkit-scrollbar {
+  display: none; /* Safari/Chrome */
+}
+
+.shot {
+  flex: 0 0 auto;
+  width: clamp(240px, 22vw, 300px);
+  border-radius: 28px;
+  overflow: hidden;
+  scroll-snap-align: start;
+  box-shadow:
+    0 1px 2px rgba(42, 31, 24, 0.08),
+    0 24px 60px rgba(42, 31, 24, 0.12);
+  background: var(--ink);
+}
+
+.shot img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* ---------- Narrative blocks (text-only feature sections) ---------- */
+
+.narrative {
+  padding: clamp(40px, 5.5vw, 80px) var(--gutter);
+}
+
+.narrative-inner {
+  max-width: var(--container);
+  margin: 0 auto;
+}
+
+/*
+ * Alternating "alt" blocks get a subtle paper-dim band behind them, so the
+ * three narrative sections read as three beats rather than one long column.
+ * The band bleeds edge-to-edge; content stays centered in the container.
+ */
+.narrative--alt {
+  background: var(--paper-dim);
+  border-top: 1px solid var(--rule-soft);
+  border-bottom: 1px solid var(--rule-soft);
+}
+
+/* ---------- Pricing ---------- */
+
+.pricing {
+  padding: clamp(48px, 7vw, 96px) var(--gutter);
+  text-align: center;
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.pricing .eyebrow {
+  display: inline-block;
+}
+
+.pricing .body,
+.pricing .body-muted {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ---------- Footer ---------- */
+
+footer {
+  margin-top: clamp(48px, 7vw, 88px);
+  padding: clamp(32px, 5vw, 56px) var(--gutter);
+  border-top: 1px solid var(--rule-soft);
+  background: var(--paper-dim);
+}
+
+.footer-inner {
+  max-width: var(--container);
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  gap: 24px;
+  align-items: center;
+}
+
+.wordmark-group {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.footer-icon {
+  width: 28px;
+  height: 28px;
+  border-radius: 7px;
+}
+
+.wordmark {
+  font-family: var(--font-serif);
+  font-size: 24px;
+  color: var(--accent);
+  font-weight: 400;
+  letter-spacing: -0.005em;
+}
+
+.footer-nav {
+  display: flex;
+  gap: 28px;
+  justify-content: center;
+}
+
+.footer-nav a {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-mute);
+}
+
+.footer-nav a:hover {
+  color: var(--accent);
+}
+
+.copyright {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  color: var(--ink-mute);
+  text-align: right;
+}
+
+/* ---------- Responsive ---------- */
+
+@media (max-width: 760px) {
+  .shot {
+    /* Narrower than full viewport so the edge of the next screenshot
+       peeks in, signalling "scroll for more" affordance. */
+    width: min(66vw, 320px);
+    border-radius: 22px;
+  }
+
+  .footer-inner {
+    grid-template-columns: 1fr;
+    gap: 20px;
+    text-align: center;
+  }
+
+  .wordmark-group {
+    justify-content: center;
+  }
+
+  .footer-nav {
+    justify-content: center;
+  }
+
+  .copyright {
+    text-align: center;
+  }
+}
+
+/* Dark-mode is intentionally left alone for v1.
+   The app doesn't have a dark theme either — the paper palette is the brand. */

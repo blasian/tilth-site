@@ -1,0 +1,21 @@
+# GitHub Pages config for gettilth.com
+#
+# `index.html` at the repo root is served as the landing page verbatim
+# (no Jekyll theme applied — the file is self-contained with its own
+# CSS). `privacy.md` and `terms.md` continue to render via Jekyll's
+# default markdown processor so the legal pages stay plain and
+# readable.
+
+title: Tilth
+description: A garden tracking app for iPhone. Track your beds, plants, soil, and weather. Get personalized AI diagnoses grounded in your garden's history.
+url: https://gettilth.com
+
+# Keep the default theme for markdown pages only. Jekyll won't touch
+# files that already contain full HTML doctype.
+theme: minima
+
+# Exclude dev / editor noise from the published site.
+exclude:
+  - README.md
+  - .gitignore
+  - .DS_Store
