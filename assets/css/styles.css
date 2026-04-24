@@ -234,10 +234,10 @@ strong {
 .gallery-track {
   display: flex;
   gap: 24px;
-  padding: 0 var(--gutter);
+  padding-inline: max(var(--gutter), calc((100% - var(--container)) / 2));
   overflow-x: auto;
   scroll-snap-type: x mandatory;
-  scroll-padding-inline: var(--gutter);
+  scroll-padding-inline: max(var(--gutter), calc((100% - var(--container)) / 2));
   scrollbar-width: none; /* Firefox */
   -ms-overflow-style: none; /* IE/Edge legacy */
 }
