@@ -13,7 +13,10 @@ This guide covers the most common diagnoses for vegetable and ornamental gardens
 
 ## Contents
 
-1. [Diagnose by symptom](#part-1)
+1. [How diagnosis works](#how-it-works)
+   - [The four questions every diagnosis needs](#four-questions)
+   - [Why generic advice doesn't work](#generic-advice)
+2. [Diagnose by symptom](#part-1)
    - [Yellow leaves](#yellow)
    - [Brown or crispy leaves](#brown)
    - [Wilting despite watering](#wilting)
@@ -22,19 +25,59 @@ This guide covers the most common diagnoses for vegetable and ornamental gardens
    - [Curling leaves](#curling)
    - [Stunted growth](#stunted)
    - [No flowers or no fruit](#no-flowers)
-2. [Cause categories](#part-2)
+3. [Cause categories](#part-2)
    - [Watering problems](#watering)
    - [Sunlight issues](#sunlight)
    - [Nutrient deficiencies](#nutrients)
    - [Pests](#pests)
    - [Diseases](#diseases)
    - [Environmental stress](#environment)
-3. [How to diagnose systematically](#part-3)
-   - [The four questions every diagnosis needs](#four-questions)
-   - [Why generic advice doesn't work](#generic-advice)
+4. [About Tilth](#part-3)
    - [What Tilth does automatically](#what-tilth-does)
    - [The honest version](#honest-version)
-4. [Symptom × plant matrix](#part-4)
+5. [Symptom × plant matrix](#part-4)
+
+---
+
+## How diagnosis works {#how-it-works}
+
+Diagnosing a plant problem isn't really about the symptom — it's about cross-referencing the symptom with everything else going on. The same yellowed leaf could be a dozen different things, and which one it actually is depends on details that mostly live in your head: what species, what soil, what weather, what changed recently. Most diagnostic mistakes come from skipping the cross-reference and matching a symptom to whatever cause feels most familiar.
+
+The framework below is how to do the cross-reference. The next two parts work as reference for applying it: [symptoms](#part-1) when you've spotted something visible, [causes](#part-2) when you have a hypothesis to test.
+
+### The four questions every diagnosis needs {#four-questions}
+
+Whether you're using an app, asking a friend, or thinking it through alone, every plant diagnosis needs answers to four questions. Skip any of them and you're guessing.
+
+**1. What's the species?** The same symptom means different things on different plants. Yellow leaves on a tomato usually point to nitrogen or water. Yellow leaves on kale are often natural senescence — kale sheds bottom leaves as it grows tall and there's nothing wrong. Heat stress on a pepper at 95°F is serious; on okra at 95°F it's normal. Species — and ideally variety — anchors everything else.
+
+**2. What's the local weather been doing?** Most plant problems trace back to something the weather did in the past two weeks. A frost three weeks ago. A heat wave that lasted three days. Nine consecutive days without rain after a wet stretch. Plants integrate weather slowly, so today's symptom often reflects last week's weather — and most people don't remember the weather from three weeks back, let alone how it compares to normal for their zone.
+
+**3. What's the soil situation?** Soil pH controls nutrient availability. Soil composition controls drainage. Fertilizer history controls salt buildup and how much excess nitrogen is in the system. None of this is visible from the surface. *"I don't know my pH"* is itself diagnostic information — it means pH stays on the differential until something rules it out.
+
+**4. What changed recently?** The single most useful diagnostic question, and the one most people skip. Transplanted three weeks ago. Mulched last weekend. Neighbor sprayed Roundup on their lawn. New fertilizer. Switched watering schedules. Removed nearby shade. The plant's "before and after" tells you what it's reacting to — and if you didn't write any of this down, you're guessing.
+
+Asking these four questions for every diagnosis, and remembering the answers across months of growing, is how good diagnosis happens. It's also a lot of cognitive load, which is why most people skip it and either guess or ask a chatbot for a generic checklist.
+
+### Why generic advice doesn't work {#generic-advice}
+
+Without the four questions answered, all you have is a symptom and a list of possibilities. Here's what that looks like in practice.
+
+A typical query: *"My tomato leaves are turning yellow."*
+
+A generic answer — what most search results, articles, and chatbot responses give:
+
+> Possible causes include nitrogen deficiency, overwatering, underwatering, disease (early blight, septoria), nutrient lockout from pH imbalance, pest damage, viral infection, or natural senescence. Try fertilizing, check soil moisture, look for spots on the leaves, consider a soil test.
+
+The user is back where they started — with more options and no clear next step.
+
+A context-aware answer, with the four questions answered:
+
+> Cherokee Purple tomato, planted six weeks ago, transplanted from greenhouse three weeks ago. Soil is heavy clay, pH 6.4, last fertilized two weeks before transplant. Past 14 days: 9 days without rain following 5 days of heavy rain on April 6–10; nighttime lows in the low 50s.
+>
+> Most likely cause: transplant shock compounded by water stress — roots haven't fully established yet, the heavy clay drained slowly after the wet stretch and is now overdrying. The pH is fine, the soil composition is normal, the weather pattern explains the timing. Action this week: water deeply at the soil line, mulch to even out moisture swings, hold off on fertilizer for another two weeks. Expect recovery.
+
+The difference isn't that one is "smarter." Both come from the same kind of language model. The difference is that one has the inputs the diagnosis actually needs and the other doesn't.
 
 ---
 
@@ -327,49 +370,13 @@ Related: [wilting despite watering](#wilting), [brown or crispy leaves](#brown),
 
 ---
 
-## Part 3 — How to diagnose systematically {#part-3}
+## Part 3 — About Tilth {#part-3}
 
-If you've made it this far, you've probably noticed that diagnosing a plant problem isn't really about the symptom — it's about cross-referencing the symptom with everything else going on. The same yellowed leaf could be a dozen different things, and which one it actually is depends on details that mostly live in your head: what species, what soil, what weather, what changed recently. Most diagnostic mistakes come from skipping the cross-reference and matching a symptom to whatever cause feels most familiar.
-
-This part is about how to do that cross-reference systematically — and where Tilth, the iPhone app this guide accompanies, fits in.
-
-### The four questions every diagnosis needs {#four-questions}
-
-Whether you're using an app, asking a friend, or thinking it through alone, every plant diagnosis needs answers to four questions. Skip any of them and you're guessing.
-
-**1. What's the species?** The same symptom means different things on different plants. Yellow leaves on a tomato usually point to nitrogen or water. Yellow leaves on kale are often natural senescence — kale sheds bottom leaves as it grows tall and there's nothing wrong. Heat stress on a pepper at 95°F is serious; on okra at 95°F it's normal. Species — and ideally variety — anchors everything else.
-
-**2. What's the local weather been doing?** Most plant problems trace back to something the weather did in the past two weeks. A frost three weeks ago. A heat wave that lasted three days. Nine consecutive days without rain after a wet stretch. Plants integrate weather slowly, so today's symptom often reflects last week's weather — and most people don't remember the weather from three weeks back, let alone how it compares to normal for their zone.
-
-**3. What's the soil situation?** Soil pH controls nutrient availability. Soil composition controls drainage. Fertilizer history controls salt buildup and how much excess nitrogen is in the system. None of this is visible from the surface. *"I don't know my pH"* is itself diagnostic information — it means pH stays on the differential until something rules it out.
-
-**4. What changed recently?** The single most useful diagnostic question, and the one most people skip. Transplanted three weeks ago. Mulched last weekend. Neighbor sprayed Roundup on their lawn. New fertilizer. Switched watering schedules. Removed nearby shade. The plant's "before and after" tells you what it's reacting to — and if you didn't write any of this down, you're guessing.
-
-Asking these four questions for every diagnosis, and remembering the answers across months of growing, is how good diagnosis happens. It's also a lot of cognitive load, which is why most people skip it and either guess or ask a chatbot for a generic checklist.
-
-### Why generic advice doesn't work {#generic-advice}
-
-Without the four questions answered, all you have is a symptom and a list of possibilities. Here's what that looks like in practice.
-
-A typical query: *"My tomato leaves are turning yellow."*
-
-A generic answer — what most search results, articles, and chatbot responses give:
-
-> Possible causes include nitrogen deficiency, overwatering, underwatering, disease (early blight, septoria), nutrient lockout from pH imbalance, pest damage, viral infection, or natural senescence. Try fertilizing, check soil moisture, look for spots on the leaves, consider a soil test.
-
-The user is back where they started — with more options and no clear next step.
-
-A context-aware answer, with the four questions answered:
-
-> Cherokee Purple tomato, planted six weeks ago, transplanted from greenhouse three weeks ago. Soil is heavy clay, pH 6.4, last fertilized two weeks before transplant. Past 14 days: 9 days without rain following 5 days of heavy rain on April 6–10; nighttime lows in the low 50s.
->
-> Most likely cause: transplant shock compounded by water stress — roots haven't fully established yet, the heavy clay drained slowly after the wet stretch and is now overdrying. The pH is fine, the soil composition is normal, the weather pattern explains the timing. Action this week: water deeply at the soil line, mulch to even out moisture swings, hold off on fertilizer for another two weeks. Expect recovery.
-
-The difference isn't that one is "smarter." Both come from the same kind of language model. The difference is that one has the inputs the diagnosis actually needs and the other doesn't.
+Tilth is an iPhone app I built specifically to log [the four questions](#four-questions) in the background — so when something goes wrong, the diagnosis already has the context. You don't enter the data when the plant is struggling. You've already entered or auto-logged it weeks before.
 
 ### What Tilth does automatically {#what-tilth-does}
 
-This is where Tilth comes in. It's an iPhone app I built specifically to log the four questions in the background — so when something goes wrong, the diagnosis already has the context. You don't enter the data when the plant is struggling. You've already entered or auto-logged it weeks before.
+Each of the four questions maps to something Tilth handles automatically.
 
 **Species — handled when you add the plant.** Add a plant by photo (Claude Vision identifies the species and pre-fills the growing profile) or by name (Tilth looks up sun preference, water needs, pH range, frost tolerance, and days to harvest). The species, variety, and planted date stay with the plant for life.
 
