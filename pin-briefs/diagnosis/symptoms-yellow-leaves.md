@@ -37,4 +37,4 @@ A single yellowing leaf — preferably tomato or pepper, showing the gradient fr
 ## Notes
 - Six bullets is the upper limit — don't add a seventh
 - The "first check" callout is what separates this from a generic checklist — it teaches the reader how to narrow the answer
-- Source content: [/yellow-leaves article](../../yellow-leaves/index.md)
+- Source content: [/yellow-leaves article](../../symptoms/yellow-leaves/index.md)

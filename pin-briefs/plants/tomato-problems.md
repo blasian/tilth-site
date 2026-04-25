@@ -37,4 +37,4 @@ Optional. If included, a single tomato leaf showing one of the symptoms (yellowi
 - The arrows (→) carry the visual rhythm — keep them consistent in style and weight
 - Bold problem names should be in the ink-deep color; the action text in ink-dim
 - The PNW-special note in bullet 4 is what differentiates this from a national tomato pin
-- Source content: [/tomato article](../../tomato/index.md)
+- Source content: [/tomato article](../../plants/tomato/index.md)

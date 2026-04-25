@@ -37,4 +37,4 @@ SOIL     pH 6.0–6.8, well-draining
 ## Notes
 - The variety list is the load-bearing detail — those four names should be readable at thumbnail
 - PNW tomato anxiety is real; the gotcha callout is what makes this pin save-worthy
-- Source content: [/tomato article](../../tomato/index.md)
+- Source content: [/tomato article](../../plants/tomato/index.md)

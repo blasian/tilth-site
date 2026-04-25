@@ -43,4 +43,4 @@ Two side-by-side leaves or plants showing the contrast: one over (limp, soggy so
 - This pin is the strongest diagnostic content in the guide — the "signs are identical" insight is what makes it shareable
 - The two-column layout (over vs. under) is a Pinterest-friendly format that signals "comparison guide" at thumbnail
 - The finger-in-soil gesture is the most Pinterest-friendly visual hook if doing an illustration
-- Source content: [/watering article](../../watering/index.md)
+- Source content: [/watering article](../../causes/watering/index.md)
