@@ -17,7 +17,7 @@ This guide covers the most common diagnoses for vegetable and ornamental gardens
 2. [Diagnose by symptom](#part-1)
 3. [Cause categories](#part-2)
 4. [Symptom × plant matrix](#part-3)
-5. [About Tilth](#part-4)
+5. [The easy way](#part-4)
 
 ---
 
@@ -405,7 +405,7 @@ The terse version. Each cell is the most likely starting hypothesis given just p
 
 ---
 
-## Part 4 — About Tilth {#part-4}
+## Part 4 — The easy way {#part-4}
 
 Tilth is an iPhone app I built specifically to log [the four questions](#four-questions) in the background — so when something goes wrong, the diagnosis already has the context. You don't enter the data when the plant is struggling. You've already entered or auto-logged it weeks before.
 
