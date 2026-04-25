@@ -185,7 +185,11 @@ The classic fix is also the most reliable diagnostic: stick a finger an inch or 
 - Soil pulled away from the edges of the pot
 - Plant noticeably lighter than usual when you lift it
 
-**How to fix:** Stop watering until the soil dries an inch deep. Move overwatered containers off standing water. Check drainage — every container needs a hole, and beds in heavy clay may need amendment. In the PNW, summer dry stretches need real watering, but spring overwatering is the more common mistake.
+**Fix for overwatering:** Stop watering until soil dries an inch deep. Move containers off standing water trays. Check drainage — every container needs a hole, and beds in heavy clay may need compost worked in to break it up. Once a plant is in full root rot (mushy, blackened roots), recovery is unlikely; cut your losses and replant.
+
+**Fix for underwatering:** Water deeply, not often — a long soak that reaches the full root zone beats daily sprinkles, which encourage shallow roots that crash the next time you skip a day. Mulch 2–3 inches deep to slow evaporation. Containers that have dried out completely actually repel water at first; soak the whole pot in a tub for twenty minutes to fully rehydrate. Check soil moisture with your finger before watering, not on a fixed schedule.
+
+In the PNW, summer dry stretches need real watering, but spring overwatering is the more common mistake.
 
 Related: [yellow leaves](#yellow), [wilting despite watering](#wilting), [brown or crispy leaves](#brown).
 
