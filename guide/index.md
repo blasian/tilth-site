@@ -136,13 +136,14 @@ Stunted growth is the hardest single symptom to diagnose because it's a comparis
 **Likely causes:**
 
 - **[Nutrient deficiency](#nutrients)** — most often nitrogen, but phosphorus or potassium can also stall growth. Whole plant pale and small.
+- **[Insufficient sun](#sunlight)** — leggy growth reaching toward light, small thin leaves. Fruiting plants like tomatoes and peppers need at least 6 hours of direct sun; in chronic shade they refuse to size up.
 - **Root-bound (containers)** — pot-grown plants whose roots have circled the pot and choked themselves. Tip the plant out and look.
 - **Soil compaction** — dense, hard soil that roots can't penetrate. Common in raised beds that get walked on or in heavy clay.
 - **[Cool soil](#environment)** — heat-loving plants like peppers and tomatoes refuse to grow until the soil warms past about 60°F. PNW gardens lose six weeks to this every spring.
 - **[Root pests](#pests)** — cutworms, root maggots, or grubs eating below the soil line. Plant looks stalled with no above-ground explanation.
 - **[Transplant shock](#environment)** — recently moved or repotted; recovery can take 2–3 weeks before growth resumes.
 
-**First check:** Compare to siblings. All stunted? It's the bed, the soil, or the season — start with soil temperature and nutrient status. One stunted? It's individual — pull it gently and inspect the roots. White and bushy = healthy, look elsewhere. Brown, mushy, or chewed = root problem. Tightly circled = root-bound; loosen the roots and replant.
+**First check:** Compare to siblings. All stunted? It's the bed, the soil, the spot, or the season — start with sun hours, soil temperature, and nutrient status. One stunted? It's individual — pull it gently and inspect the roots. White and bushy = healthy, look elsewhere. Brown, mushy, or chewed = root problem. Tightly circled = root-bound; loosen the roots and replant.
 
 ### No flowers or no fruit {#no-flowers}
 
@@ -151,13 +152,14 @@ This is the most frustrating symptom because the plant looks fine — leafy, gre
 **Likely causes:**
 
 - **[Too much nitrogen](#nutrients)** — the plant is putting all its energy into leaves at the expense of reproduction. Common after over-fertilizing with high-N fertilizer.
+- **[Insufficient sun](#sunlight)** — fruiting plants in shade make leaves but not flowers. Tomatoes, peppers, and squash need 6+ hours of direct sun to produce; less than that and they'll grow but not bloom.
 - **Insufficient pollination** — flowers form but drop without setting fruit. Common with squash family, peppers, and tomatoes when pollinator activity is low.
 - **[Heat stress](#environment)** — sustained temperatures above ~90°F cause flower drop in tomatoes, peppers, and beans.
 - **[Cool nights](#environment)** — tomatoes specifically need night temperatures above ~55°F to set fruit. PNW summers often hover at the bottom of this range, which is why Seattle tomatoes are a regional anxiety.
 - **Plant immaturity** — some perennials and fruit trees take 1–3 years to bloom. Some annuals need a longer day length than mid-season.
 - **Wrong day length** — onions form bulbs based on photoperiod; certain flowers bloom only when days shorten or lengthen past a threshold.
 
-**First check:** Are there flowers but no fruit? It's a pollination, heat, or temperature problem — none of which mean anything is wrong with the plant itself. No flowers at all on a mature plant? Most likely too much nitrogen or insufficient maturity. For PNW tomatoes specifically: check whether nighttime lows have been above 55°F consistently. If they haven't, that alone explains the absence of fruit, and the plant will catch up the moment the weather does.
+**First check:** Are there flowers but no fruit? It's a pollination, heat, or temperature problem — none of which mean anything is wrong with the plant itself. No flowers at all on a mature plant? Most likely too much nitrogen, too little sun, or insufficient maturity. For PNW tomatoes specifically: check whether nighttime lows have been above 55°F consistently. If they haven't, that alone explains the absence of fruit, and the plant will catch up the moment the weather does.
 
 ---
 
