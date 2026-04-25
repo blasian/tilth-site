@@ -750,6 +750,41 @@ body.guide-page {
   .plant-card { padding: 24px 22px 20px; }
 }
 
+/* Pin embed — Pinterest pin images embedded in articles for recognition
+   (reader from Pinterest sees the same pin again on the landing page)
+   and re-pinning (Pinterest Save button can target embedded pins).
+   Uses native lazy-loading so a reader landing at a deep section only
+   downloads the pins they scroll past. */
+.pin-embed {
+  max-width: 480px;
+  margin: 2.5em auto;
+  display: block;
+}
+
+.pin-embed img {
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius-md);
+  box-shadow:
+    0 1px 3px rgba(42, 31, 24, 0.06),
+    0 6px 18px rgba(42, 31, 24, 0.10);
+}
+
+.pin-embed figcaption {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-mute);
+  margin-top: 12px;
+  text-align: center;
+}
+
+@media (max-width: 640px) {
+  .pin-embed { max-width: 100%; }
+}
+
 /* Tilth callout — used for embedded diagnosis screenshots in context */
 .tilth-callout {
   background: var(--paper-dim);

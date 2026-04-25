@@ -1,6 +1,6 @@
 ---
 filename: tomato-problems.png
-landing-url: https://gettilth.com/plants#tomato
+landing-url: https://gettilth.com/tomato
 title: 5 Most Common Tomato Problems (PNW Guide)
 description: Yellow leaves, curling tops, brown spots, no fruit, blossom end rot — the five most common tomato problems Pacific Northwest gardeners run into, with the first thing to check for each.
 category: plant-problems
@@ -31,10 +31,10 @@ Optional. If included, a single tomato leaf showing one of the symptoms (yellowi
 > Blossom end rot is a calcium *availability* problem (water swings), not a calcium deficiency. Adding calcium won't help if watering is erratic.
 
 ## Footer URL
-`gettilth.com/plants#tomato`
+`gettilth.com/tomato`
 
 ## Notes
 - The arrows (→) carry the visual rhythm — keep them consistent in style and weight
 - Bold problem names should be in the ink-deep color; the action text in ink-dim
 - The PNW-special note in bullet 4 is what differentiates this from a national tomato pin
-- Source content: [/plants#tomato card](../../plants/index.md)
+- Source content: [/tomato article](../../tomato/index.md)

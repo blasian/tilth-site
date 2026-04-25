@@ -41,4 +41,4 @@ A grid or composition showing multiple PNW plants — could be a 4×3 grid of pl
 - This is the "save the whole guide" pin — designed to be saved to "Pacific Northwest Garden" boards
 - The plant list should read clearly at thumbnail — if all 12 don't fit, prioritize the most-searched (tomato, pepper, blueberry, dahlia, rhododendron)
 - Hero quality matters most here since this is the brand entry point — invest design time accordingly
-- Source content: [/plants](../../plants/index.md)
+- Source content: [/plants hub](../../plants/index.md) — links to all 12 per-plant articles
