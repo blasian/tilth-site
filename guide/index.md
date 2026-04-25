@@ -23,6 +23,12 @@ This guide covers the most common diagnoses for vegetable and ornamental gardens
    - [Stunted growth](#stunted)
    - [No flowers or no fruit](#no-flowers)
 2. [Cause categories](#part-2)
+   - [Watering problems](#watering)
+   - [Sunlight issues](#sunlight)
+   - [Nutrient deficiencies](#nutrients)
+   - [Pests](#pests)
+   - [Diseases](#diseases)
+   - [Environmental stress](#environment)
 3. [How to diagnose systematically](#part-3)
 4. [Symptom × plant matrix](#part-4)
 
@@ -157,7 +163,157 @@ This is the most frustrating symptom because the plant looks fine — leafy, gre
 
 ## Part 2 — Cause categories {#part-2}
 
-*Content in progress. This section cross-references the symptoms above to underlying causes: watering problems, sunlight issues, nutrient deficiencies, pests, diseases, and environmental stress.*
+If Part 1 is "what does it look like?", Part 2 is "what's actually causing it?" The same cause can produce different symptoms on different plants, and a single symptom often has multiple possible causes — which is why diagnosis benefits from cross-referencing both layers. Each section below covers what the cause looks like, how to confirm it, how to fix it, and which symptoms it tends to produce.
+
+### Watering problems {#watering}
+
+Most plant problems trace back to water before anything else, and the awkward truth is that **overwatering and underwatering produce nearly identical symptoms** — wilting, yellowing, leaf drop. People often assume "it's wilting, it must be thirsty," water more, and accelerate the actual problem (root rot from saturated soil).
+
+The classic fix is also the most reliable diagnostic: stick a finger an inch or two into the soil. Wet, cool, and heavy = don't water. Dry and dusty = water. In containers especially, the surface and the root zone can disagree; only the deeper check tells the truth.
+
+**Overwatering signs:**
+
+- Wilting in saturated soil (roots have rotted; the plant can't take up water it has plenty of)
+- Uniform yellowing across the plant
+- Mushy stems or soggy soil with a sour, "off" smell
+- Fungus gnats hovering at the soil surface
+
+**Underwatering signs:**
+
+- Wilting that fully recovers within an hour of watering
+- Crispy brown leaf edges
+- Soil pulled away from the edges of the pot
+- Plant noticeably lighter than usual when you lift it
+
+**How to fix:** Stop watering until the soil dries an inch deep. Move overwatered containers off standing water. Check drainage — every container needs a hole, and beds in heavy clay may need amendment. In the PNW, summer dry stretches need real watering, but spring overwatering is the more common mistake.
+
+Related: [yellow leaves](#yellow), [wilting despite watering](#wilting), [brown or crispy leaves](#brown).
+
+### Sunlight issues {#sunlight}
+
+Sun mismatch is one of the easiest causes to verify (just count hours of direct sun) and one of the slowest to recognize, because plants don't crash overnight from too little light — they just refuse to thrive. A tomato in 4 hours of sun won't die; it'll quietly produce 30% of what it would have in 8 hours, and you'll wonder why.
+
+**Too little sun (most common in the PNW):**
+
+- Leggy, stretched-out growth reaching toward the brightest direction
+- Pale, thin leaves
+- Few or no flowers and fruit on plants that should produce
+- Slow overall growth despite adequate water and nutrients
+
+**Too much sun (especially sudden):**
+
+- Whitish bleached patches on top, sun-facing leaves
+- Crispy edges that appear within hours of a hot afternoon
+- Common after moving a plant from indoors or shade to direct sun without hardening off
+
+**How to fix:** Track real direct sun hours, not where the sun is at noon. Most beds get 4 to 8. Keep in mind that PNW sun is also weaker per hour than at lower latitudes — Seattle gardeners with 6 hours of "full sun" often have less effective light than 4 hours in California's Central Valley. For chronic shade, switch crops: leafy greens and herbs handle 4 hours; tomatoes and peppers need at least 6, ideally more. When moving plants from shade to sun, harden off over a week — an hour of direct exposure the first day, two the next, and so on.
+
+Related: [stunted growth](#stunted), [no flowers or no fruit](#no-flowers), [brown or crispy leaves](#brown).
+
+### Nutrient deficiencies {#nutrients}
+
+Plants need three nutrients in large amounts (nitrogen, phosphorus, potassium) and several in smaller amounts (calcium, magnesium, iron, and others). Most deficiencies present as some form of yellowing or distorted growth, and the *pattern* — which leaves, what color, where on the leaf — narrows the cause down quickly.
+
+**Common deficiencies:**
+
+- **Nitrogen** — pale, uniform yellowing of older (bottom) leaves first; the plant is reabsorbing N for new growth.
+- **Phosphorus** — purplish or reddish older leaves, especially in cool spring soils. Slow rooting, slow flowering.
+- **Potassium** — yellow or brown crispy leaf margins on older leaves; fruit may be small or misshapen.
+- **Calcium** — distorted new growth; blossom end rot on tomatoes, peppers, squash (a sunken black patch on the bottom of the fruit).
+- **Magnesium** — interveinal yellowing on older leaves: the leaf veins stay green while the tissue between them yellows.
+- **Iron** — interveinal yellowing on the *newest* leaves (opposite of magnesium). Common in alkaline soils.
+
+**pH lockout:** Sometimes the nutrients are there but unavailable because soil pH is wrong. Most vegetables prefer pH 6.0–7.0. Outside that range, even well-fertilized soil produces deficient plants.
+
+**How to fix:** A soil test (county extension office, $15–30 home kit) once a season beats guessing. For acute issues, the right amendment acts in 1–3 weeks: blood meal for nitrogen, bone meal for phosphorus, dolomite lime to raise pH and add magnesium, kelp meal for trace minerals. Foliar sprays of liquid fish or kelp can buy time while soil amendments take effect.
+
+Related: [yellow leaves](#yellow), [stunted growth](#stunted), [curling leaves](#curling).
+
+### Pests {#pests}
+
+Pests fall into a few functional groups, and identifying which group narrows treatment dramatically. The damage style — chewing, sucking, boring — matters more than knowing the exact species.
+
+**Chewers** leave visible holes, ragged edges, missing tissue.
+
+- **Slugs and snails** — irregular holes, silvery slime trails on leaves and soil. **In the PNW, slugs cause more damage than every other pest combined.** Hand-pick at night with a flashlight, set beer traps, or use iron phosphate (Sluggo).
+- **Caterpillars** (cabbage worms, hornworms, cutworms) — Bt (Bacillus thuringiensis) is selective and effective on most.
+- **Flea beetles** — small shotgun-pattern holes on eggplant, brassicas, radish. Row covers at planting prevent the worst.
+
+**Suckers** pierce plant tissue and drink sap. Damage shows as curling, stunting, yellowing, and sticky residue.
+
+- **Aphids** — clusters on tender new growth. Spray off with strong water; insecticidal soap for persistent infestations.
+- **Spider mites** — fine webbing, tiny pinpricks on leaves. Common in dry, hot conditions.
+- **Whiteflies** — tiny white insects that fly up in clouds when leaves are disturbed.
+
+**Borers** tunnel into stems or fruit.
+
+- Squash vine borer, codling moth (apples and pears). Hard to treat once they're inside; rely on prevention and timing of row covers.
+
+**Soil pests** are invisible above ground.
+
+- Cutworms, root maggots, grubs. Suspect them when seedlings collapse at the soil line or established plants stunt without an obvious above-ground cause.
+
+**How to fix:** Identify the group first, then choose the lightest treatment that works. Hand removal, water sprays, row covers, beneficial insects, and selective sprays (Bt, iron phosphate, neem) cover the vast majority of situations without nuking the rest of the garden's ecosystem.
+
+Related: [holes or chewed leaves](#holes), [curling leaves](#curling), [stunted growth](#stunted).
+
+### Diseases {#diseases}
+
+Plant diseases come from three sources: fungi (by far the most common — roughly 80% of plant disease), bacteria, and viruses. Each looks different, responds to different actions, and rewards prevention over treatment in every case.
+
+**Fungal diseases:**
+
+- **Powdery mildew** — white, dust-like coating on leaves, easy to wipe off. Spreads in humid conditions; very common on PNW squash, zucchini, cucumber, and beans.
+- **Septoria leaf spot, early blight, late blight** — brown spots, often ringed or with yellow halos, on tomatoes and potatoes.
+- **Damping off** — seedling collapse at the soil line, common in cool wet conditions.
+- **Rust** — orange-brown spots on the undersides of leaves, particularly beans, hollyhocks, and garlic.
+
+**Bacterial diseases:**
+
+- **Bacterial spot, bacterial wilt** — water-soaked, greasy-looking spots, often with yellow halos. Spreads fast in warm, wet weather. Plants may collapse rapidly.
+
+**Viral diseases:**
+
+- **Mosaic and leaf curl viruses** — distorted, mottled leaves and stunted growth. No cure exists; remove infected plants to prevent spread.
+
+**How to recognize:** Patterns help more than individual lesions. Spreads fast in wet weather = fungal. Greasy or water-soaked spots = bacterial. Distorted leaves with mottled coloring = viral.
+
+**How to fix:** Most fungal diseases can be slowed but not cured by cultural changes: improve air circulation, water at the soil line instead of overhead, remove infected leaves, mulch to prevent soil from splashing onto leaves. Copper or sulfur sprays help with some fungal infections but won't restore damaged tissue. Bacterial diseases respond poorly to treatment — focus on prevention (clean tools, resistant varieties, crop rotation). Viral diseases require removing the affected plant; there is no recovery.
+
+Related: [yellow leaves](#yellow), [spots](#spots), [wilting despite watering](#wilting).
+
+### Environmental stress {#environment}
+
+When nothing in the plant or soil is obviously wrong, the answer is often "the weather has been weird." Plants integrate weather over weeks, and a single cold snap, heat wave, or wind event from three weeks ago can be the cause of what you're seeing today. This is the cause people most often miss because it requires remembering — or having logged — what the weather was actually doing.
+
+**Heat stress:**
+
+- Wilting at midday that recovers by evening — usually fine, the plant is just conserving water.
+- Sustained 90°F+ days — flower drop on tomatoes and peppers, leaf scorch, and bolt in cool-weather crops (lettuce, spinach, cilantro).
+
+**Cold and frost:**
+
+- Frost burn — limp, wet-looking brown leaves the morning after a freeze, then crispy.
+- Cold soil — peppers and tomatoes refuse to grow until soil warms past about 60°F. PNW spring loses six weeks to this every year.
+
+**Wind:**
+
+- Edge desiccation on the windward side of the plant, especially in containers on exposed balconies.
+- Mechanical damage to brittle stems.
+
+**Transplant shock:**
+
+- Wilting and yellowing for 1–3 weeks after planting — normal, expected.
+- Severe shock from root damage or transplanting in heat — sometimes fatal.
+
+**Drought and flood:**
+
+- Long PNW dry stretches in late July and August stress unirrigated beds harder than people expect.
+- Spring rain on poorly drained soil causes root suffocation. Raise beds or amend with compost to improve drainage.
+
+**How to fix:** Most environmental stress is self-correcting once conditions normalize — the question is whether the plant has enough reserve to wait. Mulch cools soil and holds moisture. Shade cloth helps during heat waves. Frost cloth or row cover protects against cold snaps. Stake or wind-block exposed plants. Plant transplants on overcast days, water them in well, and don't expect production for two weeks.
+
+Related: [wilting despite watering](#wilting), [brown or crispy leaves](#brown), [no flowers or no fruit](#no-flowers).
 
 ---
 
