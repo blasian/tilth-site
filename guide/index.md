@@ -30,6 +30,10 @@ This guide covers the most common diagnoses for vegetable and ornamental gardens
    - [Diseases](#diseases)
    - [Environmental stress](#environment)
 3. [How to diagnose systematically](#part-3)
+   - [The four questions every diagnosis needs](#four-questions)
+   - [Why generic advice doesn't work](#generic-advice)
+   - [What Tilth does automatically](#what-tilth-does)
+   - [The honest version](#honest-version)
 4. [Symptom × plant matrix](#part-4)
 
 ---
@@ -325,7 +329,79 @@ Related: [wilting despite watering](#wilting), [brown or crispy leaves](#brown),
 
 ## Part 3 — How to diagnose systematically {#part-3}
 
-*Content in progress. This section introduces the four questions every diagnosis needs: what's the species, what's the weather been doing, what's the soil situation, and what changed recently. It's where the Tilth app fits in — automating the cross-referencing that otherwise requires memorization or guesswork.*
+If you've made it this far, you've probably noticed that diagnosing a plant problem isn't really about the symptom — it's about cross-referencing the symptom with everything else going on. The same yellowed leaf could be a dozen different things, and which one it actually is depends on details that mostly live in your head: what species, what soil, what weather, what changed recently. Most diagnostic mistakes come from skipping the cross-reference and matching a symptom to whatever cause feels most familiar.
+
+This part is about how to do that cross-reference systematically — and where Tilth, the iPhone app this guide accompanies, fits in.
+
+### The four questions every diagnosis needs {#four-questions}
+
+Whether you're using an app, asking a friend, or thinking it through alone, every plant diagnosis needs answers to four questions. Skip any of them and you're guessing.
+
+**1. What's the species?** The same symptom means different things on different plants. Yellow leaves on a tomato usually point to nitrogen or water. Yellow leaves on kale are often natural senescence — kale sheds bottom leaves as it grows tall and there's nothing wrong. Heat stress on a pepper at 95°F is serious; on okra at 95°F it's normal. Species — and ideally variety — anchors everything else.
+
+**2. What's the local weather been doing?** Most plant problems trace back to something the weather did in the past two weeks. A frost three weeks ago. A heat wave that lasted three days. Nine consecutive days without rain after a wet stretch. Plants integrate weather slowly, so today's symptom often reflects last week's weather — and most people don't remember the weather from three weeks back, let alone how it compares to normal for their zone.
+
+**3. What's the soil situation?** Soil pH controls nutrient availability. Soil composition controls drainage. Fertilizer history controls salt buildup and how much excess nitrogen is in the system. None of this is visible from the surface. *"I don't know my pH"* is itself diagnostic information — it means pH stays on the differential until something rules it out.
+
+**4. What changed recently?** The single most useful diagnostic question, and the one most people skip. Transplanted three weeks ago. Mulched last weekend. Neighbor sprayed Roundup on their lawn. New fertilizer. Switched watering schedules. Removed nearby shade. The plant's "before and after" tells you what it's reacting to — and if you didn't write any of this down, you're guessing.
+
+Asking these four questions for every diagnosis, and remembering the answers across months of growing, is how good diagnosis happens. It's also a lot of cognitive load, which is why most people skip it and either guess or ask a chatbot for a generic checklist.
+
+### Why generic advice doesn't work {#generic-advice}
+
+Without the four questions answered, all you have is a symptom and a list of possibilities. Here's what that looks like in practice.
+
+A typical query: *"My tomato leaves are turning yellow."*
+
+A generic answer — what most search results, articles, and chatbot responses give:
+
+> Possible causes include nitrogen deficiency, overwatering, underwatering, disease (early blight, septoria), nutrient lockout from pH imbalance, pest damage, viral infection, or natural senescence. Try fertilizing, check soil moisture, look for spots on the leaves, consider a soil test.
+
+The user is back where they started — with more options and no clear next step.
+
+A context-aware answer, with the four questions answered:
+
+> Cherokee Purple tomato, planted six weeks ago, transplanted from greenhouse three weeks ago. Soil is heavy clay, pH 6.4, last fertilized two weeks before transplant. Past 14 days: 9 days without rain following 5 days of heavy rain on April 6–10; nighttime lows in the low 50s.
+>
+> Most likely cause: transplant shock compounded by water stress — roots haven't fully established yet, the heavy clay drained slowly after the wet stretch and is now overdrying. The pH is fine, the soil composition is normal, the weather pattern explains the timing. Action this week: water deeply at the soil line, mulch to even out moisture swings, hold off on fertilizer for another two weeks. Expect recovery.
+
+The difference isn't that one is "smarter." Both come from the same kind of language model. The difference is that one has the inputs the diagnosis actually needs and the other doesn't.
+
+### What Tilth does automatically {#what-tilth-does}
+
+This is where Tilth comes in. It's an iPhone app I built specifically to log the four questions in the background — so when something goes wrong, the diagnosis already has the context. You don't enter the data when the plant is struggling. You've already entered or auto-logged it weeks before.
+
+**Species — handled when you add the plant.** Add a plant by photo (Claude Vision identifies the species and pre-fills the growing profile) or by name (Tilth looks up sun preference, water needs, pH range, frost tolerance, and days to harvest). The species, variety, and planted date stay with the plant for life.
+
+<!-- screenshot: Add Plant flow showing photo identification and auto-filled profile -->
+
+**Weather — auto-logged in the background.** Tilth uses Apple's WeatherKit to record local conditions every day: temps, rainfall, humidity, frost events. The first time you use it, the app backfills the past two weeks of historical weather so the diagnostic context is full from day one. You never enter weather data — it's just there.
+
+<!-- screenshot: Weather tab showing 14-day rainfall, forecast, and condition alerts -->
+
+**Soil — per bed, once.** Each bed gets a soil profile: composition (clay, loam, sand percentages), pH, drainage rating, and amendments over time. You fill it out once when you set up the bed and update it when you amend or test. Most people fill it in incrementally over a season, which works fine — Tilth tells you what's missing if a diagnosis would benefit from more.
+
+<!-- screenshot: Bed detail showing soil profile, readings, amendments -->
+
+**Recent changes — captured by photo check-ins.** This is where most apps stop being useful. Tilth lets you check in on a plant with a photo, optional note, and action tags: Watered, Fertilized, Pruned, Harvested, or a custom label. Each check-in is timestamped with the local weather at the time. Months later, the activity log shows exactly what was happening in the days leading up to a problem.
+
+<!-- screenshot: Check-in wizard with photo, note, and action tags -->
+
+**The diagnosis — one tap.** When you ask "why isn't this growing?", Tilth assembles all four layers — species, weather, soil, recent activity — plus your specific concern, and sends it as a structured payload to Claude. What comes back is a ranked differential diagnosis with the specific evidence cited: *"Based on 9 days without rain following the April 6 storm, your clay soil drainage profile, and the transplant from April 17, the most likely cause is transplant shock with water stress."*
+
+<!-- screenshot: Diagnosis result card showing likely causes, evidence, action, and gaps -->
+
+Not a chat window. Not a checklist. A specific diagnosis with the data it used.
+
+### The honest version {#honest-version}
+
+Tilth isn't magic. The LLM doing the reasoning is the same one anyone can query through ChatGPT. What makes Tilth different isn't the model — it's the structured context the app builds: weather, soil, species, recent activity, all assembled automatically and sent as input the model can actually reason over.
+
+Pricing reflects that. Tilth is free to log unlimited plants, take unlimited check-in photos, and see weather alerts and condition warnings on up to three beds. The diagnostic feature is the premium part: three free diagnoses a month, then $4.99/month or $29.99/year for unlimited diagnoses and unlimited beds.
+
+There's no account. No cloud sync. No email signup. Your garden data lives in a local database on your phone. Cancel the subscription and the data stays — there's nothing in anyone else's hands to lose.
+
+If the four questions changed how you think about diagnosis, Tilth is the easy version of doing them every day. If they didn't, the guide is yours to keep regardless.
 
 ---
 
