@@ -400,3 +400,311 @@ footer {
 
 /* Dark-mode is intentionally left alone for v1.
    The app doesn't have a dark theme either — the paper palette is the brand. */
+
+
+/* ============================================================
+   Guide page — article layout + prose typography
+   Scoped with body.guide-page so landing-page rules are untouched.
+   ============================================================ */
+
+body.guide-page {
+  font-family: var(--font-sans);
+}
+
+/* Top bar: back link */
+.guide-header {
+  padding: 20px var(--gutter);
+  border-bottom: 1px solid var(--rule-soft);
+}
+
+.guide-back {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ink-mute);
+}
+
+.guide-back:hover {
+  color: var(--ink);
+}
+
+/* Article shell */
+.guide {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: clamp(56px, 9vw, 96px) var(--gutter) clamp(64px, 8vw, 96px);
+}
+
+/* Intro block */
+.guide-intro {
+  margin-bottom: 56px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid var(--rule-soft);
+}
+
+.guide-intro .eyebrow {
+  margin-bottom: 16px;
+}
+
+.guide-intro h1 {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: clamp(36px, 5.5vw, 58px);
+  line-height: 1.05;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+  margin-bottom: 20px;
+}
+
+.guide-intro .lede {
+  max-width: none;
+  margin-top: 8px;
+}
+
+/* Prose body */
+.guide-body {
+  color: var(--ink);
+}
+
+.guide-body p {
+  font-family: var(--font-sans);
+  font-size: 18px;
+  line-height: 1.75;
+  color: var(--ink-dim);
+  margin-bottom: 1.2em;
+}
+
+.guide-body p > em:first-child:last-child,
+.guide-body p.intro-em {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 20px;
+  line-height: 1.55;
+  color: var(--ink);
+}
+
+.guide-body > :first-child {
+  margin-top: 0;
+}
+
+.guide-body h2 {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: clamp(28px, 3.6vw, 40px);
+  line-height: 1.12;
+  letter-spacing: -0.005em;
+  color: var(--ink);
+  margin-top: 2.4em;
+  margin-bottom: 0.6em;
+  scroll-margin-top: 24px;
+}
+
+.guide-body h3 {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  font-size: clamp(22px, 2.6vw, 28px);
+  line-height: 1.2;
+  color: var(--ink);
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+  scroll-margin-top: 24px;
+}
+
+.guide-body h4 {
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--ink-mute);
+  margin-top: 1.8em;
+  margin-bottom: 0.5em;
+}
+
+.guide-body ul,
+.guide-body ol {
+  margin: 0.6em 0 1.4em;
+  padding-left: 1.4em;
+}
+
+.guide-body li {
+  font-family: var(--font-sans);
+  font-size: 18px;
+  line-height: 1.7;
+  color: var(--ink-dim);
+  margin-bottom: 0.4em;
+}
+
+.guide-body li > strong:first-child {
+  color: var(--ink);
+}
+
+.guide-body blockquote {
+  border-left: 3px solid var(--accent);
+  padding: 0.2em 0 0.2em 1.2em;
+  margin: 1.8em 0;
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 20px;
+  line-height: 1.5;
+  color: var(--ink);
+}
+
+.guide-body hr {
+  border: none;
+  border-top: 1px solid var(--rule-soft);
+  margin: 3em 0;
+}
+
+.guide-body figure {
+  margin: 2em 0;
+}
+
+.guide-body figure img {
+  width: 100%;
+  border-radius: var(--radius-md);
+  box-shadow:
+    0 1px 2px rgba(42, 31, 24, 0.06),
+    0 6px 18px rgba(42, 31, 24, 0.08);
+}
+
+.guide-body figcaption {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-mute);
+  margin-top: 12px;
+  text-align: center;
+}
+
+.guide-body code {
+  font-family: var(--font-mono);
+  font-size: 0.92em;
+  background: var(--paper-dim);
+  padding: 2px 6px;
+  border-radius: 4px;
+  color: var(--ink);
+}
+
+.guide-body pre {
+  background: var(--paper-dim);
+  border: 1px solid var(--rule-soft);
+  border-radius: var(--radius-md);
+  padding: 16px 20px;
+  overflow-x: auto;
+  margin: 1.6em 0;
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+.guide-body pre code {
+  background: none;
+  padding: 0;
+}
+
+.guide-body a {
+  color: var(--accent);
+  border-bottom: 1px solid var(--accent-dim);
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+
+.guide-body a:hover {
+  color: var(--accent-deep);
+  border-bottom-color: var(--accent);
+}
+
+.guide-body strong {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.guide-body em {
+  font-style: italic;
+}
+
+/* Tables (for the symptom × plant matrix and similar) */
+.guide-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2em 0;
+  font-size: 15px;
+}
+
+.guide-body th,
+.guide-body td {
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--rule-soft);
+  text-align: left;
+  vertical-align: top;
+}
+
+.guide-body th {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-mute);
+}
+
+.guide-body td {
+  color: var(--ink-dim);
+}
+
+/* Tilth callout — used for embedded diagnosis screenshots in context */
+.tilth-callout {
+  background: var(--paper-dim);
+  border: 1px solid var(--rule-soft);
+  border-radius: var(--radius-lg);
+  padding: 28px;
+  margin: 2.5em 0;
+}
+
+.tilth-callout .eyebrow {
+  margin-bottom: 10px;
+}
+
+.tilth-callout p {
+  margin-bottom: 12px;
+}
+
+.tilth-callout figure {
+  margin: 16px 0 0;
+}
+
+/* Outro — app CTA */
+.guide-outro {
+  margin-top: 96px;
+  padding-top: 56px;
+  border-top: 1px solid var(--rule-soft);
+  text-align: left;
+}
+
+.guide-outro .eyebrow {
+  margin-bottom: 16px;
+}
+
+.guide-outro h2 {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: clamp(30px, 4vw, 46px);
+  line-height: 1.1;
+  letter-spacing: -0.005em;
+  color: var(--ink);
+  margin-bottom: 20px;
+}
+
+.guide-outro .lede {
+  max-width: none;
+}
+
+/* Responsive adjustments */
+@media (max-width: 640px) {
+  .guide-body p,
+  .guide-body li { font-size: 17px; line-height: 1.7; }
+  .guide-body blockquote { font-size: 18px; }
+}
+

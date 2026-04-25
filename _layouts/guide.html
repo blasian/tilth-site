@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }}</title>
+  <meta name="description" content="{{ page.description }}">
+
+  <!-- Open Graph / social sharing -->
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:description" content="{{ page.description }}">
+  <meta property="og:url" content="https://gettilth.com{{ page.url }}">
+  <meta property="og:type" content="article">
+  <meta property="og:image" content="https://gettilth.com/assets/OG-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://gettilth.com/assets/OG-image.png">
+
+  <!-- JSON-LD Article schema for SEO -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": {{ page.title | jsonify }},
+    "description": {{ page.description | jsonify }},
+    "author": {
+      "@type": "Person",
+      "name": "Mike Spearman"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Tilth",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://gettilth.com/assets/app-icon.png"
+      }
+    },
+    "datePublished": "{{ page.date | default: site.time | date_to_xmlschema }}",
+    "dateModified": "{{ page.date | default: site.time | date_to_xmlschema }}",
+    "image": "https://gettilth.com/assets/OG-image.png",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://gettilth.com{{ page.url }}"
+    }
+  }
+  </script>
+
+  <link rel="icon" type="image/png" sizes="512x512" href="/assets/app-icon.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/styles.css">
+</head>
+<body class="guide-page">
+
+  <header class="guide-header">
+    <a href="/" class="guide-back">← Tilth</a>
+  </header>
+
+  <article class="guide">
+    <header class="guide-intro">
+      <p class="eyebrow">THE GUIDE</p>
+      <h1>{{ page.title }}</h1>
+      {% if page.description %}<p class="lede">{{ page.description }}</p>{% endif %}
+    </header>
+
+    <div class="guide-body">
+      {{ content }}
+    </div>
+
+    <footer class="guide-outro">
+      <p class="eyebrow">GET TILTH</p>
+      <h2>Let the app do the<br>cross-referencing.</h2>
+      <p class="lede">
+        Every diagnosis in this guide depends on context — plant species,
+        local weather, soil conditions, what changed recently. Tilth logs
+        all of it automatically and assembles it into a personalized
+        diagnosis when something's going wrong.
+      </p>
+      <a class="app-store" href="https://apps.apple.com/us/app/tilth-garden-tracker/id6762918811" aria-label="Download Tilth on the App Store">
+        <span>Download on the App Store</span>
+        <svg class="app-store-arrow" width="14" height="14" viewBox="0 0 24 24"
+             fill="none" stroke="currentColor" stroke-width="2"
+             stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M7 17L17 7M17 7H7M17 7V17"/>
+        </svg>
+      </a>
+    </footer>
+  </article>
+
+  <footer>
+    <div class="footer-inner">
+      <div class="wordmark-group">
+        <img class="footer-icon" src="/assets/app-icon.png" alt="" width="28" height="28">
+        <p class="wordmark">Tilth</p>
+      </div>
+      <nav class="footer-nav">
+        <a href="/privacy">Privacy</a>
+        <a href="/terms">Terms</a>
+        <a href="mailto:mikespearman.e@gmail.com">Support</a>
+      </nav>
+      <p class="copyright">© 2026 Mike Spearman. Made in Seattle.</p>
+    </div>
+  </footer>
+
+</body>
+</html>
