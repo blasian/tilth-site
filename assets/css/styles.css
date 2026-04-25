@@ -698,6 +698,58 @@ body.guide-page {
   color: var(--ink-dim);
 }
 
+/* Plant cards — Part 3 PNW plant guide.
+   Each card is screenshot-ready for Pinterest pin generation, with a
+   distinct visual treatment from the rest of the article body. */
+.plant-card {
+  background: var(--paper);
+  border: 1px solid var(--rule-soft);
+  border-radius: var(--radius-lg);
+  padding: 32px 36px 24px;
+  margin: 2.5em 0;
+  box-shadow:
+    0 1px 3px rgba(42, 31, 24, 0.04),
+    0 6px 18px rgba(42, 31, 24, 0.06);
+}
+
+.plant-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.5em;
+  color: var(--accent-deep);
+}
+
+.plant-card .card-label {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-mute);
+  margin-top: 1.6em;
+  margin-bottom: 0.4em;
+}
+
+.plant-card ul {
+  margin-top: 0.4em;
+  margin-bottom: 1em;
+}
+
+.plant-card .card-footer {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  color: var(--ink-mute);
+  margin-top: 1.6em;
+  margin-bottom: 0;
+  text-align: right;
+  border-top: 1px solid var(--rule-soft);
+  padding-top: 14px;
+}
+
+@media (max-width: 640px) {
+  .plant-card { padding: 24px 22px 20px; }
+}
+
 /* Tilth callout — used for embedded diagnosis screenshots in context */
 .tilth-callout {
   background: var(--paper-dim);

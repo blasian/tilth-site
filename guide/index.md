@@ -1,22 +1,22 @@
 ---
 layout: guide
-title: "What's Wrong With My Plant? A Complete Diagnosis Guide"
-description: "A comprehensive guide to identifying and fixing common plant problems in vegetable and ornamental gardens — organized by symptom, cause, and plant type."
+title: "The Pacific Northwest Plant Diagnosis Guide"
+description: "How to diagnose what's going wrong in PNW vegetable, fruit, and ornamental gardens — with growing notes for the twelve most-asked-about plants and the regional gotchas they all share."
 permalink: /guide/
 ---
 
-*Your tomato leaves are yellow. Or your pepper plant looks stunted. Or there are holes in everything overnight.*
+*Your tomato leaves are yellow. Your pepper plant looks stunted. Slugs are eating everything overnight.*
 
 Most plant problems are one of about thirty things. The trick isn't memorizing them — it's knowing how to triangulate between symptom, weather, soil, and plant species fast enough to act before the plant actually dies.
 
-This guide covers the most common diagnoses for vegetable and ornamental gardens, organized by what you're seeing, with cross-references to the underlying cause categories. Save it. You'll come back.
+This guide covers the most common diagnoses for Pacific Northwest vegetable, fruit, and ornamental gardens — organized by what you're seeing, with cross-references to the underlying cause categories and a regional plant guide for the twelve plants PNW gardeners ask about most. Save it. You'll come back.
 
 ## Contents
 
 1. [How diagnosis works](#how-it-works)
 2. [Diagnose by symptom](#part-1)
 3. [Cause categories](#part-2)
-4. [Symptom × plant matrix](#part-3)
+4. [PNW plant guide](#part-3)
 5. [The easy way](#part-4)
 
 ---
@@ -352,56 +352,318 @@ Related: [wilting despite watering](#wilting), [brown or crispy leaves](#brown),
 
 ---
 
-## Part 3 — Symptom × plant matrix {#part-3}
+## Part 3 — PNW plant guide {#part-3}
 
-The most common diagnostic question on gardening forums starts with *"why is my [specific plant] doing [specific thing]."* This part is the cheat sheet for that question — narrowed to twelve common garden plants and the symptoms each gets most often, with the regional and timing patterns that the symptom-and-cause sections couldn't carry.
+Twelve plants PNW gardeners ask about most — vegetables, fruits, and shrubs that thrive (or struggle) in our specific cool-summer-wet-winter climate. Each card has the practical growing notes plus the most common diagnostic patterns and a regional gotcha worth knowing before things go wrong.
 
-**A caveat up front: this is a starting point, not a diagnosis.** A matrix can tell you what's *most likely* given two facts (plant and symptom). It can't tell you what's *actually* happening without [the four questions](#four-questions) — species alone won't distinguish water stress from root rot, or normal senescence from disease. Treat each entry as the first hypothesis to check, then confirm with weather, soil, and recent context.
+These are starting points. Each entry tells you what's *most likely* given the plant; [the four questions](#four-questions) are still required to confirm.
 
-### By plant {#by-plant}
+<div class="plant-card" markdown="1">
 
-**Tomato.** Yellow lower leaves are usually nitrogen or water — check soil moisture before fertilizing. Curling upper leaves in summer = heat stress or herbicide drift. Brown spots with yellow halos = septoria leaf spot; start removing affected leaves at the bottom. Cool PNW summers cause flower drop and slow ripening — confirm nighttime lows are above 55°F before assuming the plant is sick. Blossom end rot is a calcium *availability* issue, not a deficiency — caused by inconsistent watering, not low calcium in the soil.
+### Tomato {#tomato}
 
-**Pepper.** Pale, stunted, no growth in spring = cool soil; peppers won't move until soil warms past 60°F. Flower drop in summer = sustained heat above 90°F. Tiny shotgun holes in leaves = flea beetles, especially on young plants. Yellow lower leaves later in the season = nitrogen depletion as fruit set begins.
+PNW tomatoes are a regional anxiety. Cool summers slow ripening and short nights drop fruit set — choose early varieties and accept that a Black Krim might not finish in time.
 
-**Squash and zucchini.** White powdery patches on leaves = powdery mildew, almost guaranteed in PNW humidity by August — improve air circulation, avoid overhead watering. Sudden wilting of a whole plant = squash vine borer (slit the stem to find the larva) or bacterial wilt vectored by cucumber beetles. Holes in leaves and stems = cucumber beetles directly.
+<p class="card-label">Quick facts</p>
 
-**Cucumber.** Powdery mildew (white dust) and downy mildew (yellow patches with purple-gray undersides) are the two main diseases. Bitter fruit = water stress, heat, or both. No fruit despite abundant flowers = pollination problem, or just early — cucumbers put out male flowers first and need a few days before female flowers appear.
+- **Plant:** transplant after May 1, once nights stay above 50°F
+- **Sun:** 8+ hours direct (PNW sun is weaker per hour than at lower latitudes)
+- **Water:** 1–2 inches/week, deep, mulched heavily
+- **Soil:** pH 6.0–6.8, well-draining, compost-rich
 
-**Lettuce.** Bolting — sending up a flower stalk and going bitter — is heat-driven and ends the harvest window. Slug damage shows as irregular holes with slime trails on leaves. Leaves wilting in afternoon heat that recover overnight is normal. Bottom rot in heavy clay = a drainage problem, not a watering one.
+<p class="card-label">Common problems</p>
 
-**Kale and cabbage.** Holes everywhere = cabbage worms (green caterpillars on the underside) or cabbage loopers — Bt is the standard treatment. Yellow lower leaves on kale are often natural senescence as the plant grows tall, not a problem. Stunted growth with swollen, clubbed roots = clubroot disease, common in acidic soils with poor crop rotation.
+- **Yellow lower leaves** — usually water or nitrogen. Check soil moisture before fertilizing.
+- **Curling upper leaves in summer** — heat stress or herbicide drift.
+- **Brown spots with yellow halos** — septoria leaf spot. Remove affected leaves at the bottom.
+- **No fruit despite flowers** — cool nights below 55°F. Confirm temps before assuming the plant is sick.
+- **Sunken black patch on fruit bottom** — blossom end rot from inconsistent watering.
 
-**Beans.** Orange spots on the undersides of leaves = rust, common in wet weather. Yellow leaves on bush beans late in the season = the plant finishing its life cycle. Aphid clusters on growing tips = wash off with strong water; insecticidal soap if persistent.
+**PNW gotcha:** Choose early-ripening varieties — Sungold, Stupice, Cherokee Purple, Early Girl. Beefsteaks and most Italian types won't finish in a Seattle summer.
 
-**Eggplant.** Tiny shotgun holes in leaves = flea beetles, the dominant pest, especially on young plants — row covers at planting prevent the worst. Wilting in heat that recovers overnight is normal. No fruit despite flowers = cool nights, insufficient pollination, or the plant still maturing.
+<p class="card-footer">gettilth.com/guide#tomato</p>
 
-**Zinnia.** Powdery mildew (white dust on leaves) is the dominant disease — improve air circulation and water at the soil level instead of overhead. Bleached leaf edges with crispy margins = fertilizer burn, the classic salt-damage signature. Lots of leaves but few flowers = insufficient sun (zinnias want 6+ hours direct) or too much nitrogen.
+</div>
 
-**Marigold.** Generally trouble-free — most diagnostic questions about marigolds turn out to be normal. Aphids on flower buds are the most common real issue. Spider mites can show up in dry, hot stretches. Slugs mostly leave them alone compared to other annuals.
+<div class="plant-card" markdown="1">
 
-**Dahlia.** Slug damage to young foliage is the dominant PNW issue — protect at sprout time before the plant establishes. Powdery mildew on leaves shows up late season. No blooms despite leafy growth = too much nitrogen, too little sun, or both.
+### Pepper {#pepper}
 
-**Sunflower.** Rust (orange spots on lower leaves) is the most common disease, especially late in the season. Slug damage at the seedling stage will end the plant — protect young plants the first few weeks. Bird damage to seed heads in late summer is expected and mostly unsolvable without netting.
+Stubbornly heat-loving in a region that doesn't reliably deliver heat. Bell peppers struggle the most; small-fruited types are way more reliable.
 
-### Quick reference {#quick-reference}
+<p class="card-label">Quick facts</p>
 
-The terse version. Each cell is the most likely starting hypothesis given just plant and symptom — confirm with [the four questions](#four-questions) before acting.
+- **Plant:** transplant after May 15–20, when soil reaches 60°F. Black plastic mulch helps significantly.
+- **Sun:** 8+ hours direct, every available beam
+- **Water:** 1 inch/week — less than tomatoes, especially during fruit set
+- **Soil:** pH 6.5–7.0, well-draining
 
-| Plant | Yellow leaves | Holes / chewed | Spots | Wilting | No flowers / fruit |
-|---|---|---|---|---|---|
-| **Tomato** | water or N | hornworm | septoria, blight | root rot | cool nights, heat |
-| **Pepper** | cool soil, N | flea beetle | bacterial spot | root rot | heat, cool nights |
-| **Squash** | water | cucumber beetle | powdery mildew | vine borer, bacterial wilt | pollination |
-| **Cucumber** | water | cucumber beetle | powdery / downy mildew | bacterial wilt | male-only flowers (early) |
-| **Lettuce** | bolting heat | slugs | downy mildew | heat (recovers) | bolted |
-| **Kale** | senescence | cabbage worms | downy mildew | clubroot | — |
-| **Beans** | end of cycle | bean beetle | rust | wilt disease | heat |
-| **Eggplant** | water, N | flea beetle | verticillium | wilt disease | cool nights |
-| **Zinnia** | overwatering | uncommon | powdery mildew | uncommon | low sun, excess N |
-| **Marigold** | water | aphids on buds | uncommon | uncommon | — |
-| **Dahlia** | water | slugs | powdery mildew | tuber rot | too much N |
-| **Sunflower** | end of cycle | slugs | rust | wilt disease | — |
+<p class="card-label">Common problems</p>
+
+- **Pale, stunted, no growth in spring** — cool soil. Peppers won't grow until soil reliably warms past 60°F.
+- **Flower drop in summer** — sustained heat above 90°F.
+- **Tiny shotgun holes in leaves** — flea beetles, especially on young plants.
+- **Yellow lower leaves later in season** — nitrogen depletion as fruit set begins.
+
+**PNW gotcha:** Use row cover or black plastic mulch to add 5–10°F of soil temperature. Choose smaller-fruited varieties (jalapeño, shishito, hot peppers) over bell types.
+
+<p class="card-footer">gettilth.com/guide#pepper</p>
+
+</div>
+
+<div class="plant-card" markdown="1">
+
+### Squash & zucchini {#squash}
+
+Summer squash thrives in PNW summers despite the mildew. Winter squash often runs out of season before maturing — pick short-season varieties or skip them.
+
+<p class="card-label">Quick facts</p>
+
+- **Plant:** direct seed late May or transplant in early June, after last frost
+- **Sun:** 6+ hours direct
+- **Water:** 1–1.5 inches/week, deep, water at soil level
+- **Soil:** pH 6.0–7.0, rich compost, well-draining
+
+<p class="card-label">Common problems</p>
+
+- **White powdery patches on leaves** — powdery mildew. Improve air circulation, water at soil level only.
+- **Sudden wilting of whole plant** — squash vine borer (slit the stem to find the larva) or bacterial wilt vectored by cucumber beetles.
+- **Holes in leaves and stems** — cucumber beetles directly. Treat early to prevent bacterial wilt spread.
+
+**PNW gotcha:** Powdery mildew is nearly guaranteed by August. For winter squash, choose short-season varieties (Delicata, Honey Bear) over long-season Hubbards.
+
+<p class="card-footer">gettilth.com/guide#squash</p>
+
+</div>
+
+<div class="plant-card" markdown="1">
+
+### Cucumber {#cucumber}
+
+Easier than squash but still mildew-prone. Pickling varieties tolerate PNW conditions better than long-fruited slicers.
+
+<p class="card-label">Quick facts</p>
+
+- **Plant:** transplant late May or direct seed when soil reaches 65°F
+- **Sun:** 6+ hours direct
+- **Water:** 1–2 inches/week, consistent — water swings cause bitter fruit
+- **Soil:** pH 6.0–7.0, well-amended, well-draining
+
+<p class="card-label">Common problems</p>
+
+- **Powdery mildew (white) or downy mildew (yellow patches with purple-gray undersides)** — the two main diseases. Improve airflow and water at soil level.
+- **Bitter fruit** — water stress or heat. Maintain consistent moisture.
+- **No fruit despite flowers** — pollination problem, or just early. Cucumbers put out male flowers first; female flowers come a few days later.
+
+**PNW gotcha:** Pickling cucumbers are way more forgiving than slicers. If your slicers struggle, switch.
+
+<p class="card-footer">gettilth.com/guide#cucumber</p>
+
+</div>
+
+<div class="plant-card" markdown="1">
+
+### Lettuce {#lettuce}
+
+PNW is excellent lettuce country — long cool seasons in spring and fall. The hard part is summer.
+
+<p class="card-label">Quick facts</p>
+
+- **Plant:** transplant March–April for spring; direct seed August–September for fall
+- **Sun:** 4–6 hours direct, partial shade welcome in summer
+- **Water:** 1–1.5 inches/week, consistent
+- **Soil:** pH 6.0–7.0, well-amended
+
+<p class="card-label">Common problems</p>
+
+- **Bolting (sending up a flower stalk)** — heat-driven, ends the harvest window. Choose heat-tolerant varieties for summer.
+- **Slug damage** — irregular holes with slime trails. Iron phosphate or hand-pick at night.
+- **Wilting in afternoon heat that recovers overnight** — normal, harmless.
+- **Bottom rot** — drainage problem in heavy clay. Raise the bed or amend with compost.
+
+**PNW gotcha:** Plant lettuce twice a year and skip July–August. Buttercrunch and Black-Seeded Simpson handle PNW conditions well.
+
+<p class="card-footer">gettilth.com/guide#lettuce</p>
+
+</div>
+
+<div class="plant-card" markdown="1">
+
+### Kale {#kale}
+
+PNW kale is a marvel — survives PNW winters with minimal protection and tastes sweeter after frost.
+
+<p class="card-label">Quick facts</p>
+
+- **Plant:** transplant April–May for spring; July–August for fall and overwintering
+- **Sun:** 4–6 hours direct, full sun ideal
+- **Water:** 1–1.5 inches/week
+- **Soil:** pH 6.0–7.5 (slight alkalinity tolerated, helps prevent clubroot)
+
+<p class="card-label">Common problems</p>
+
+- **Holes everywhere** — cabbage worms (green caterpillars on the underside) or cabbage loopers. Bt is the standard treatment.
+- **Yellow lower leaves** — often natural senescence as the plant grows tall, not a problem.
+- **Stunted growth with swollen, clubbed roots** — clubroot disease. Common in acidic soils with poor crop rotation.
+
+**PNW gotcha:** Cover with frost cloth October–March for winter harvest. Lacinato (dinosaur) and Red Russian overwinter best in PNW.
+
+<p class="card-footer">gettilth.com/guide#kale</p>
+
+</div>
+
+<div class="plant-card" markdown="1">
+
+### Garlic {#garlic}
+
+A PNW signature crop. Plant in October, harvest in July. Hardneck varieties dominate here.
+
+<p class="card-label">Quick facts</p>
+
+- **Plant:** plant cloves October–November, 4 inches deep, mulched heavily
+- **Sun:** 6+ hours direct
+- **Water:** 1 inch/week April–June; stop watering 2 weeks before harvest
+- **Soil:** pH 6.0–7.0, very well-draining
+
+<p class="card-label">Common problems</p>
+
+- **Yellowing leaves in early summer** — natural; means harvest is approaching.
+- **Bulbs rotted at harvest** — drainage issue. Plant in raised beds or amend heavily.
+- **Tiny bulbs at harvest** — planted too late, soil too poor, or didn't fertilize in spring.
+
+**PNW gotcha:** Hardneck varieties (Music, Chesnok Red, Spanish Roja) outperform softneck in PNW. Mulch heavily to insulate winter cloves and suppress spring weeds.
+
+<p class="card-footer">gettilth.com/guide#garlic</p>
+
+</div>
+
+<div class="plant-card" markdown="1">
+
+### Strawberries {#strawberries}
+
+Junebearers thrive in PNW; everbearers struggle. Slugs are the persistent enemy.
+
+<p class="card-label">Quick facts</p>
+
+- **Plant:** transplant bare-root crowns March–April. Bury crowns level with soil — too deep, they rot; too shallow, they dry out.
+- **Sun:** 6+ hours direct
+- **Water:** 1–1.5 inches/week, water at soil level
+- **Soil:** pH 5.5–6.5, well-draining, rich
+
+<p class="card-label">Common problems</p>
+
+- **Eaten fruit just before ripening** — slugs (slime trail near the damage) or birds (clean peck holes).
+- **Brown patches on leaves** — leaf spot or leaf scorch, common in wet springs.
+- **Lots of leaves, few flowers** — too much nitrogen, or plants too crowded.
+
+**PNW gotcha:** Junebearers (Hood, Shuksan) crop heavily for ~4 weeks in June. Everbearers underperform here. Net to keep birds out, mulch with straw to deter slugs.
+
+<p class="card-footer">gettilth.com/guide#strawberries</p>
+
+</div>
+
+<div class="plant-card" markdown="1">
+
+### Blueberries {#blueberries}
+
+PNW blueberry country. Soil pH and rainfall are nearly ideal — assuming you pick the right cultivar.
+
+<p class="card-label">Quick facts</p>
+
+- **Plant:** transplant young plants March–April or in fall. Plant 2+ different cultivars within 100 feet for cross-pollination.
+- **Sun:** 6+ hours direct
+- **Water:** 1–2 inches/week, consistent. Drip irrigation preferred.
+- **Soil:** pH 4.5–5.5 (acidic — most plants here need acidification), rich in organic matter
+
+<p class="card-label">Common problems</p>
+
+- **Yellow leaves with green veins** — iron deficiency from soil pH too high. Acidify with sulfur or pine needle mulch.
+- **Few or no berries** — single cultivar (need cross-pollination), heavy pruning, or too-young plants (3+ years to a good crop).
+- **Birds taking ripe fruit** — netting is the only reliable answer.
+
+**PNW gotcha:** Test soil pH before planting. Most native PNW soils are acidic enough but raised beds and amended soils may not be. Bluecrop, Duke, and Chandler are reliable cultivars here.
+
+<p class="card-footer">gettilth.com/guide#blueberries</p>
+
+</div>
+
+<div class="plant-card" markdown="1">
+
+### Dahlia {#dahlia}
+
+Seattle's flower. Slug protection at sprout time is the make-or-break decision.
+
+<p class="card-label">Quick facts</p>
+
+- **Plant:** plant tubers in May, after soil reaches 60°F. Plant 4–6 inches deep, eyes facing up.
+- **Sun:** 6+ hours direct
+- **Water:** deep weekly once established; less in early growth
+- **Soil:** pH 6.0–7.0, well-draining
+
+<p class="card-label">Common problems</p>
+
+- **Sprouts disappearing as they emerge** — slugs. Iron phosphate or beer traps before sprouting begins.
+- **Powdery mildew on leaves late season** — improve airflow, remove crowded foliage.
+- **No blooms despite leafy growth** — too much nitrogen, too little sun, or both.
+- **Tubers rotted over winter** — drainage issue. Lift in November and store dry, or plant in raised beds.
+
+**PNW gotcha:** Lift tubers after first hard frost (usually November) and store in peat or vermiculite at 40–50°F. PNW winters are mild enough that mulched-in-place tubers work in most years, but lifting is safer.
+
+<p class="card-footer">gettilth.com/guide#dahlia</p>
+
+</div>
+
+<div class="plant-card" markdown="1">
+
+### Rhododendron {#rhododendron}
+
+The PNW signature shrub. Mostly forgiving, but specific — wrong pH or soggy roots will kill them.
+
+<p class="card-label">Quick facts</p>
+
+- **Plant:** transplant fall or early spring, in well-draining acidic soil
+- **Sun:** 4–6 hours filtered light. Morning sun + afternoon shade is ideal.
+- **Water:** 1 inch/week first year; established plants drought-tolerant. Water deeply, infrequently.
+- **Soil:** pH 4.5–6.0 (acidic), well-draining, rich in organic matter
+
+<p class="card-label">Common problems</p>
+
+- **Curled leaves in winter** — temperature response (thermotropism). Normal and harmless.
+- **Yellow leaves with green veins** — iron deficiency from soil pH too high. Acidify with sulfur.
+- **Brown leaves dropped at the petiole** — root rot from waterlogged soil. Improve drainage, plant higher.
+- **Silver speckling on leaf surface** — lace bug damage, common in too-much-sun positions. Move or shade.
+
+**PNW gotcha:** Plant high — never deeper than the original root ball. In heavy clay, mound the planting site or build a raised area. Wet feet kill rhododendrons faster than anything else.
+
+<p class="card-footer">gettilth.com/guide#rhododendron</p>
+
+</div>
+
+<div class="plant-card" markdown="1">
+
+### Hydrangea {#hydrangea}
+
+Bloom color is famously soil-dependent. The most-asked questions are about color and pruning timing.
+
+<p class="card-label">Quick facts</p>
+
+- **Plant:** transplant fall or early spring
+- **Sun:** 3–6 hours; morning sun + afternoon shade is ideal in PNW
+- **Water:** 1–1.5 inches/week, deep — hydrangeas wilt visibly when thirsty
+- **Soil:** pH 5.0–6.5 (acidic for blue blooms, alkaline for pink), rich in organic matter
+
+<p class="card-label">Common problems</p>
+
+- **Wilting in afternoon heat that recovers overnight** — normal; hydrangeas are dramatic about water stress.
+- **No blooms** — pruned at the wrong time (mophead types bloom on old wood; pruning in fall removes next year's flowers), late frost killed buds, or plant is too young.
+- **Leaves brown at edges** — water stress, sun scorch, or fertilizer burn.
+- **Pink instead of blue (or vice versa)** — soil pH. Blue = acidic (below 6.0); pink = alkaline (above 6.5).
+
+**PNW gotcha:** Most PNW soil is acidic enough for blue blooms naturally. For mophead types (*Hydrangea macrophylla*), prune **only** immediately after blooming — never in fall or spring, or you remove next year's flowers.
+
+<p class="card-footer">gettilth.com/guide#hydrangea</p>
+
+</div>
 
 ---
 
