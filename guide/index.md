@@ -14,28 +14,10 @@ This guide covers the most common diagnoses for vegetable and ornamental gardens
 ## Contents
 
 1. [How diagnosis works](#how-it-works)
-   - [The four questions every diagnosis needs](#four-questions)
-   - [Why generic advice doesn't work](#generic-advice)
 2. [Diagnose by symptom](#part-1)
-   - [Yellow leaves](#yellow)
-   - [Brown or crispy leaves](#brown)
-   - [Wilting despite watering](#wilting)
-   - [Holes or chewed leaves](#holes)
-   - [Spots (white, brown, or black)](#spots)
-   - [Curling leaves](#curling)
-   - [Stunted growth](#stunted)
-   - [No flowers or no fruit](#no-flowers)
 3. [Cause categories](#part-2)
-   - [Watering problems](#watering)
-   - [Sunlight issues](#sunlight)
-   - [Nutrient deficiencies](#nutrients)
-   - [Pests](#pests)
-   - [Diseases](#diseases)
-   - [Environmental stress](#environment)
-4. [About Tilth](#part-3)
-   - [What Tilth does automatically](#what-tilth-does)
-   - [The honest version](#honest-version)
-5. [Symptom × plant matrix](#part-4)
+4. [Symptom × plant matrix](#part-3)
+5. [About Tilth](#part-4)
 
 ---
 
@@ -370,7 +352,13 @@ Related: [wilting despite watering](#wilting), [brown or crispy leaves](#brown),
 
 ---
 
-## Part 3 — About Tilth {#part-3}
+## Part 3 — Symptom × plant matrix {#part-3}
+
+*Content in progress. A visual matrix of the top twelve vegetable and ornamental plants × their five most common symptoms.*
+
+---
+
+## Part 4 — About Tilth {#part-4}
 
 Tilth is an iPhone app I built specifically to log [the four questions](#four-questions) in the background — so when something goes wrong, the diagnosis already has the context. You don't enter the data when the plant is struggling. You've already entered or auto-logged it weeks before.
 
@@ -409,9 +397,3 @@ Pricing reflects that. Tilth is free to log unlimited plants, take unlimited che
 There's no account. No cloud sync. No email signup. Your garden data lives in a local database on your phone. Cancel the subscription and the data stays — there's nothing in anyone else's hands to lose.
 
 If the four questions changed how you think about diagnosis, Tilth is the easy version of doing them every day. If they didn't, the guide is yours to keep regardless.
-
----
-
-## Part 4 — Symptom × plant matrix {#part-4}
-
-*Content in progress. A visual matrix of the top twelve vegetable and ornamental plants × their five most common symptoms.*
