@@ -354,7 +354,54 @@ Related: [wilting despite watering](#wilting), [brown or crispy leaves](#brown),
 
 ## Part 3 — Symptom × plant matrix {#part-3}
 
-*Content in progress. A visual matrix of the top twelve vegetable and ornamental plants × their five most common symptoms.*
+The most common diagnostic question on gardening forums starts with *"why is my [specific plant] doing [specific thing]."* This part is the cheat sheet for that question — narrowed to twelve common garden plants and the symptoms each gets most often, with the regional and timing patterns that the symptom-and-cause sections couldn't carry.
+
+**A caveat up front: this is a starting point, not a diagnosis.** A matrix can tell you what's *most likely* given two facts (plant and symptom). It can't tell you what's *actually* happening without [the four questions](#four-questions) — species alone won't distinguish water stress from root rot, or normal senescence from disease. Treat each entry as the first hypothesis to check, then confirm with weather, soil, and recent context.
+
+### By plant {#by-plant}
+
+**Tomato.** Yellow lower leaves are usually nitrogen or water — check soil moisture before fertilizing. Curling upper leaves in summer = heat stress or herbicide drift. Brown spots with yellow halos = septoria leaf spot; start removing affected leaves at the bottom. Cool PNW summers cause flower drop and slow ripening — confirm nighttime lows are above 55°F before assuming the plant is sick. Blossom end rot is a calcium *availability* issue, not a deficiency — caused by inconsistent watering, not low calcium in the soil.
+
+**Pepper.** Pale, stunted, no growth in spring = cool soil; peppers won't move until soil warms past 60°F. Flower drop in summer = sustained heat above 90°F. Tiny shotgun holes in leaves = flea beetles, especially on young plants. Yellow lower leaves later in the season = nitrogen depletion as fruit set begins.
+
+**Squash and zucchini.** White powdery patches on leaves = powdery mildew, almost guaranteed in PNW humidity by August — improve air circulation, avoid overhead watering. Sudden wilting of a whole plant = squash vine borer (slit the stem to find the larva) or bacterial wilt vectored by cucumber beetles. Holes in leaves and stems = cucumber beetles directly.
+
+**Cucumber.** Powdery mildew (white dust) and downy mildew (yellow patches with purple-gray undersides) are the two main diseases. Bitter fruit = water stress, heat, or both. No fruit despite abundant flowers = pollination problem, or just early — cucumbers put out male flowers first and need a few days before female flowers appear.
+
+**Lettuce.** Bolting — sending up a flower stalk and going bitter — is heat-driven and ends the harvest window. Slug damage shows as irregular holes with slime trails on leaves. Leaves wilting in afternoon heat that recover overnight is normal. Bottom rot in heavy clay = a drainage problem, not a watering one.
+
+**Kale and cabbage.** Holes everywhere = cabbage worms (green caterpillars on the underside) or cabbage loopers — Bt is the standard treatment. Yellow lower leaves on kale are often natural senescence as the plant grows tall, not a problem. Stunted growth with swollen, clubbed roots = clubroot disease, common in acidic soils with poor crop rotation.
+
+**Beans.** Orange spots on the undersides of leaves = rust, common in wet weather. Yellow leaves on bush beans late in the season = the plant finishing its life cycle. Aphid clusters on growing tips = wash off with strong water; insecticidal soap if persistent.
+
+**Eggplant.** Tiny shotgun holes in leaves = flea beetles, the dominant pest, especially on young plants — row covers at planting prevent the worst. Wilting in heat that recovers overnight is normal. No fruit despite flowers = cool nights, insufficient pollination, or the plant still maturing.
+
+**Zinnia.** Powdery mildew (white dust on leaves) is the dominant disease — improve air circulation and water at the soil level instead of overhead. Bleached leaf edges with crispy margins = fertilizer burn, the classic salt-damage signature. Lots of leaves but few flowers = insufficient sun (zinnias want 6+ hours direct) or too much nitrogen.
+
+**Marigold.** Generally trouble-free — most diagnostic questions about marigolds turn out to be normal. Aphids on flower buds are the most common real issue. Spider mites can show up in dry, hot stretches. Slugs mostly leave them alone compared to other annuals.
+
+**Dahlia.** Slug damage to young foliage is the dominant PNW issue — protect at sprout time before the plant establishes. Powdery mildew on leaves shows up late season. No blooms despite leafy growth = too much nitrogen, too little sun, or both.
+
+**Sunflower.** Rust (orange spots on lower leaves) is the most common disease, especially late in the season. Slug damage at the seedling stage will end the plant — protect young plants the first few weeks. Bird damage to seed heads in late summer is expected and mostly unsolvable without netting.
+
+### Quick reference {#quick-reference}
+
+The terse version. Each cell is the most likely starting hypothesis given just plant and symptom — confirm with [the four questions](#four-questions) before acting.
+
+| Plant | Yellow leaves | Holes / chewed | Spots | Wilting | No flowers / fruit |
+|---|---|---|---|---|---|
+| **Tomato** | water or N | hornworm | septoria, blight | root rot | cool nights, heat |
+| **Pepper** | cool soil, N | flea beetle | bacterial spot | root rot | heat, cool nights |
+| **Squash** | water | cucumber beetle | powdery mildew | vine borer, bacterial wilt | pollination |
+| **Cucumber** | water | cucumber beetle | powdery / downy mildew | bacterial wilt | male-only flowers (early) |
+| **Lettuce** | bolting heat | slugs | downy mildew | heat (recovers) | bolted |
+| **Kale** | senescence | cabbage worms | downy mildew | clubroot | — |
+| **Beans** | end of cycle | bean beetle | rust | wilt disease | heat |
+| **Eggplant** | water, N | flea beetle | verticillium | wilt disease | cool nights |
+| **Zinnia** | overwatering | uncommon | powdery mildew | uncommon | low sun, excess N |
+| **Marigold** | water | aphids on buds | uncommon | uncommon | — |
+| **Dahlia** | water | slugs | powdery mildew | tuber rot | too much N |
+| **Sunflower** | end of cycle | slugs | rust | wilt disease | — |
 
 ---
 
