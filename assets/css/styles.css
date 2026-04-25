@@ -499,6 +499,7 @@ body.guide-page {
   margin-top: 2.4em;
   margin-bottom: 0.6em;
   scroll-margin-top: 24px;
+  position: relative;
 }
 
 .guide-body h3 {
@@ -510,6 +511,49 @@ body.guide-page {
   margin-top: 2em;
   margin-bottom: 0.5em;
   scroll-margin-top: 24px;
+  position: relative;
+}
+
+/* Hover-anchor links injected next to each H2/H3 by guide.html JS. */
+.guide-body .heading-link {
+  display: inline-block;
+  margin-left: 0.4em;
+  font-family: var(--font-mono);
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  color: var(--ink-mute);
+  vertical-align: 0.18em;
+  opacity: 0;
+  border-bottom: none;
+  text-decoration: none;
+  transition: opacity 0.15s ease, color 0.15s ease;
+}
+
+.guide-body h2:hover .heading-link,
+.guide-body h3:hover .heading-link,
+.guide-body .heading-link:focus-visible {
+  opacity: 1;
+}
+
+.guide-body .heading-link:hover {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-thickness: 1px;
+}
+
+.guide-body .heading-link.copied {
+  opacity: 1;
+  color: var(--accent);
+}
+
+/* On touch devices (no hover) keep the anchors faintly visible
+   so users can still tap-to-copy. */
+@media (hover: none) {
+  .guide-body .heading-link {
+    opacity: 0.45;
+  }
 }
 
 .guide-body h4 {

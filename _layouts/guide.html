@@ -105,5 +105,39 @@
     </div>
   </footer>
 
+  <script>
+    // Append a hover-anchor link beside every H2/H3 inside .guide-body.
+    // Click copies the canonical URL with hash to clipboard and updates
+    // the address bar (no scroll jump — the user is already there).
+    (function () {
+      var headings = document.querySelectorAll('.guide-body h2[id], .guide-body h3[id]');
+      Array.prototype.forEach.call(headings, function (h) {
+        var link = document.createElement('a');
+        link.className = 'heading-link';
+        link.href = '#' + h.id;
+        link.setAttribute('aria-label', 'Copy link to ' + h.textContent.trim());
+        link.textContent = '#';
+        link.addEventListener('click', function (e) {
+          e.preventDefault();
+          var url = window.location.origin + window.location.pathname + '#' + h.id;
+          if (navigator.clipboard && navigator.clipboard.writeText) {
+            navigator.clipboard.writeText(url).catch(function () {});
+          }
+          if (history && history.replaceState) {
+            history.replaceState(null, '', '#' + h.id);
+          }
+          link.textContent = '✓ copied';
+          link.classList.add('copied');
+          setTimeout(function () {
+            link.textContent = '#';
+            link.classList.remove('copied');
+          }, 1500);
+        });
+        h.appendChild(document.createTextNode(' '));
+        h.appendChild(link);
+      });
+    })();
+  </script>
+
 </body>
 </html>
