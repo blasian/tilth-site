@@ -55,6 +55,8 @@ Yellow leaves are the single most-Googled plant problem, and the answer almost a
 
 **First check:** Which leaves are yellow? Bottom = nitrogen, water, or disease. Top = micronutrient deficiency (iron, manganese) or virus. Scattered randomly = pest or pathogen. Then check how fast: overnight points to cold or water shock; over weeks points to nutrient or natural causes.
 
+**Related:** [nutrient deficiencies](#nutrients), [watering problems](#watering), [diseases](#diseases).
+
 ### Brown or crispy leaves {#brown}
 
 Brown tissue is dead tissue. The diagnostic question is whether the damage is finished — a one-time event the plant will recover from — or whether it's still spreading. The pattern of damage usually tells you which.
@@ -70,6 +72,8 @@ Brown tissue is dead tissue. The diagnostic question is whether the damage is fi
 
 **First check:** Is the damage on the **edges only** or in **whole sections**? Edges suggest fertilizer or heat. Sections suggest water stress, disease, or frost. Then ask: did this appear all at once, or has it been spreading? Acute = one event (fertilizer, frost, heat). Spreading = disease, or an ongoing condition you haven't fixed.
 
+**Related:** [environmental stress](#environment), [watering problems](#watering), [nutrient deficiencies](#nutrients), [diseases](#diseases).
+
 ### Wilting despite watering {#wilting}
 
 A wilted plant in dry soil is just thirsty — water it. A wilted plant in *wet* soil is in serious trouble. Wilting that doesn't recover after a soak is one of the most diagnostic single observations in gardening.
@@ -83,6 +87,8 @@ A wilted plant in dry soil is just thirsty — water it. A wilted plant in *wet*
 - **Heat-induced midday wilt** — temporary; plant recovers fully by evening or morning. Not actually a problem.
 
 **First check:** Does the plant recover by the next morning without any intervention? Yes = heat stress (normal, harmless). No = roots or vascular system are compromised. If you can spare a plant, pull it and look at the roots. White and firm = healthy. Black, brown, or mushy = rot. Cut a stem near the base: brown streaks inside the stem suggest fusarium.
+
+**Related:** [watering problems](#watering), [diseases](#diseases), [environmental stress](#environment).
 
 ### Holes or chewed leaves {#holes}
 
@@ -99,6 +105,8 @@ If pieces of your plant are missing, something is eating it. The size and shape 
 
 **First check:** Look under leaves, at the soil line, and around the base. Slime trails on leaves or nearby surfaces? Slugs. Frass on leaves but no visible bug? A caterpillar — keep looking. Tiny shotgun holes on radish or eggplant? Flea beetles. Going out at dusk with a flashlight will solve most pest mysteries within ten minutes.
 
+**Related:** [pests](#pests).
+
 ### Spots (white, brown, or black) {#spots}
 
 Spots are usually fungal, sometimes bacterial, occasionally just sunscald or water minerals. The color, texture, and pattern matter more than the size — and they're usually enough to identify the disease without a lab test.
@@ -113,6 +121,8 @@ Spots are usually fungal, sometimes bacterial, occasionally just sunscald or wat
 - **Water spots** — small white dots from mineral residue when hard water dries on leaves. Cosmetic, harmless.
 
 **First check:** Try to wipe a white spot off with a finger — if it comes off, it's powdery mildew. Greasy or wet-looking spots that don't wipe = bacterial. Bullseye rings = early blight. Small spots with bright yellow halos on tomato = septoria. If unsure, photograph it from a few inches away and compare against a reference; the patterns are very recognizable once you've seen them named.
+
+**Related:** [diseases](#diseases), [environmental stress](#environment).
 
 ### Curling leaves {#curling}
 
@@ -129,6 +139,8 @@ Leaf curl tells you what direction the plant is trying to defend against. The pa
 
 **First check:** Direction of curl is the first signal. Down = water or heat (give it shade and water, see if it bounces back). Up + twisted = herbicide or virus. Cupped with sticky residue = aphids (turn the leaf over to confirm). Then notice *where* on the plant: oldest leaves curling = environmental; newest leaves curling = nutrient or pest.
 
+**Related:** [environmental stress](#environment), [pests](#pests), [nutrient deficiencies](#nutrients), [diseases](#diseases).
+
 ### Stunted growth {#stunted}
 
 Stunted growth is the hardest single symptom to diagnose because it's a comparison — you need to know what *normal* looks like for that plant under your conditions. The fastest way to answer is to compare to siblings: same plant, same bed, planted at the same time. If they're all stunted, the cause is collective. If only some are, it's individual.
@@ -144,6 +156,8 @@ Stunted growth is the hardest single symptom to diagnose because it's a comparis
 
 **First check:** Compare to siblings. All stunted? It's the bed, the soil, or the season — start with soil temperature and nutrient status. One stunted? It's individual — pull it gently and inspect the roots. White and bushy = healthy, look elsewhere. Brown, mushy, or chewed = root problem. Tightly circled = root-bound; loosen the roots and replant.
 
+**Related:** [nutrient deficiencies](#nutrients), [environmental stress](#environment), [pests](#pests), [watering problems](#watering).
+
 ### No flowers or no fruit {#no-flowers}
 
 This is the most frustrating symptom because the plant looks fine — leafy, green, growing — but the whole point of growing it isn't happening. The fix depends on whether you're seeing flowers that drop, or no flowers at all.
@@ -158,6 +172,8 @@ This is the most frustrating symptom because the plant looks fine — leafy, gre
 - **Wrong day length** — onions form bulbs based on photoperiod; certain flowers bloom only when days shorten or lengthen past a threshold.
 
 **First check:** Are there flowers but no fruit? It's a pollination, heat, or temperature problem — none of which mean anything is wrong with the plant itself. No flowers at all on a mature plant? Most likely too much nitrogen or insufficient maturity. For PNW tomatoes specifically: check whether nighttime lows have been above 55°F consistently. If they haven't, that alone explains the absence of fruit, and the plant will catch up the moment the weather does.
+
+**Related:** [nutrient deficiencies](#nutrients), [environmental stress](#environment).
 
 ---
 
