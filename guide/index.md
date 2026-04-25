@@ -46,16 +46,14 @@ Yellow leaves are the single most-Googled plant problem, and the answer almost a
 
 **Likely causes:**
 
-- **Nitrogen deficiency** — pale, uniform yellowing starting from the oldest (bottom) leaves and moving up. The plant is reabsorbing nitrogen from older tissue to feed new growth.
-- **Overwatering** — yellow leaves combined with soggy soil and sometimes wilting despite the wet. Roots are suffocating.
-- **Underwatering** — yellowing with crispy, dry edges and bone-dry soil.
+- **[Nitrogen deficiency](#nutrients)** — pale, uniform yellowing starting from the oldest (bottom) leaves and moving up. The plant is reabsorbing nitrogen from older tissue to feed new growth.
+- **[Overwatering](#watering)** — yellow leaves combined with soggy soil and sometimes wilting despite the wet. Roots are suffocating.
+- **[Underwatering](#watering)** — yellowing with crispy, dry edges and bone-dry soil.
 - **Natural senescence** — only the very oldest leaves yellow and drop. The rest of the plant looks vigorous. Not a problem.
-- **Disease** — early blight, septoria, fusarium. Usually starts with spots and yellowing together, often spreading from the bottom up.
-- **Nutrient lockout from pH** — soil too acidic or alkaline, so nutrients technically present become unavailable. Common in pots that have been wet a long time.
+- **[Disease](#diseases)** — early blight, septoria, fusarium. Usually starts with spots and yellowing together, often spreading from the bottom up.
+- **[Nutrient lockout from pH](#nutrients)** — soil too acidic or alkaline, so nutrients technically present become unavailable. Common in pots that have been wet a long time.
 
 **First check:** Which leaves are yellow? Bottom = nitrogen, water, or disease. Top = micronutrient deficiency (iron, manganese) or virus. Scattered randomly = pest or pathogen. Then check how fast: overnight points to cold or water shock; over weeks points to nutrient or natural causes.
-
-**Related:** [nutrient deficiencies](#nutrients), [watering problems](#watering), [diseases](#diseases).
 
 ### Brown or crispy leaves {#brown}
 
@@ -63,16 +61,14 @@ Brown tissue is dead tissue. The diagnostic question is whether the damage is fi
 
 **Likely causes:**
 
-- **Fertilizer burn** — uniform crispy bleaching along the leaf margins, symmetric across the plant. Classic salt-burn signature, very recognizable once you've seen it.
-- **Heat scorch** — crispy edges on sun-facing leaves after an unusually hot stretch, often only on the most exposed parts of the plant.
-- **Underwatering / drought stress** — whole leaves brown and dry, plant noticeably wilted, soil bone-dry.
-- **Fungal disease** — brown spots that grow over time, often with yellow halos or concentric rings (early blight).
-- **Frost damage** — limp brown leaves the morning after a cold snap, then they dry crispy. Tomato, basil, and pepper are the first to go.
-- **Wind damage** — edges shredded or dried on the windward side of the plant after a storm.
+- **[Fertilizer burn](#nutrients)** — uniform crispy bleaching along the leaf margins, symmetric across the plant. Classic salt-burn signature, very recognizable once you've seen it.
+- **[Heat scorch](#environment)** — crispy edges on sun-facing leaves after an unusually hot stretch, often only on the most exposed parts of the plant.
+- **[Underwatering / drought stress](#watering)** — whole leaves brown and dry, plant noticeably wilted, soil bone-dry.
+- **[Fungal disease](#diseases)** — brown spots that grow over time, often with yellow halos or concentric rings (early blight).
+- **[Frost damage](#environment)** — limp brown leaves the morning after a cold snap, then they dry crispy. Tomato, basil, and pepper are the first to go.
+- **[Wind damage](#environment)** — edges shredded or dried on the windward side of the plant after a storm.
 
 **First check:** Is the damage on the **edges only** or in **whole sections**? Edges suggest fertilizer or heat. Sections suggest water stress, disease, or frost. Then ask: did this appear all at once, or has it been spreading? Acute = one event (fertilizer, frost, heat). Spreading = disease, or an ongoing condition you haven't fixed.
-
-**Related:** [environmental stress](#environment), [watering problems](#watering), [nutrient deficiencies](#nutrients), [diseases](#diseases).
 
 ### Wilting despite watering {#wilting}
 
@@ -80,15 +76,13 @@ A wilted plant in dry soil is just thirsty — water it. A wilted plant in *wet*
 
 **Likely causes:**
 
-- **Root rot** — overwatering caused root death; the plant can't take up water it has access to. Pull a plant: black or brown mushy roots confirm.
-- **Fusarium or verticillium wilt** — soil-borne fungal infection that blocks the plant's vascular system. Often starts on one side or one branch and progresses.
-- **Transplant shock** — recently moved or repotted, roots haven't re-established. Should recover within a week or two.
-- **Damping off / pythium** — seedling root collapse, common in cool wet conditions. PNW spring is prime season.
-- **Heat-induced midday wilt** — temporary; plant recovers fully by evening or morning. Not actually a problem.
+- **[Root rot](#watering)** — overwatering caused root death; the plant can't take up water it has access to. Pull a plant: black or brown mushy roots confirm.
+- **[Fusarium or verticillium wilt](#diseases)** — soil-borne fungal infection that blocks the plant's vascular system. Often starts on one side or one branch and progresses.
+- **[Transplant shock](#environment)** — recently moved or repotted, roots haven't re-established. Should recover within a week or two.
+- **[Damping off / pythium](#diseases)** — seedling root collapse, common in cool wet conditions. PNW spring is prime season.
+- **[Heat-induced midday wilt](#environment)** — temporary; plant recovers fully by evening or morning. Not actually a problem.
 
 **First check:** Does the plant recover by the next morning without any intervention? Yes = heat stress (normal, harmless). No = roots or vascular system are compromised. If you can spare a plant, pull it and look at the roots. White and firm = healthy. Black, brown, or mushy = rot. Cut a stem near the base: brown streaks inside the stem suggest fusarium.
-
-**Related:** [watering problems](#watering), [diseases](#diseases), [environmental stress](#environment).
 
 ### Holes or chewed leaves {#holes}
 
@@ -96,16 +90,14 @@ If pieces of your plant are missing, something is eating it. The size and shape 
 
 **Likely causes:**
 
-- **Slugs** — irregular holes anywhere on the plant, often with shiny silvery slime trails on leaves or soil. In the Pacific Northwest, slugs are by far the most common culprit; nine times out of ten, this is the answer.
-- **Flea beetles** — tiny round shotgun-pattern holes, often on eggplant, brassicas, or radish. The beetles themselves are small, dark, and jump like fleas when disturbed.
-- **Cabbage worms** — large ragged holes in brassicas (kale, cabbage, broccoli). The worms are pale green and well-camouflaged on leaves; look for the white butterflies laying eggs.
-- **Earwigs** — irregular holes plus damage to flowers and ripening fruit. Active at night, hide in dark damp spots during the day.
-- **Deer or rabbits** — clean diagonal cuts on stems, larger sections gone overnight, often whole tops missing.
-- **Caterpillars (other)** — small dark droppings (frass) on leaves; the caterpillar itself is usually on the underside of a leaf nearby.
+- **[Slugs](#pests)** — irregular holes anywhere on the plant, often with shiny silvery slime trails on leaves or soil. In the Pacific Northwest, slugs are by far the most common culprit; nine times out of ten, this is the answer.
+- **[Flea beetles](#pests)** — tiny round shotgun-pattern holes, often on eggplant, brassicas, or radish. The beetles themselves are small, dark, and jump like fleas when disturbed.
+- **[Cabbage worms](#pests)** — large ragged holes in brassicas (kale, cabbage, broccoli). The worms are pale green and well-camouflaged on leaves; look for the white butterflies laying eggs.
+- **[Earwigs](#pests)** — irregular holes plus damage to flowers and ripening fruit. Active at night, hide in dark damp spots during the day.
+- **[Deer or rabbits](#pests)** — clean diagonal cuts on stems, larger sections gone overnight, often whole tops missing.
+- **[Caterpillars (other)](#pests)** — small dark droppings (frass) on leaves; the caterpillar itself is usually on the underside of a leaf nearby.
 
 **First check:** Look under leaves, at the soil line, and around the base. Slime trails on leaves or nearby surfaces? Slugs. Frass on leaves but no visible bug? A caterpillar — keep looking. Tiny shotgun holes on radish or eggplant? Flea beetles. Going out at dusk with a flashlight will solve most pest mysteries within ten minutes.
-
-**Related:** [pests](#pests).
 
 ### Spots (white, brown, or black) {#spots}
 
@@ -113,16 +105,14 @@ Spots are usually fungal, sometimes bacterial, occasionally just sunscald or wat
 
 **Likely causes:**
 
-- **Powdery mildew** — white, flour-dusted patches on leaf surfaces, easy to wipe off. Common on squash, zucchini, cucumber, and beans. Humid summers make this almost guaranteed in the PNW.
-- **Septoria leaf spot** — small brown circles with yellow halos and a tan center. Common on tomatoes, spreads from the lowest leaves up.
-- **Early blight** — brown spots with concentric bullseye rings, often with yellowing around them. Tomato and potato are the typical hosts.
-- **Bacterial spot** — small dark spots that look greasy or water-soaked, often with yellow halos. Spreads fast in wet weather.
-- **Sunscald** — whitish, papery patches on fruits exposed to direct sun, especially after pruning or defoliation.
+- **[Powdery mildew](#diseases)** — white, flour-dusted patches on leaf surfaces, easy to wipe off. Common on squash, zucchini, cucumber, and beans. Humid summers make this almost guaranteed in the PNW.
+- **[Septoria leaf spot](#diseases)** — small brown circles with yellow halos and a tan center. Common on tomatoes, spreads from the lowest leaves up.
+- **[Early blight](#diseases)** — brown spots with concentric bullseye rings, often with yellowing around them. Tomato and potato are the typical hosts.
+- **[Bacterial spot](#diseases)** — small dark spots that look greasy or water-soaked, often with yellow halos. Spreads fast in wet weather.
+- **[Sunscald](#environment)** — whitish, papery patches on fruits exposed to direct sun, especially after pruning or defoliation.
 - **Water spots** — small white dots from mineral residue when hard water dries on leaves. Cosmetic, harmless.
 
 **First check:** Try to wipe a white spot off with a finger — if it comes off, it's powdery mildew. Greasy or wet-looking spots that don't wipe = bacterial. Bullseye rings = early blight. Small spots with bright yellow halos on tomato = septoria. If unsure, photograph it from a few inches away and compare against a reference; the patterns are very recognizable once you've seen them named.
-
-**Related:** [diseases](#diseases), [environmental stress](#environment).
 
 ### Curling leaves {#curling}
 
@@ -130,16 +120,14 @@ Leaf curl tells you what direction the plant is trying to defend against. The pa
 
 **Likely causes:**
 
-- **Heat or water stress** — leaves curl *downward* and inward to reduce surface area exposed to sun and wind. Reverses when conditions improve.
+- **[Heat or water stress](#environment)** — leaves curl *downward* and inward to reduce surface area exposed to sun and wind. Reverses when conditions improve.
 - **Herbicide drift** — leaves curl *upward* and look twisted, cupped, or strappy. New growth comes out distorted. Often from a neighbor's lawn treatment or windborne spray.
-- **Viral infection** — curling with yellow mottling, distortion, or stunted growth. Usually permanent; remove the plant to avoid spread.
-- **Aphids** — clusters on the undersides of new growth, sticky residue, leaves curling around the feeding sites.
-- **Calcium deficiency in new growth** — newest leaves emerge distorted, sometimes blackened along the margins. Bring calcium up with amendments.
-- **Tomato leaf roll** — older leaves curl up and stay there. A physiological response to heat or pruning, usually not serious.
+- **[Viral infection](#diseases)** — curling with yellow mottling, distortion, or stunted growth. Usually permanent; remove the plant to avoid spread.
+- **[Aphids](#pests)** — clusters on the undersides of new growth, sticky residue, leaves curling around the feeding sites.
+- **[Calcium deficiency in new growth](#nutrients)** — newest leaves emerge distorted, sometimes blackened along the margins. Bring calcium up with amendments.
+- **[Tomato leaf roll](#environment)** — older leaves curl up and stay there. A physiological response to heat or pruning, usually not serious.
 
 **First check:** Direction of curl is the first signal. Down = water or heat (give it shade and water, see if it bounces back). Up + twisted = herbicide or virus. Cupped with sticky residue = aphids (turn the leaf over to confirm). Then notice *where* on the plant: oldest leaves curling = environmental; newest leaves curling = nutrient or pest.
-
-**Related:** [environmental stress](#environment), [pests](#pests), [nutrient deficiencies](#nutrients), [diseases](#diseases).
 
 ### Stunted growth {#stunted}
 
@@ -147,16 +135,14 @@ Stunted growth is the hardest single symptom to diagnose because it's a comparis
 
 **Likely causes:**
 
-- **Nutrient deficiency** — most often nitrogen, but phosphorus or potassium can also stall growth. Whole plant pale and small.
+- **[Nutrient deficiency](#nutrients)** — most often nitrogen, but phosphorus or potassium can also stall growth. Whole plant pale and small.
 - **Root-bound (containers)** — pot-grown plants whose roots have circled the pot and choked themselves. Tip the plant out and look.
 - **Soil compaction** — dense, hard soil that roots can't penetrate. Common in raised beds that get walked on or in heavy clay.
-- **Cool soil** — heat-loving plants like peppers and tomatoes refuse to grow until the soil warms past about 60°F. PNW gardens lose six weeks to this every spring.
-- **Root pests** — cutworms, root maggots, or grubs eating below the soil line. Plant looks stalled with no above-ground explanation.
-- **Transplant shock** — recently moved or repotted; recovery can take 2–3 weeks before growth resumes.
+- **[Cool soil](#environment)** — heat-loving plants like peppers and tomatoes refuse to grow until the soil warms past about 60°F. PNW gardens lose six weeks to this every spring.
+- **[Root pests](#pests)** — cutworms, root maggots, or grubs eating below the soil line. Plant looks stalled with no above-ground explanation.
+- **[Transplant shock](#environment)** — recently moved or repotted; recovery can take 2–3 weeks before growth resumes.
 
 **First check:** Compare to siblings. All stunted? It's the bed, the soil, or the season — start with soil temperature and nutrient status. One stunted? It's individual — pull it gently and inspect the roots. White and bushy = healthy, look elsewhere. Brown, mushy, or chewed = root problem. Tightly circled = root-bound; loosen the roots and replant.
-
-**Related:** [nutrient deficiencies](#nutrients), [environmental stress](#environment), [pests](#pests), [watering problems](#watering).
 
 ### No flowers or no fruit {#no-flowers}
 
@@ -164,16 +150,14 @@ This is the most frustrating symptom because the plant looks fine — leafy, gre
 
 **Likely causes:**
 
-- **Too much nitrogen** — the plant is putting all its energy into leaves at the expense of reproduction. Common after over-fertilizing with high-N fertilizer.
+- **[Too much nitrogen](#nutrients)** — the plant is putting all its energy into leaves at the expense of reproduction. Common after over-fertilizing with high-N fertilizer.
 - **Insufficient pollination** — flowers form but drop without setting fruit. Common with squash family, peppers, and tomatoes when pollinator activity is low.
-- **Heat stress** — sustained temperatures above ~90°F cause flower drop in tomatoes, peppers, and beans.
-- **Cool nights** — tomatoes specifically need night temperatures above ~55°F to set fruit. PNW summers often hover at the bottom of this range, which is why Seattle tomatoes are a regional anxiety.
+- **[Heat stress](#environment)** — sustained temperatures above ~90°F cause flower drop in tomatoes, peppers, and beans.
+- **[Cool nights](#environment)** — tomatoes specifically need night temperatures above ~55°F to set fruit. PNW summers often hover at the bottom of this range, which is why Seattle tomatoes are a regional anxiety.
 - **Plant immaturity** — some perennials and fruit trees take 1–3 years to bloom. Some annuals need a longer day length than mid-season.
 - **Wrong day length** — onions form bulbs based on photoperiod; certain flowers bloom only when days shorten or lengthen past a threshold.
 
 **First check:** Are there flowers but no fruit? It's a pollination, heat, or temperature problem — none of which mean anything is wrong with the plant itself. No flowers at all on a mature plant? Most likely too much nitrogen or insufficient maturity. For PNW tomatoes specifically: check whether nighttime lows have been above 55°F consistently. If they haven't, that alone explains the absence of fruit, and the plant will catch up the moment the weather does.
-
-**Related:** [nutrient deficiencies](#nutrients), [environmental stress](#environment).
 
 ---
 
