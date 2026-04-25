@@ -59,14 +59,20 @@ Water at the soil line. Wet leaves invite both forms of mildew. Drip irrigation 
 
 ## Common problems
 
-- **[White powdery patches on leaves](/spots)** — powdery mildew. Common in PNW humidity by mid-summer. Improve air circulation, remove affected leaves.
+Nine most-asked-about cucumber problems in PNW gardens:
+
+- **[White powdery patches on leaves](/spots)** — powdery mildew. Common in PNW humidity by mid-summer. Improve airflow, remove affected leaves.
 - **[Yellow patches with purple-gray undersides](/spots)** — downy mildew. More aggressive than powdery; can defoliate plants quickly. Remove affected leaves and apply copper if it spreads.
 - **Bitter fruit** — water stress (inconsistent watering) or heat. Maintain consistent moisture.
-- **[No fruit despite flowers](/no-flowers)** — likely just early. Cucumbers produce male flowers first; female flowers (with the small fruit at the base) come a week later. If you've waited two weeks and still no female flowers, may be a pollination problem.
-- **Misshapen fruit** — incomplete pollination. Can hand-pollinate if needed (touch a male flower's center to a female flower's center).
+- **[No fruit despite flowers](/no-flowers-no-fruit)** — likely just early. Cucumbers produce male flowers first; female flowers come a week later. If you've waited two weeks and still no female flowers, suspect pollination.
+- **Misshapen fruit** — incomplete pollination. Hand-pollinate (touch a male flower's center to a female's center).
+- **[Yellow leaves overall](/yellow-leaves)** — water stress or nitrogen deficiency. Check soil moisture before fertilizing.
+- **[Sudden wilting of whole plant](/wilting-plants)** — bacterial wilt vectored by cucumber beetles. Plant doesn't recover. Remove affected plants.
+- **Striped or spotted yellow beetles on leaves** — cucumber beetles. Treat early to prevent bacterial wilt spread; row covers at planting work best.
+- **Aphids on undersides of leaves** — sticky residue, curling new growth. Spray off with strong water; insecticidal soap if persistent.
 
 <figure class="pin-embed">
-  <img src="/assets/pins/plants/cucumber-problems.png" alt="Most common cucumber problems pin" loading="lazy" width="600" height="900">
+  <img src="/assets/pins/plants/cucumber-problems.png" alt="9 most common cucumber problems pin" loading="lazy" width="600" height="900">
   <figcaption>Save this problem checklist ↗</figcaption>
 </figure>
 

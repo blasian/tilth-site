@@ -63,14 +63,20 @@ Water deeply at the soil line, not on the leaves. Wet leaves invite powdery mild
 
 ## Common problems
 
-- **[White powdery patches on leaves](/spots)** — powdery mildew. Nearly guaranteed by August in PNW. Prevention is air circulation and soil-level watering; once it shows up, prune affected leaves and accept some loss. Won't kill the plant, but reduces production.
+Nine most-asked-about squash problems in PNW gardens:
+
+- **[White powdery patches on leaves](/spots)** — powdery mildew. Nearly guaranteed by August in PNW. Prune affected leaves; won't kill plants but reduces production.
 - **[Sudden wilting of whole plant](/wilting-plants)** — squash vine borer (slit the stem near the base to find the larva) or bacterial wilt vectored by cucumber beetles.
 - **[Holes in leaves and stems](/holes-in-leaves)** — cucumber beetles. Treat early to prevent bacterial wilt spread.
 - **Sunken black patch on developing fruit** — blossom end rot from inconsistent [watering](/watering).
-- **Lots of male flowers, no fruit early** — normal. Squash sends male flowers first; female flowers (with the small fruit at the base) come a week or two later.
+- **Lots of male flowers, no fruit early** — normal. Squash sends male flowers first; female flowers (with small fruit at the base) come a week or two later.
+- **[Female flowers but fruit aborts before maturing](/no-flowers-no-fruit)** — pollination problem. Hand-pollinate (touch a male flower's center to a female's center).
+- **Misshapen or curved fruit** — incomplete pollination. Same fix as above.
+- **Aphid clusters on leaf undersides** — wash off with strong water; insecticidal soap for persistent infestations.
+- **[Stunted seedlings](/stunted-plants)** — cold soil (below 65°F) or slug damage. Wait for warmer soil; protect young plants from slugs at sprout time.
 
 <figure class="pin-embed">
-  <img src="/assets/pins/plants/squash-problems.png" alt="Most common squash problems pin" loading="lazy" width="600" height="900">
+  <img src="/assets/pins/plants/squash-problems.png" alt="9 most common squash problems pin" loading="lazy" width="600" height="900">
   <figcaption>Save this problem checklist ↗</figcaption>
 </figure>
 

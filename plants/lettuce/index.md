@@ -71,14 +71,20 @@ Mulch with straw or fine compost to retain moisture and suppress weeds.
 
 ## Common problems
 
-- **Bolting (sending up a flower stalk and going bitter)** — heat-driven. Plant earlier in spring and later in fall to avoid the heat window. Choose heat-tolerant varieties for late spring and early fall.
-- **Slug damage** — irregular holes with slime trails. The dominant PNW lettuce pest. Iron phosphate (Sluggo) at planting; hand-pick at night with a flashlight.
-- **[Wilting in afternoon heat](/wilting-plants)** — usually recovers overnight. Normal for lettuce in summer; not a sign of disease.
+Nine most-asked-about lettuce problems in PNW gardens:
+
+- **Bolting (sending up a flower stalk, going bitter)** — heat-driven. Plant earlier in spring and later in fall to dodge the heat window. Choose heat-tolerant varieties for shoulder seasons.
+- **[Slug damage](/holes-in-leaves)** — irregular holes with slime trails. The dominant PNW lettuce pest. Iron phosphate at planting; hand-pick at night.
+- **[Wilting in afternoon heat](/wilting-plants)** — usually recovers overnight. Normal for lettuce; not a sign of disease.
 - **Bottom rot in heavy clay** — drainage problem. Raise the bed or amend with compost.
-- **Aphids on growing tips** — wash off with water; insecticidal soap if persistent.
+- **Aphids on growing tips** — sticky residue, distorted growth. Wash off with water; insecticidal soap if persistent.
+- **Bitter taste before bolting** — early heat or drought stress. Maintain consistent moisture; provide afternoon shade in late spring.
+- **Brown crispy leaf edges (tipburn)** — calcium availability problem during fast growth. Stabilize watering; the leaves themselves are still edible if trimmed.
+- **Squiggly trails on leaves** — leaf miners. Remove affected leaves; they're cosmetic on outer leaves but ruin lettuce for salad.
+- **Seedlings collapsing at soil line** — [damping off](/diseases). Common in cool wet PNW spring. Use sterile seed-starting mix; don't overwater.
 
 <figure class="pin-embed">
-  <img src="/assets/pins/plants/lettuce-problems.png" alt="Most common lettuce problems pin" loading="lazy" width="600" height="900">
+  <img src="/assets/pins/plants/lettuce-problems.png" alt="9 most common lettuce problems pin" loading="lazy" width="600" height="900">
   <figcaption>Save this problem checklist ↗</figcaption>
 </figure>
 

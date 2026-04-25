@@ -62,14 +62,20 @@ Mulch with straw heavily — both for moisture retention and to keep berries off
 
 ## Common problems
 
-- **Eaten fruit just before ripening** — slugs (slime trail near the damage) or birds (clean peck holes). Slugs: iron phosphate (Sluggo), beer traps, copper barriers. Birds: netting is the only reliable answer.
-- **Brown patches on leaves** — leaf spot or leaf scorch, common in wet PNW springs. Remove affected leaves; improve airflow; thin runners.
-- **Lots of leaves, few flowers** — too much nitrogen, or plants too crowded. Don't fertilize heavily; thin runners to 1–2 per plant.
+Nine most-asked-about strawberry problems in PNW gardens:
+
+- **Eaten fruit just before ripening** — slugs (slime trail near damage) or birds (clean peck holes). Slugs: iron phosphate, beer traps, copper barriers. Birds: netting is the only reliable answer.
+- **[Brown patches on leaves](/spots)** — leaf spot or leaf scorch, common in wet PNW springs. Remove affected leaves; improve airflow; thin runners.
+- **[Lots of leaves, few flowers](/no-flowers-no-fruit)** — too much nitrogen or plants too crowded. Don't fertilize heavily; thin runners to 1–2 per plant.
 - **Gray fuzzy mold on berries** — botrytis (gray mold). Common in wet conditions. Remove affected berries; improve airflow; mulch to keep berries off soil.
 - **Distorted berries** — incomplete pollination (low bee activity) or tarnished plant bug damage. Hand-pollinate flowers if needed.
+- **[Yellow leaves with green veins](/yellow-leaves)** — iron deficiency from soil pH too high. Acidify with sulfur; mulch with pine needles.
+- **Aphids on growing tips** — sticky residue, [curling new growth](/curling-leaves). Wash off with strong water; insecticidal soap if persistent.
+- **Fine webbing and pinprick damage on leaves** — spider mites in dry hot weather. Increase humidity; insecticidal soap.
+- **Small worms in ripe berries** — spotted wing drosophila. Pick frequently and refrigerate immediately; drop infested berries in soapy water to break the cycle.
 
 <figure class="pin-embed">
-  <img src="/assets/pins/plants/strawberries-problems.png" alt="Most common strawberry problems pin" loading="lazy" width="600" height="900">
+  <img src="/assets/pins/plants/strawberries-problems.png" alt="9 most common strawberry problems pin" loading="lazy" width="600" height="900">
   <figcaption>Save this problem checklist ↗</figcaption>
 </figure>
 

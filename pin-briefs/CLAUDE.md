@@ -138,16 +138,18 @@ For pins like *"PNW Tomato Growing Guide"*. Lives at `pin-briefs/plants/[plant]-
 
 ### Template B — Problems-list pin
 
-For pins like *"5 Most Common Tomato Problems."* Lives at `pin-briefs/plants/[plant]-problems.md`.
+For pins like *"9 Most Common Tomato Problems."* Lives at `pin-briefs/plants/[plant]-problems.md`.
 
 - Brand zone
 - Title + subhead
-- Hero zone — small or skipped
-- Bulleted list — 4–5 problems, each with bold problem name + short cause/action, e.g.:
-  - **Yellow lower leaves** → check water before nitrogen
-  - **Curling tops in summer** → heat stress or herbicide drift
+- Hero zone — small or skipped (skipped is typical for 9-item layout)
+- Numbered list — **9 problems**, each with bold problem name + short cause/action, e.g.:
+  - **01 Yellow lower leaves** → check water before nitrogen
+  - **02 Curling tops in summer** → heat stress or herbicide drift
 - Optional gotcha callout
 - Footer URL
+
+A 9-item list lets the pin layout breathe with a 3×3 grid feel or a denser numbered column. Reads as more comprehensive than a short 5-item list — better save-rate on Pinterest.
 
 ### Template C — Diagnosis-question pin
 

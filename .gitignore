@@ -10,3 +10,6 @@ _site/
 # Editor
 .vscode/
 .idea/
+
+# Node (transient, sometimes created by tooling)
+node_modules/

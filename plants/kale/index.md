@@ -65,14 +65,20 @@ Kale is more drought-tolerant than lettuce or brassica heads but wilts visibly w
 
 ## Common problems
 
-- **[Holes everywhere](/holes-in-leaves)** — cabbage worms (small green caterpillars on the underside) or cabbage loopers. The dominant PNW kale pest. Bt (Bacillus thuringiensis) is the standard organic treatment — selective, effective, harmless to non-target insects.
-- **[Yellow lower leaves on kale](/yellow-leaves)** — often natural senescence as the plant grows tall. Not a problem; just pull off the yellow leaves.
-- **Stunted growth with swollen, clubbed roots** — clubroot disease. Common in acidic soils with poor crop rotation. Add lime to bring pH up; rotate brassicas every 3–4 years.
+Nine most-asked-about kale problems in PNW gardens:
+
+- **[Holes everywhere](/holes-in-leaves)** — cabbage worms (small green caterpillars on the underside) or cabbage loopers. The dominant PNW kale pest. Bt (*Bacillus thuringiensis*) is the standard organic treatment — selective, effective, harmless to non-target insects.
+- **[Yellow lower leaves](/yellow-leaves)** — often natural senescence as the plant grows tall. Not a problem; just pull them off.
+- **Stunted growth with swollen, clubbed roots** — clubroot disease. Common in acidic soils with poor crop rotation. Add lime to raise pH; rotate brassicas every 3–4 years.
 - **Aphids clustered on growing tips** — wash off with strong water; insecticidal soap if persistent.
-- **Tough, bitter leaves** — usually heat stress in summer or plants that have bolted. Harvest in cooler conditions and pull bolting plants.
+- **Tough, bitter leaves** — heat stress or bolting. Harvest in cooler conditions; pull bolting plants.
+- **Small white butterflies fluttering around plants** — cabbage white butterflies. They lay the eggs that become cabbage worms. Net young plants or use row cover.
+- **Tiny shotgun holes in leaves** — flea beetles, especially on young plants. Row covers at planting prevent the worst.
+- **[White powdery patches on leaves](/spots)** — powdery mildew. Less common on kale than other brassicas; improve air circulation.
+- **Slug damage with slime trails** — slugs love young kale. Iron phosphate at planting; PNW slug pressure is constant.
 
 <figure class="pin-embed">
-  <img src="/assets/pins/plants/kale-problems.png" alt="Most common kale problems pin" loading="lazy" width="600" height="900">
+  <img src="/assets/pins/plants/kale-problems.png" alt="9 most common kale problems pin" loading="lazy" width="600" height="900">
   <figcaption>Save this problem checklist ↗</figcaption>
 </figure>
 

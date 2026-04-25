@@ -74,15 +74,20 @@ Mulch (straw, wood chips, or black plastic for thermal benefit) helps regulate s
 
 ## Common problems
 
-PNW pepper problems are usually about temperature, not pests or disease:
+Nine most-asked-about pepper problems in PNW gardens — most about temperature, not pests or disease:
 
-- **Pale, stunted, no growth in spring** — [cool soil](/sunlight). Peppers won't grow until soil warms past 60°F. Patience or season extension.
-- **[Flower drop in summer](/no-flowers)** — sustained heat above 90°F. Less common in PNW than in hotter regions, but happens during heat waves.
+- **Pale, stunted, no growth in spring** — [cool soil](/environment). Peppers won't grow until soil warms past 60°F. Patience or season extension.
+- **[Flower drop in summer](/no-flowers-no-fruit)** — sustained heat above 90°F. Less common in PNW than in hotter regions, but happens during heat waves.
 - **[Tiny shotgun holes in leaves](/holes-in-leaves)** — flea beetles, especially on young plants. Row covers prevent the worst.
 - **[Yellow lower leaves later in season](/yellow-leaves)** — nitrogen depletion as fruit set begins. Side-dress lightly with compost or fish emulsion.
+- **[Curling cupped leaves with sticky residue](/curling-leaves)** — aphids on new growth. Spray off with strong water; insecticidal soap if persistent.
+- **Whitish papery patches on fruit** — sunscald on sun-exposed fruit. Don't strip leaves shading the fruit.
+- **Sunken black patch on fruit bottom** — blossom end rot from inconsistent [watering](/watering). Stabilize watering; calcium availability problem, not deficiency.
+- **[Wilting that doesn't recover](/wilting-plants)** — root rot from waterlogged soil or vascular wilt disease. Improve drainage; remove infected plants.
+- **Young plants disappearing overnight** — slugs at sprout time. Iron phosphate or hand-pick at night. PNW slug pressure on tender pepper transplants is real.
 
 <figure class="pin-embed">
-  <img src="/assets/pins/plants/pepper-problems.png" alt="Most common pepper problems pin" loading="lazy" width="600" height="900">
+  <img src="/assets/pins/plants/pepper-problems.png" alt="9 most common pepper problems pin" loading="lazy" width="600" height="900">
   <figcaption>Save this problem checklist ↗</figcaption>
 </figure>
 

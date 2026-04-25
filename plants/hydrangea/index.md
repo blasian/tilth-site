@@ -89,14 +89,20 @@ In PNW summers, hydrangeas in afternoon sun positions may need more frequent wat
 
 ## Common problems
 
-- **Wilting in afternoon heat that recovers overnight** — normal; hydrangeas are dramatic about water stress. Water deeply if soil is dry; ignore if soil is moist.
-- **No blooms** — almost always wrong-time pruning. Mophead/lacecap and oakleaf bloom on old wood; pruning in fall removes next year's buds. Other causes: late frost killed buds (April–May freeze), plant too young (1–2 years to first reliable bloom), or insufficient sun.
-- **Leaves brown at edges** — water stress, sun scorch, or fertilizer burn.
-- **Pink instead of blue (or vice versa)** — soil pH. Adjust with aluminum sulfate (toward blue) or lime (toward pink). Takes a season to fully shift color.
-- **White powder on leaves** — powdery mildew. Improve airflow; don't water overhead.
+Nine most-asked-about hydrangea problems in PNW gardens:
+
+- **[Wilting in afternoon heat that recovers overnight](/wilting-plants)** — normal; hydrangeas are dramatic about water stress. Water deeply if soil is dry; ignore if soil is moist.
+- **[No blooms](/no-flowers-no-fruit)** — almost always wrong-time pruning. Mophead, lacecap, and oakleaf bloom on old wood; pruning in fall removes next year's buds. Other causes: late frost killed buds, plant too young, or insufficient sun.
+- **[Leaves brown at edges](/brown-leaves)** — water stress, sun scorch, or fertilizer burn.
+- **Pink instead of blue (or vice versa)** — soil pH. Adjust with aluminum sulfate (toward blue) or lime (toward pink). Takes a season to fully shift.
+- **[White powder on leaves](/spots)** — powdery mildew. Improve airflow; don't water overhead.
+- **[Yellow leaves with green veins](/yellow-leaves)** — chlorosis from iron deficiency or pH imbalance. Acidify soil for blue varieties; supplement iron.
+- **Aphids on new growth** — sticky residue, distorted leaves. Wash off with strong water; insecticidal soap if persistent.
+- **Floppy stems on Annabelle types** — needs support. Sturdier cultivars (Incrediball, Limelight) have stronger stems; or use grow-through grids.
+- **Brown spots on leaves** — leaf spot disease. Remove affected leaves; improve airflow; water at soil level only.
 
 <figure class="pin-embed">
-  <img src="/assets/pins/plants/hydrangea-problems.png" alt="Most common hydrangea problems pin" loading="lazy" width="600" height="900">
+  <img src="/assets/pins/plants/hydrangea-problems.png" alt="9 most common hydrangea problems pin" loading="lazy" width="600" height="900">
   <figcaption>Save this problem checklist ↗</figcaption>
 </figure>
 

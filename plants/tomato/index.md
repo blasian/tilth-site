@@ -65,18 +65,22 @@ Mulch heavily — 2–3 inches of straw, leaves, or compost — to retain soil m
 
 ## Common problems
 
-The five most-asked-about tomato problems in PNW gardens:
+Nine most-asked-about tomato problems in PNW gardens:
 
 - **[Yellow lower leaves](/yellow-leaves)** — usually water or nitrogen. Check soil moisture before fertilizing.
 - **[Curling upper leaves in summer](/curling-leaves)** — heat stress or herbicide drift. Reverses when conditions improve.
 - **[Brown spots with yellow halos](/spots)** — septoria leaf spot. Remove affected leaves at the bottom and stop overhead watering.
-- **[No fruit despite flowers](/no-flowers)** — almost always cool nights below 55°F (PNW special). Confirm temps before assuming the plant is sick.
+- **[No fruit despite flowers](/no-flowers-no-fruit)** — almost always cool nights below 55°F (PNW special). Confirm temps before assuming the plant is sick.
 - **Sunken black patch on fruit bottom** — blossom end rot from inconsistent [watering](/watering).
+- **Cracked fruit** — irregular watering during ripening, especially heavy rain on dry plants. Mulch to even out moisture swings.
+- **Large green caterpillars stripping leaves** — [tomato hornworms](/pests). Hand-pick (use gloves; harmless but unpleasant). Look for frass on leaves to find them.
+- **Whitish papery patches on fruit** — sunscald from removing too many leaves at once. Don't over-prune the canopy that shades fruit.
+- **[Wilting that doesn't recover](/wilting-plants)** — fusarium or verticillium wilt. Cut a stem near the base; brown streaks inside confirm. Remove infected plants.
 
 The most important tomato-specific gotcha: **blossom end rot is a calcium *availability* problem, not a calcium deficiency.** It comes from inconsistent watering, which prevents the plant from moving calcium into developing fruit. Adding calcium to the soil won't help if your watering is erratic. Fix the watering schedule and the problem usually resolves.
 
 <figure class="pin-embed">
-  <img src="/assets/pins/plants/tomato-problems.png" alt="5 most common tomato problems pin" loading="lazy" width="600" height="900">
+  <img src="/assets/pins/plants/tomato-problems.png" alt="9 most common tomato problems pin" loading="lazy" width="600" height="900">
   <figcaption>Save this problem checklist ↗</figcaption>
 </figure>
 

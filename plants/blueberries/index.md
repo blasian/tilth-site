@@ -71,14 +71,20 @@ Mulch with 3–4 inches of pine needles, wood chips, or sawdust. Mulch keeps roo
 
 ## Common problems
 
-- **Yellow leaves with green veins** — iron deficiency from soil pH too high. Test and acidify with sulfur. This is the most common PNW blueberry problem and the most fixable.
-- **Few or no berries** — single cultivar (need cross-pollination), heavy pruning of last year's wood, or too-young plants (3+ years to good crop). Plant a second cultivar nearby.
-- **Birds taking ripe fruit** — netting is the only reliable answer. Drape bird netting over the plants 2 weeks before berries start to ripen.
-- **Spotted Wing Drosophila in fruit** — small fruit fly that lays eggs in ripening berries. Common PNW pest. Pick frequently and refrigerate immediately; drop infested berries in soapy water to break the cycle.
-- **Browning leaves and dieback** — likely root rot from poor drainage. Improve drainage; consider raising the planting site.
+Nine most-asked-about blueberry problems in PNW gardens:
+
+- **[Yellow leaves with green veins](/yellow-leaves)** — iron deficiency from soil pH too high. Test and acidify with sulfur. The most common PNW blueberry problem and the most fixable.
+- **[Few or no berries](/no-flowers-no-fruit)** — single cultivar (need cross-pollination), heavy pruning of last year's wood, or too-young plants (3+ years to good crop). Plant a second cultivar nearby.
+- **Birds taking ripe fruit** — netting is the only reliable answer. Drape bird netting 2 weeks before berries start to ripen.
+- **Small worms in fruit** — Spotted Wing Drosophila. Common PNW pest. Pick frequently and refrigerate immediately; drop infested berries in soapy water.
+- **Browning leaves and dieback** — likely root rot from poor drainage. Improve drainage or replant on raised mound.
+- **[Stunted growth despite established planting](/stunted-plants)** — planted too deep (crown buried), root rot, or wrong pH. Crown should be at soil level.
+- **Berries that shrivel and dry on the bush** — mummy berry fungal disease. Remove all affected berries and ground litter; mulch with fresh material.
+- **Aphids on new growth** — sticky residue, distorted leaves. Wash off with strong water; insecticidal soap if persistent.
+- **Cracked or split berries during ripening** — irregular watering. Maintain consistent moisture during the fruit-development window.
 
 <figure class="pin-embed">
-  <img src="/assets/pins/plants/blueberries-problems.png" alt="Most common blueberry problems pin" loading="lazy" width="600" height="900">
+  <img src="/assets/pins/plants/blueberries-problems.png" alt="9 most common blueberry problems pin" loading="lazy" width="600" height="900">
   <figcaption>Save this problem checklist ↗</figcaption>
 </figure>
 

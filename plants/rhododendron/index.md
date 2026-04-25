@@ -83,14 +83,20 @@ Always water at the soil line, not on the leaves or flowers. Avoid frequent shal
 
 ## Common problems
 
-- **Curled leaves in winter** — temperature response (thermotropism). Leaves curl tightly when cold to reduce exposed surface area. Normal and harmless; reverses when temperatures rise.
-- **Yellow leaves with green veins (chlorosis)** — iron deficiency from soil pH too high. The most common PNW rhododendron problem and the most fixable. Acidify with sulfur; supplement with iron sulfate or chelated iron in the short term.
-- **Brown leaves dropped at the petiole** — root rot from waterlogged soil. The most fatal rhododendron problem. Improve drainage, plant higher in heavy clay, or move the plant if possible.
+Nine most-asked-about rhododendron problems in PNW gardens:
+
+- **[Curled leaves in winter](/curling-leaves)** — temperature response (thermotropism). Leaves curl tightly when cold to reduce exposed surface area. Normal and harmless; reverses when temperatures rise.
+- **[Yellow leaves with green veins (chlorosis)](/yellow-leaves)** — iron deficiency from soil pH too high. The most common PNW rhododendron problem and the most fixable. Acidify with sulfur; iron sulfate for short-term relief.
+- **[Brown leaves dropped at the petiole](/brown-leaves)** — root rot from waterlogged soil. The most fatal rhododendron problem. Improve drainage, plant higher in heavy clay.
 - **Silver speckling on leaf surface** — lace bug damage, common in too-much-sun positions. Move to more shade or treat with insecticidal soap.
-- **No flowers but healthy plant** — usually planted in too much shade, or buds were killed by late frost.
+- **[No flowers but healthy plant](/no-flowers-no-fruit)** — usually planted in too much shade, or buds were killed by late frost.
+- **Buds turning brown without opening** — bud blast (fungal). Common in wet springs. Remove affected buds; improve airflow; copper spray for severe cases.
+- **Flowers turning brown and slimy in wet weather** — petal blight (fungal). Remove affected blooms promptly; doesn't recur if conditions dry out.
+- **C-shaped notches at leaf edges** — black vine weevil adults feeding at night. Apply beneficial nematodes to soil for larvae control.
+- **[White powdery patches on leaves](/spots)** — powdery mildew. Less common on rhododendrons than other plants but possible in poor airflow positions.
 
 <figure class="pin-embed">
-  <img src="/assets/pins/plants/rhododendron-problems.png" alt="Most common rhododendron problems pin" loading="lazy" width="600" height="900">
+  <img src="/assets/pins/plants/rhododendron-problems.png" alt="9 most common rhododendron problems pin" loading="lazy" width="600" height="900">
   <figcaption>Save this problem checklist ↗</figcaption>
 </figure>
 

@@ -68,14 +68,20 @@ Mulch with bark or leaf compost to retain moisture and suppress weeds.
 
 ## Common problems
 
-- **Sprouts disappearing as they emerge** — slugs. The dominant PNW dahlia issue. Iron phosphate (Sluggo) at planting site, beer traps, or copper barriers around the planting area. Reapply iron phosphate after rain.
-- **Powdery mildew on leaves late season** — improve airflow by removing crowded interior foliage. Mostly cosmetic; doesn't kill plants.
-- **No blooms despite leafy growth** — too much nitrogen, too little sun, or both. Reduce fertilizer; consider relocating if in shade.
+Nine most-asked-about dahlia problems in PNW gardens:
+
+- **Sprouts disappearing as they emerge** — slugs. The dominant PNW dahlia issue. Iron phosphate (Sluggo) at planting site, beer traps, or copper barriers. Reapply after rain.
+- **[Powdery mildew on leaves late season](/spots)** — improve airflow by removing crowded interior foliage. Mostly cosmetic.
+- **[No blooms despite leafy growth](/no-flowers-no-fruit)** — too much nitrogen, too little sun, or both. Reduce fertilizer; relocate if shaded.
 - **Tubers rotted over winter** — drainage issue. Lift in November and store dry, or plant in raised beds.
-- **Floppy plants in summer** — staking. Tall dahlia varieties need stakes 3–4 feet tall, set at planting time so the plant grows up through them.
+- **Floppy plants in summer** — needs staking. Tall varieties need stakes 3–4 feet tall, set at planting time so the plant grows up through them.
+- **Chewed petals with brown frass in flowers** — earwigs. Set traps (rolled newspaper or hose pieces at soil level); shake into soapy water in the morning.
+- **Fine webbing and pinprick damage on leaves** — spider mites in dry hot weather. Increase humidity; insecticidal soap.
+- **Gray mold on flowers in wet weather** — botrytis. Remove affected blooms; improve airflow; deadhead spent flowers regularly.
+- **Distorted leaves with yellow-green swellings** — dahlia smut, fungal. Remove affected leaves; rotate planting site if persistent.
 
 <figure class="pin-embed">
-  <img src="/assets/pins/plants/dahlia-problems.png" alt="Most common dahlia problems pin" loading="lazy" width="600" height="900">
+  <img src="/assets/pins/plants/dahlia-problems.png" alt="9 most common dahlia problems pin" loading="lazy" width="600" height="900">
   <figcaption>Save this problem checklist ↗</figcaption>
 </figure>
 

@@ -65,12 +65,22 @@ pH 6.0–7.0 is ideal. PNW soil is generally acceptable without amendment.
 
 ## Common problems
 
-Garlic is largely problem-free in PNW once established, but a few issues come up:
+Garlic is largely problem-free in PNW once established, but here are the nine issues most often asked about:
 
-- **Yellowing leaves in early summer** — mostly natural; means harvest is approaching. Bottom leaves yellow first as the plant moves energy into the bulb.
+- **[Yellowing leaves in early summer](/yellow-leaves)** — mostly natural; means harvest is approaching. Bottom leaves yellow first as the plant moves energy into the bulb.
 - **Bulbs rotted at harvest** — drainage issue. Plant in raised beds or amend heavily for next season.
-- **Tiny bulbs at harvest** — planted too late, soil too poor, or didn't fertilize in spring. Side-dress with compost or fish emulsion in March if the plants look weak.
-- **White rot fungus** — soil-borne disease that destroys bulbs. Rotate garlic out of beds for 4+ years if you've had it.
+- **Tiny bulbs at harvest** — planted too late, soil too poor, or didn't fertilize in spring. Side-dress with compost or fish emulsion in March if plants look weak.
+- **White rot fungus (white fluffy growth at bulb base)** — soil-borne disease that destroys bulbs. Rotate garlic out of affected beds for 4+ years.
+- **Orange spots on leaves** — garlic rust. Common in wet PNW spring. Improve airflow; sulfur sprays for severe infections; plant in well-spaced rows.
+- **Mold on stored bulbs** — improper curing. Cure in warm dry well-ventilated space for 2–3 weeks before storing.
+- **Bulbs not separating into distinct cloves** — variety issue, planted too small, or harvested too early. Use larger cloves for next year's seed.
+- **Silvery streaks on leaves** — onion thrips. Minor pest in PNW; usually doesn't affect bulb size. Insecticidal soap if severe.
+- **Stunted growth in spring** — planted too late (after November), planted too shallow, or poor soil. Replant on schedule next year; mulch heavily.
+
+<figure class="pin-embed">
+  <img src="/assets/pins/plants/garlic-problems.png" alt="9 most common garlic problems pin" loading="lazy" width="600" height="900">
+  <figcaption>Save this problem checklist ↗</figcaption>
+</figure>
 
 ## Harvest scapes
 
