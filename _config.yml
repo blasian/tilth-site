@@ -19,3 +19,6 @@ exclude:
   - README.md
   - .gitignore
   - .DS_Store
+  - Gemfile
+  - Gemfile.lock
+  - pin-briefs
