@@ -1,0 +1,11 @@
+{
+  "name": "tilth-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "pins:prompts": "tsx scripts/generate-pin-prompts.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.5"
+  }
+}
