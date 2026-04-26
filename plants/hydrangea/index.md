@@ -15,10 +15,12 @@ Hydrangeas thrive in PNW conditions — moist, mild, partially shaded. The most-
 - **Soil:** pH 5.0–6.5 (acidic for blue, alkaline for pink), rich in organic matter
 - **Bloom window:** June through September depending on type
 
+<!-- growing pin hidden until PNG is designed
 <figure class="pin-embed">
   <img src="/assets/pins/plants/hydrangea-growing.png" alt="PNW Hydrangea Growing Guide pin" loading="lazy" width="600" height="900">
   <figcaption>Save this guide ↗</figcaption>
 </figure>
+-->
 
 ## Know your type (this matters)
 

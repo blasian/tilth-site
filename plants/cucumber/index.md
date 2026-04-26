@@ -15,10 +15,12 @@ Cucumbers are easier than squash but still mildew-prone. The two reliable PNW re
 - **Soil:** pH 6.0–7.0, well-amended, well-draining
 - **Days to harvest:** 50–65 days from transplant for slicers, 50–55 for pickles
 
+<!-- growing pin hidden until PNG is designed
 <figure class="pin-embed">
   <img src="/assets/pins/plants/cucumber-growing.png" alt="PNW Cucumber Growing Guide pin" loading="lazy" width="600" height="900">
   <figcaption>Save this guide ↗</figcaption>
 </figure>
+-->
 
 ## When to plant
 

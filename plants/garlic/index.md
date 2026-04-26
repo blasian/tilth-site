@@ -15,10 +15,12 @@ Garlic is the PNW signature crop most new gardeners overlook because the plantin
 - **Soil:** pH 6.0–7.0, very well-draining
 - **Days to harvest:** 240+ days (October to July)
 
+<!-- growing pin hidden until PNG is designed
 <figure class="pin-embed">
   <img src="/assets/pins/plants/garlic-growing.png" alt="PNW Garlic Growing Guide pin" loading="lazy" width="600" height="900">
   <figcaption>Save this guide ↗</figcaption>
 </figure>
+-->
 
 ## When to plant
 

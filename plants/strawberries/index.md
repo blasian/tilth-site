@@ -15,10 +15,12 @@ Strawberries are PNW signature fruit. Junebearer types thrive in our cool spring
 - **Soil:** pH 5.5–6.5, well-draining, rich
 - **Days to harvest:** ~60 days from planting for first-year light crop; full harvest in year 2
 
+<!-- growing pin hidden until PNG is designed
 <figure class="pin-embed">
   <img src="/assets/pins/plants/strawberries-growing.png" alt="PNW Strawberry Growing Guide pin" loading="lazy" width="600" height="900">
   <figcaption>Save this guide ↗</figcaption>
 </figure>
+-->
 
 ## When to plant
 

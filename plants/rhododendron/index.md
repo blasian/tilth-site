@@ -15,10 +15,12 @@ The PNW signature shrub. Rhododendrons evolved in environments that look a lot l
 - **Soil:** pH 4.5–6.0 (acidic), well-draining, rich in organic matter
 - **Mature size:** varies widely by cultivar, from 3-foot dwarfs to 15-foot tree-types
 
+<!-- growing pin hidden until PNG is designed
 <figure class="pin-embed">
   <img src="/assets/pins/plants/rhododendron-growing.png" alt="PNW Rhododendron Growing Guide pin" loading="lazy" width="600" height="900">
   <figcaption>Save this guide ↗</figcaption>
 </figure>
+-->
 
 ## When to plant
 

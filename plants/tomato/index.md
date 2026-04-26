@@ -15,10 +15,12 @@ PNW tomatoes are a regional anxiety. Cool summers slow ripening, short nights dr
 - **Soil:** pH 6.0–6.8, well-draining, compost-rich
 - **Days to harvest:** 50–85 from transplant, variety-dependent
 
+<!-- growing pin hidden until PNG is designed
 <figure class="pin-embed">
   <img src="/assets/pins/plants/tomato-growing.png" alt="PNW Tomato Growing Guide pin" loading="lazy" width="600" height="900">
   <figcaption>Save this guide ↗</figcaption>
 </figure>
+-->
 
 ## When to plant
 

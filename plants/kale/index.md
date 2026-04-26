@@ -15,10 +15,12 @@ PNW kale is a marvel. It survives PNW winters with minimal protection, tastes sw
 - **Soil:** pH 6.0–7.5 (slight alkalinity tolerated, helps prevent clubroot)
 - **Days to harvest:** 50–65 days from transplant for baby leaves; 70+ for full plants
 
+<!-- growing pin hidden until PNG is designed
 <figure class="pin-embed">
   <img src="/assets/pins/plants/kale-growing.png" alt="PNW Kale Growing Guide pin" loading="lazy" width="600" height="900">
   <figcaption>Save this guide ↗</figcaption>
 </figure>
+-->
 
 ## When to plant
 

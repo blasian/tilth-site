@@ -15,10 +15,12 @@ Peppers are the most stubbornly heat-loving plant a PNW gardener tries to grow. 
 - **Soil:** pH 6.5–7.0, well-draining
 - **Days to harvest:** 60–80 from transplant for green peppers; longer for fully ripe (red, yellow, purple) fruit
 
+<!-- growing pin hidden until PNG is designed
 <figure class="pin-embed">
   <img src="/assets/pins/plants/pepper-growing.png" alt="PNW Pepper Growing Guide pin" loading="lazy" width="600" height="900">
   <figcaption>Save this guide ↗</figcaption>
 </figure>
+-->
 
 ## When to plant
 

@@ -15,10 +15,12 @@ Dahlias are Seattle's flower. The PNW climate suits them — long mild summers, 
 - **Soil:** pH 6.0–7.0, well-draining
 - **Days to harvest:** 60–90 days from planting to first blooms
 
+<!-- growing pin hidden until PNG is designed
 <figure class="pin-embed">
   <img src="/assets/pins/plants/dahlia-growing.png" alt="PNW Dahlia Growing Guide pin" loading="lazy" width="600" height="900">
   <figcaption>Save this guide ↗</figcaption>
 </figure>
+-->
 
 ## When to plant
 

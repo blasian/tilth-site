@@ -15,10 +15,12 @@ Summer squash thrives in PNW summers. Winter squash is harder — most varieties
 - **Soil:** pH 6.0–7.0, rich compost, well-draining
 - **Days to harvest:** 45–55 days for summer squash; 90–110 for short-season winter squash
 
+<!-- growing pin hidden until PNG is designed
 <figure class="pin-embed">
   <img src="/assets/pins/plants/squash-growing.png" alt="PNW Squash Growing Guide pin" loading="lazy" width="600" height="900">
   <figcaption>Save this guide ↗</figcaption>
 </figure>
+-->
 
 ## When to plant
 

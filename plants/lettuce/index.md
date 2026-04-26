@@ -15,10 +15,12 @@ PNW is excellent lettuce country. Long cool springs and falls give us two distin
 - **Soil:** pH 6.0–7.0, well-amended
 - **Days to harvest:** 30–60 days from transplant, depending on variety and harvest style
 
+<!-- growing pin hidden until PNG is designed
 <figure class="pin-embed">
   <img src="/assets/pins/plants/lettuce-growing.png" alt="PNW Lettuce Growing Guide pin" loading="lazy" width="600" height="900">
   <figcaption>Save this guide ↗</figcaption>
 </figure>
+-->
 
 ## When to plant
 

@@ -15,10 +15,12 @@ PNW is blueberry country. Soil pH and rainfall are nearly ideal — assuming you
 - **Soil:** pH 4.5–5.5 (acidic — most plants need acidification), rich in organic matter
 - **Days to harvest:** 1–2 years for first crop; full production in year 4–5
 
+<!-- growing pin hidden until PNG is designed
 <figure class="pin-embed">
   <img src="/assets/pins/plants/blueberries-growing.png" alt="PNW Blueberry Growing Guide pin" loading="lazy" width="600" height="900">
   <figcaption>Save this guide ↗</figcaption>
 </figure>
+-->
 
 ## When to plant
 
