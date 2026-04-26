@@ -3,8 +3,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "pins:prompts": "tsx scripts/generate-pin-prompts.ts",
-    "pins:symptom-prompts": "tsx scripts/generate-symptom-pin-prompts.ts"
+    "pins:prompts": "tsx scripts/generate-plant-pin-prompts.ts",
+    "pins:symptom-prompts": "tsx scripts/generate-symptom-pin-prompts.ts",
+    "pins:cause-prompts": "tsx scripts/generate-cause-pin-prompts.ts"
   },
   "devDependencies": {
     "tsx": "^4.20.5"
