@@ -22,3 +22,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - pin-briefs
+  - pin-prompts
+  - node_modules
+  - scripts
+  - package.json
+  - package-lock.json

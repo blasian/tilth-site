@@ -8,10 +8,12 @@ You are designing Pinterest pins for **Tilth**, an iPhone app for Pacific Northw
 
 Tilth is a garden journal + AI diagnosis app for iPhone. Tagline: *"Your garden has a memory now."* The app logs weather, soil, plant species, and recent activity automatically, then assembles that context into structured plant-problem diagnoses on demand.
 
-The Tilth landing page is at [gettilth.com](https://gettilth.com). The two articles these pins drive traffic to are:
+The Tilth landing page is at [gettilth.com](https://gettilth.com). Pins drive traffic to focused per-topic articles:
 
-- `gettilth.com/guide` — The Pacific Northwest Plant Diagnosis Guide
-- `gettilth.com/plants` — The Pacific Northwest Plant Guide (12 plant cards)
+- **Plant guides** at flat URLs like `gettilth.com/tomato`, `gettilth.com/blueberries`, `gettilth.com/dahlia` — 12 plants total
+- **Symptom diagnosis** at flat URLs like `gettilth.com/yellow-leaves`, `gettilth.com/holes-in-leaves`, `gettilth.com/wilting-plants` — 8 symptoms total
+- **Cause categories** at flat URLs like `gettilth.com/watering`, `gettilth.com/diseases`, `gettilth.com/pests` — 6 causes total
+- **Hub overviews** at `gettilth.com/plants` (plant index) and `gettilth.com/guide` (diagnosis framework + symptom/cause index)
 
 ---
 
@@ -136,16 +138,18 @@ For pins like *"PNW Tomato Growing Guide"*. Lives at `pin-briefs/plants/[plant]-
 
 ### Template B — Problems-list pin
 
-For pins like *"5 Most Common Tomato Problems."* Lives at `pin-briefs/plants/[plant]-problems.md`.
+For pins like *"9 Most Common Tomato Problems."* Lives at `pin-briefs/plants/[plant]-problems.md`.
 
 - Brand zone
 - Title + subhead
-- Hero zone — small or skipped
-- Bulleted list — 4–5 problems, each with bold problem name + short cause/action, e.g.:
-  - **Yellow lower leaves** → check water before nitrogen
-  - **Curling tops in summer** → heat stress or herbicide drift
+- Hero zone — small or skipped (skipped is typical for 9-item layout)
+- Numbered list — **9 problems**, each with bold problem name + short cause/action, e.g.:
+  - **01 Yellow lower leaves** → check water before nitrogen
+  - **02 Curling tops in summer** → heat stress or herbicide drift
 - Optional gotcha callout
 - Footer URL
+
+A 9-item list lets the pin layout breathe with a 3×3 grid feel or a denser numbered column. Reads as more comprehensive than a short 5-item list — better save-rate on Pinterest.
 
 ### Template C — Diagnosis-question pin
 
@@ -167,7 +171,7 @@ Each brief is a markdown file with YAML frontmatter:
 ```yaml
 ---
 filename: tomato-growing.png
-landing-url: https://gettilth.com/plants#tomato
+landing-url: https://gettilth.com/tomato
 title: PNW Tomato Growing Guide | Tilth
 description: When to plant tomatoes in the Pacific Northwest, what varieties work in cool summers, and how much sun and water they need. From the Tilth garden guide.
 category: plant-growing | plant-problems | symptom | cause | hub
@@ -177,7 +181,7 @@ template: A | B | C
 
 Followed by clearly labeled sections: **Headline**, **Subhead**, **Hero**, **Body**, **Callout**, **Footer URL**, **Notes**.
 
-The `title` field is what appears as the pin's title on Pinterest itself (max 100 chars, search-optimized). The `description` field is the Pinterest description (max 500 chars, but shorter is better — 200 chars typical). Include the deep `landing-url` so readers land directly on the relevant section, not the top of the article.
+The `title` field is what appears as the pin's title on Pinterest itself (max 100 chars, search-optimized). The `description` field is the Pinterest description (max 500 chars, but shorter is better — 200 chars typical). Each `landing-url` points at a focused per-pin article (e.g., `gettilth.com/tomato`, `gettilth.com/yellow-leaves`) — readers land on content matching exactly what the pin promised, not on a long hub article.
 
 ---
 

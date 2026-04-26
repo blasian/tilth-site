@@ -1,6 +1,6 @@
 ---
 filename: causes-watering.png
-landing-url: https://gettilth.com/guide#watering
+landing-url: https://gettilth.com/watering
 title: Overwatering vs. Underwatering — How to Tell
 description: Overwatering and underwatering produce nearly identical symptoms — yellowing, wilting, leaf drop. Here's how to tell them apart before you make the wrong call and accelerate the problem.
 category: cause
@@ -37,10 +37,10 @@ Two side-by-side leaves or plants showing the contrast: one over (limp, soggy so
 > First check: stick a finger 1–2 inches into the soil. Wet, cool, heavy = don't water. Dry, dusty = water.
 
 ## Footer URL
-`gettilth.com/guide#watering`
+`gettilth.com/watering`
 
 ## Notes
 - This pin is the strongest diagnostic content in the guide — the "signs are identical" insight is what makes it shareable
 - The two-column layout (over vs. under) is a Pinterest-friendly format that signals "comparison guide" at thumbnail
 - The finger-in-soil gesture is the most Pinterest-friendly visual hook if doing an illustration
-- Source content: [/guide#watering](../../guide/index.md)
+- Source content: [/watering article](../../causes/watering/index.md)

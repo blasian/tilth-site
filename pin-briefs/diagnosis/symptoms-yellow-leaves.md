@@ -1,6 +1,6 @@
 ---
 filename: symptoms-yellow-leaves.png
-landing-url: https://gettilth.com/guide#yellow
+landing-url: https://gettilth.com/yellow-leaves
 title: Why Are My Plant's Leaves Yellow? (PNW Diagnosis)
 description: Yellow leaves are the most-Googled plant problem — and they mean six different things depending on which leaves are yellow and how fast it happened. A Pacific Northwest gardener's diagnostic guide.
 category: symptom
@@ -32,9 +32,9 @@ A single yellowing leaf — preferably tomato or pepper, showing the gradient fr
 > First check: **which leaves**? Bottom = nitrogen or water. Top = micronutrient or virus. Random = pest or pathogen.
 
 ## Footer URL
-`gettilth.com/guide#yellow`
+`gettilth.com/yellow-leaves`
 
 ## Notes
 - Six bullets is the upper limit — don't add a seventh
 - The "first check" callout is what separates this from a generic checklist — it teaches the reader how to narrow the answer
-- Source content: [/guide#yellow](../../guide/index.md)
+- Source content: [/yellow-leaves article](../../symptoms/yellow-leaves/index.md)
