@@ -13,15 +13,15 @@ Rhododendron problems — quick diagnosis (PNW)
 what your plant is telling you
 
 ## The 9 grid panels
-1. Plant decline → planted too deep
-2. Yellow leaves → iron locked by pH
-3. Brown drop → root rot from wet soil
-4. No flowers → too much shade
-5. Frosted buds → late freeze damage
-6. Wet feet → raise the planting site
-7. Dry first year → water deeply weekly
-8. Mulch rot → keep bark off trunk
-9. Alkaline soil → acidify before planting
+1. Curled leaves in winter → temperature response
+2. Yellow leaves with green veins (chlorosis) → iron deficiency from soil pH too high
+3. Brown leaves dropped at the petiole → root rot from waterlogged soil
+4. Silver speckling on leaf surface → lace bug damage, common in too-much-sun positions
+5. No flowers but healthy plant → usually planted in too much shade, or buds
+6. Buds turning brown without opening → bud blast
+7. Flowers turning brown and slimy → petal blight
+8. C-shaped notches at leaf edges → black vine weevil adults feeding at night
+9. White powdery patches on leaves → powdery mildew
 
 ## Final copy-paste DALL·E prompt
 
@@ -44,15 +44,15 @@ Each panel contains:
 - 1-line explanation
 
 Panels include:
-1. Plant decline → planted too deep
-2. Yellow leaves → iron locked by pH
-3. Brown drop → root rot from wet soil
-4. No flowers → too much shade
-5. Frosted buds → late freeze damage
-6. Wet feet → raise the planting site
-7. Dry first year → water deeply weekly
-8. Mulch rot → keep bark off trunk
-9. Alkaline soil → acidify before planting
+1. Curled leaves in winter → temperature response
+2. Yellow leaves with green veins (chlorosis) → iron deficiency from soil pH too high
+3. Brown leaves dropped at the petiole → root rot from waterlogged soil
+4. Silver speckling on leaf surface → lace bug damage, common in too-much-sun positions
+5. No flowers but healthy plant → usually planted in too much shade, or buds
+6. Buds turning brown without opening → bud blast
+7. Flowers turning brown and slimy → petal blight
+8. C-shaped notches at leaf edges → black vine weevil adults feeding at night
+9. White powdery patches on leaves → powdery mildew
 
 STYLE:
 - warm paper background (#f6efe5)

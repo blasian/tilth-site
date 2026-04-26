@@ -13,15 +13,15 @@ Strawberry problems — quick diagnosis (PNW)
 what your plant is telling you
 
 ## The 9 grid panels
-1. Slug damage → bait before berries ripen
-2. Crown rot → planted too deep
-3. Dry crowns → planted too shallow
-4. Few flowers → too much nitrogen
-5. Bird damage → net before they notice
-6. Distorted berries → pollination or plant bugs
-7. Everbearer lag → plant Junebearers
-8. Old patch → renew after year four
-9. Overripe fruit → pick every 1–2 days
+1. Eaten fruit just before ripening → slugs or birds
+2. Brown patches on leaves → leaf spot or leaf scorch, common in wet
+3. leaves, few flowers → too much nitrogen or plants too crowded
+4. Gray fuzzy mold on berries → botrytis
+5. Distorted berries → incomplete pollination or tarnished plant bug damage
+6. Yellow leaves with green veins → iron deficiency from soil pH too high
+7. Aphids on growing tips → sticky residue, curling new growth
+8. Fine webbing and pinprick damage → spider mites in dry hot weather
+9. Small worms in ripe berries → spotted wing drosophila
 
 ## Final copy-paste DALL·E prompt
 
@@ -44,15 +44,15 @@ Each panel contains:
 - 1-line explanation
 
 Panels include:
-1. Slug damage → bait before berries ripen
-2. Crown rot → planted too deep
-3. Dry crowns → planted too shallow
-4. Few flowers → too much nitrogen
-5. Bird damage → net before they notice
-6. Distorted berries → pollination or plant bugs
-7. Everbearer lag → plant Junebearers
-8. Old patch → renew after year four
-9. Overripe fruit → pick every 1–2 days
+1. Eaten fruit just before ripening → slugs or birds
+2. Brown patches on leaves → leaf spot or leaf scorch, common in wet
+3. leaves, few flowers → too much nitrogen or plants too crowded
+4. Gray fuzzy mold on berries → botrytis
+5. Distorted berries → incomplete pollination or tarnished plant bug damage
+6. Yellow leaves with green veins → iron deficiency from soil pH too high
+7. Aphids on growing tips → sticky residue, curling new growth
+8. Fine webbing and pinprick damage → spider mites in dry hot weather
+9. Small worms in ripe berries → spotted wing drosophila
 
 STYLE:
 - warm paper background (#f6efe5)

@@ -13,15 +13,15 @@ Tomato problems — quick diagnosis (PNW)
 what your plant is telling you
 
 ## The 9 grid panels
-1. Yellow leaves → check water before nitrogen
-2. Curling tops → heat stress or drift
-3. Brown spots → remove low leaves
-4. No fruit → cool nights below 55°F
-5. Black bottoms → water more consistently
-6. Wet leaves → stop overhead watering
-7. Late ripening → choose early varieties
-8. Leggy growth → needs 8+ hours sun
-9. Too leafy → avoid excess nitrogen
+1. Yellow lower leaves → usually water or nitrogen
+2. Curling upper leaves in summer → heat stress or herbicide drift
+3. Brown spots with yellow halos → septoria leaf spot
+4. No fruit despite flowers → almost always cool nights below 55°F
+5. Sunken black patch on fruit bottom → blossom end rot from inconsistent watering
+6. Cracked fruit → irregular watering during ripening, especially heavy rain
+7. Large green caterpillars stripping leaves → tomato hornworms
+8. Whitish papery patches on fruit → sunscald from removing too many leaves at once
+9. Wilting that doesn't recover → fusarium or verticillium wilt
 
 ## Final copy-paste DALL·E prompt
 
@@ -44,15 +44,15 @@ Each panel contains:
 - 1-line explanation
 
 Panels include:
-1. Yellow leaves → check water before nitrogen
-2. Curling tops → heat stress or drift
-3. Brown spots → remove low leaves
-4. No fruit → cool nights below 55°F
-5. Black bottoms → water more consistently
-6. Wet leaves → stop overhead watering
-7. Late ripening → choose early varieties
-8. Leggy growth → needs 8+ hours sun
-9. Too leafy → avoid excess nitrogen
+1. Yellow lower leaves → usually water or nitrogen
+2. Curling upper leaves in summer → heat stress or herbicide drift
+3. Brown spots with yellow halos → septoria leaf spot
+4. No fruit despite flowers → almost always cool nights below 55°F
+5. Sunken black patch on fruit bottom → blossom end rot from inconsistent watering
+6. Cracked fruit → irregular watering during ripening, especially heavy rain
+7. Large green caterpillars stripping leaves → tomato hornworms
+8. Whitish papery patches on fruit → sunscald from removing too many leaves at once
+9. Wilting that doesn't recover → fusarium or verticillium wilt
 
 STYLE:
 - warm paper background (#f6efe5)

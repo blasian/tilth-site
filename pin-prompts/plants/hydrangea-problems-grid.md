@@ -13,15 +13,15 @@ Hydrangea problems — quick diagnosis (PNW)
 what your plant is telling you
 
 ## The 9 grid panels
-1. No blooms → pruned at wrong time
-2. Wilting leaves → water deeply
-3. Pink blooms → soil less acidic
-4. Blue fades → check soil pH
-5. Frost damage → buds froze in spring
-6. Too much shade → add morning sun
-7. Wrong pruning → identify the type
-8. Young plant → wait 1–2 years
-9. Dry roots → mulch after planting
+1. Wilting in afternoon heat that recovers → normal; hydrangeas are dramatic about water stress
+2. No blooms → almost always wrong-time pruning
+3. Leaves brown at edges → water stress, sun scorch, or fertilizer burn
+4. Pink instead of blue (or vice → soil pH
+5. White powder on leaves → powdery mildew
+6. Yellow leaves with green veins → chlorosis from iron deficiency or pH imbalance
+7. Aphids on new growth → sticky residue, distorted leaves
+8. Floppy stems on Annabelle types → needs support
+9. Brown spots on leaves → leaf spot disease
 
 ## Final copy-paste DALL·E prompt
 
@@ -44,15 +44,15 @@ Each panel contains:
 - 1-line explanation
 
 Panels include:
-1. No blooms → pruned at wrong time
-2. Wilting leaves → water deeply
-3. Pink blooms → soil less acidic
-4. Blue fades → check soil pH
-5. Frost damage → buds froze in spring
-6. Too much shade → add morning sun
-7. Wrong pruning → identify the type
-8. Young plant → wait 1–2 years
-9. Dry roots → mulch after planting
+1. Wilting in afternoon heat that recovers → normal; hydrangeas are dramatic about water stress
+2. No blooms → almost always wrong-time pruning
+3. Leaves brown at edges → water stress, sun scorch, or fertilizer burn
+4. Pink instead of blue (or vice → soil pH
+5. White powder on leaves → powdery mildew
+6. Yellow leaves with green veins → chlorosis from iron deficiency or pH imbalance
+7. Aphids on new growth → sticky residue, distorted leaves
+8. Floppy stems on Annabelle types → needs support
+9. Brown spots on leaves → leaf spot disease
 
 STYLE:
 - warm paper background (#f6efe5)

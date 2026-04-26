@@ -13,15 +13,15 @@ Squash & zucchini problems — quick diagnosis (PNW)
 what your plant is telling you
 
 ## The 9 grid panels
-1. Powdery mildew → expected by August
-2. Sudden wilt → check vine borer
-3. Cold soil → wait for 65°F
-4. Poor transplanting → direct seed when warm
-5. Too many leaves → avoid excess nitrogen
-6. Small fruit → water deeply
-7. Oversized zucchini → pick every few days
-8. Winter squash late → choose short-season types
-9. Crowded vines → give 4–6 feet
+1. White powdery patches on leaves → powdery mildew
+2. Sudden wilting of whole plant → squash vine borer or bacterial wilt vectored
+3. Holes in leaves and stems → cucumber beetles
+4. Sunken black patch on developing fruit → blossom end rot from inconsistent watering
+5. male flowers, no fruit early → normal
+6. Female flowers but fruit aborts before → pollination problem
+7. Misshapen or curved fruit → incomplete pollination
+8. Aphid clusters on leaf undersides → wash off with strong water; insecticidal soap
+9. Stunted seedlings → cold soil or slug damage
 
 ## Final copy-paste DALL·E prompt
 
@@ -44,15 +44,15 @@ Each panel contains:
 - 1-line explanation
 
 Panels include:
-1. Powdery mildew → expected by August
-2. Sudden wilt → check vine borer
-3. Cold soil → wait for 65°F
-4. Poor transplanting → direct seed when warm
-5. Too many leaves → avoid excess nitrogen
-6. Small fruit → water deeply
-7. Oversized zucchini → pick every few days
-8. Winter squash late → choose short-season types
-9. Crowded vines → give 4–6 feet
+1. White powdery patches on leaves → powdery mildew
+2. Sudden wilting of whole plant → squash vine borer or bacterial wilt vectored
+3. Holes in leaves and stems → cucumber beetles
+4. Sunken black patch on developing fruit → blossom end rot from inconsistent watering
+5. male flowers, no fruit early → normal
+6. Female flowers but fruit aborts before → pollination problem
+7. Misshapen or curved fruit → incomplete pollination
+8. Aphid clusters on leaf undersides → wash off with strong water; insecticidal soap
+9. Stunted seedlings → cold soil or slug damage
 
 STYLE:
 - warm paper background (#f6efe5)

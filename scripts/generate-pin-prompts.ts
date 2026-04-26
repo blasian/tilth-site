@@ -37,142 +37,6 @@ const plantNames: Record<string, string> = {
   tomato: "Tomato"
 };
 
-const tomatoCalibrationPanels: Panel[] = [
-  { problem: "Yellow leaves", action: "check water before nitrogen" },
-  { problem: "Curling tops", action: "heat stress or drift" },
-  { problem: "Brown spots", action: "remove low leaves" },
-  { problem: "No fruit", action: "cool nights below 55°F" },
-  { problem: "Black bottoms", action: "water more consistently" },
-  { problem: "Wet leaves", action: "stop overhead watering" },
-  { problem: "Late ripening", action: "choose early varieties" },
-  { problem: "Leggy growth", action: "needs 8+ hours sun" },
-  { problem: "Too leafy", action: "avoid excess nitrogen" }
-];
-
-const fallbackBySlug: Record<string, Panel[]> = {
-  blueberries: [
-    { problem: "Yellow leaves", action: "soil pH too high" },
-    { problem: "Few berries", action: "plant a second cultivar" },
-    { problem: "Bird damage", action: "net before ripening" },
-    { problem: "Browning leaves", action: "check drainage" },
-    { problem: "Weak growth", action: "test acidic soil" },
-    { problem: "Low yield", action: "avoid heavy pruning" },
-    { problem: "Dry roots", action: "mulch and water steadily" },
-    { problem: "Young plants", action: "expect light early crops" },
-    { problem: "Clay soil", action: "raise the bed" }
-  ],
-  cucumber: [
-    { problem: "Bitter fruit", action: "even out watering" },
-    { problem: "Powdery mildew", action: "improve airflow" },
-    { problem: "Downy mildew", action: "remove affected leaves" },
-    { problem: "Cold soil", action: "wait for 65°F" },
-    { problem: "Old transplants", action: "start only 3 weeks" },
-    { problem: "Weak slicers", action: "choose pickling types" },
-    { problem: "Oversized fruit", action: "harvest every few days" },
-    { problem: "Damaged stems", action: "cut fruit off" },
-    { problem: "Slow production", action: "pick more often" }
-  ],
-  dahlia: [
-    { problem: "Missing sprouts", action: "protect from slugs" },
-    { problem: "Rotten tubers", action: "wait for warm soil" },
-    { problem: "No blooms", action: "avoid excess nitrogen" },
-    { problem: "Powdery mildew", action: "thin crowded foliage" },
-    { problem: "Winter rot", action: "lift or improve drainage" },
-    { problem: "Floppy stems", action: "stake at planting" },
-    { problem: "Weak branching", action: "pinch at 12 inches" },
-    { problem: "Dry tubers", action: "store cool, not wet" },
-    { problem: "Late flowers", action: "pre-sprout in April" }
-  ],
-  garlic: [
-    { problem: "Tiny bulbs", action: "plant earlier in fall" },
-    { problem: "Wet soil", action: "use raised beds" },
-    { problem: "Yellow leaves", action: "often harvest is near" },
-    { problem: "Weak spring growth", action: "side-dress in March" },
-    { problem: "Small cloves", action: "plant the largest cloves" },
-    { problem: "Missed scapes", action: "cut after one curl" },
-    { problem: "Poor storage", action: "cure before trimming" },
-    { problem: "Softneck trouble", action: "choose hardneck varieties" },
-    { problem: "Broken tops", action: "lift with a fork" }
-  ],
-  hydrangea: [
-    { problem: "No blooms", action: "pruned at wrong time" },
-    { problem: "Wilting leaves", action: "water deeply" },
-    { problem: "Pink blooms", action: "soil less acidic" },
-    { problem: "Blue fades", action: "check soil pH" },
-    { problem: "Frost damage", action: "buds froze in spring" },
-    { problem: "Too much shade", action: "add morning sun" },
-    { problem: "Wrong pruning", action: "identify the type" },
-    { problem: "Young plant", action: "wait 1–2 years" },
-    { problem: "Dry roots", action: "mulch after planting" }
-  ],
-  kale: [
-    { problem: "Cabbage worms", action: "use row cover" },
-    { problem: "Yellow lowers", action: "often natural aging" },
-    { problem: "Bitter leaves", action: "heat stress or bolting" },
-    { problem: "Clubroot risk", action: "keep pH slightly alkaline" },
-    { problem: "Weak growth", action: "feed long-season plants" },
-    { problem: "Winter pause", action: "harvest resumes in spring" },
-    { problem: "Bolting stalks", action: "harvest buds early" },
-    { problem: "Summer pests", action: "cover before butterflies" },
-    { problem: "Tough leaves", action: "pick in cool weather" }
-  ],
-  lettuce: [
-    { problem: "Bolting", action: "skip July planting" },
-    { problem: "Bitter leaves", action: "heat pushed flowering" },
-    { problem: "Slug holes", action: "bait at planting" },
-    { problem: "Afternoon wilt", action: "usually heat stress" },
-    { problem: "Slow growth", action: "plant in cool seasons" },
-    { problem: "Dry leaves", action: "water consistently" },
-    { problem: "Crowded heads", action: "thin seedlings early" },
-    { problem: "Summer scorch", action: "use partial shade" },
-    { problem: "Winter loss", action: "use row cover" }
-  ],
-  pepper: [
-    { problem: "Stalled growth", action: "soil is too cold" },
-    { problem: "Few peppers", action: "needs more heat" },
-    { problem: "Bell struggle", action: "grow small-fruited types" },
-    { problem: "Shot holes", action: "flea beetles; cover early" },
-    { problem: "Leafy plants", action: "avoid excess nitrogen" },
-    { problem: "Late ripening", action: "pick green if needed" },
-    { problem: "Cool nights", action: "use season extenders" },
-    { problem: "Weak sun", action: "give every available beam" },
-    { problem: "Cold beds", action: "try black plastic mulch" }
-  ],
-  rhododendron: [
-    { problem: "Plant decline", action: "planted too deep" },
-    { problem: "Yellow leaves", action: "iron locked by pH" },
-    { problem: "Brown drop", action: "root rot from wet soil" },
-    { problem: "No flowers", action: "too much shade" },
-    { problem: "Frosted buds", action: "late freeze damage" },
-    { problem: "Wet feet", action: "raise the planting site" },
-    { problem: "Dry first year", action: "water deeply weekly" },
-    { problem: "Mulch rot", action: "keep bark off trunk" },
-    { problem: "Alkaline soil", action: "acidify before planting" }
-  ],
-  squash: [
-    { problem: "Powdery mildew", action: "expected by August" },
-    { problem: "Sudden wilt", action: "check vine borer" },
-    { problem: "Cold soil", action: "wait for 65°F" },
-    { problem: "Poor transplanting", action: "direct seed when warm" },
-    { problem: "Too many leaves", action: "avoid excess nitrogen" },
-    { problem: "Small fruit", action: "water deeply" },
-    { problem: "Oversized zucchini", action: "pick every few days" },
-    { problem: "Winter squash late", action: "choose short-season types" },
-    { problem: "Crowded vines", action: "give 4–6 feet" }
-  ],
-  strawberries: [
-    { problem: "Slug damage", action: "bait before berries ripen" },
-    { problem: "Crown rot", action: "planted too deep" },
-    { problem: "Dry crowns", action: "planted too shallow" },
-    { problem: "Few flowers", action: "too much nitrogen" },
-    { problem: "Bird damage", action: "net before they notice" },
-    { problem: "Distorted berries", action: "pollination or plant bugs" },
-    { problem: "Everbearer lag", action: "plant Junebearers" },
-    { problem: "Old patch", action: "renew after year four" },
-    { problem: "Overripe fruit", action: "pick every 1–2 days" }
-  ]
-};
-
 main();
 
 function main() {
@@ -245,21 +109,12 @@ function parseSections(body: string): Map<string, string> {
 }
 
 function buildPanels(article: Article): Panel[] {
-  // TODO: Move slug-specific calibration into data files once this prompt family expands.
-  if (article.slug === "tomato") {
-    return tomatoCalibrationPanels;
+  const commonProblemPanels = extractCommonProblems(article);
+  if (commonProblemPanels.length >= 9) {
+    return commonProblemPanels.slice(0, 9);
   }
 
-  const calibratedPanels = fallbackBySlug[article.slug];
-  if (calibratedPanels?.length >= 9) {
-    return calibratedPanels.slice(0, 9);
-  }
-
-  const panels = [
-    ...extractCommonProblems(article),
-    ...extractArticleSpecificPanels(article),
-    ...(calibratedPanels ?? [])
-  ];
+  const panels = [...commonProblemPanels, ...extractArticleSpecificPanels(article)];
 
   return uniquePanels(panels).slice(0, 9);
 }
@@ -407,22 +262,50 @@ function uniquePanels(panels: Panel[]): Panel[] {
 }
 
 function shortProblem(value: string): string {
-  return normalizeText(value)
+  return trimWords(
+    normalizeText(value)
     .replace(/^Lots of /i, "")
     .replace(/^Tiny /i, "Tiny ")
-    .replace(/\s+in\s+early\s+summer$/i, "")
-    .split(/\s+/)
-    .slice(0, 4)
-    .join(" ");
+      .replace(/\s+in\s+early\s+summer$/i, ""),
+    6
+  );
 }
 
 function shortAction(value: string): string {
-  return normalizeText(value)
-    .replace(/\.$/, "")
+  const firstSentence = normalizeText(value)
     .replace(/\s*\([^)]*\)/g, "")
-    .split(/\s+/)
-    .slice(0, 7)
-    .join(" ");
+    .match(/^[^.!?]+[.!?]?/)?.[0] ?? value;
+
+  return trimWords(
+    firstSentence.replace(/[.!?]$/, ""),
+    8
+  );
+}
+
+function trimWords(value: string, maxWords: number): string {
+  const trailingWords = new Set([
+    "and",
+    "at",
+    "by",
+    "during",
+    "for",
+    "from",
+    "in",
+    "of",
+    "on",
+    "or",
+    "the",
+    "to",
+    "with"
+  ]);
+  const words = value.split(/\s+/).filter(Boolean);
+  let clipped = words.slice(0, maxWords);
+
+  while (clipped.length > 1 && trailingWords.has(clipped[clipped.length - 1].toLowerCase())) {
+    clipped = clipped.slice(0, -1);
+  }
+
+  return clipped.join(" ").replace(/[,;:]$/, "");
 }
 
 function stripMarkdown(value: string): string {

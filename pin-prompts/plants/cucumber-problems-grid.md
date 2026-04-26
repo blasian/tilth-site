@@ -13,15 +13,15 @@ Cucumber problems — quick diagnosis (PNW)
 what your plant is telling you
 
 ## The 9 grid panels
-1. Bitter fruit → even out watering
-2. Powdery mildew → improve airflow
-3. Downy mildew → remove affected leaves
-4. Cold soil → wait for 65°F
-5. Old transplants → start only 3 weeks
-6. Weak slicers → choose pickling types
-7. Oversized fruit → harvest every few days
-8. Damaged stems → cut fruit off
-9. Slow production → pick more often
+1. White powdery patches on leaves → powdery mildew
+2. Yellow patches with purple-gray undersides → downy mildew
+3. Bitter fruit → water stress or heat
+4. No fruit despite flowers → likely just early
+5. Misshapen fruit → incomplete pollination
+6. Yellow leaves overall → water stress or nitrogen deficiency
+7. Sudden wilting of whole plant → bacterial wilt vectored by cucumber beetles
+8. Striped or spotted yellow beetles → cucumber beetles
+9. Aphids on undersides of leaves → sticky residue, curling new growth
 
 ## Final copy-paste DALL·E prompt
 
@@ -44,15 +44,15 @@ Each panel contains:
 - 1-line explanation
 
 Panels include:
-1. Bitter fruit → even out watering
-2. Powdery mildew → improve airflow
-3. Downy mildew → remove affected leaves
-4. Cold soil → wait for 65°F
-5. Old transplants → start only 3 weeks
-6. Weak slicers → choose pickling types
-7. Oversized fruit → harvest every few days
-8. Damaged stems → cut fruit off
-9. Slow production → pick more often
+1. White powdery patches on leaves → powdery mildew
+2. Yellow patches with purple-gray undersides → downy mildew
+3. Bitter fruit → water stress or heat
+4. No fruit despite flowers → likely just early
+5. Misshapen fruit → incomplete pollination
+6. Yellow leaves overall → water stress or nitrogen deficiency
+7. Sudden wilting of whole plant → bacterial wilt vectored by cucumber beetles
+8. Striped or spotted yellow beetles → cucumber beetles
+9. Aphids on undersides of leaves → sticky residue, curling new growth
 
 STYLE:
 - warm paper background (#f6efe5)

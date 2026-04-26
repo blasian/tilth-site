@@ -13,15 +13,15 @@ Garlic problems — quick diagnosis (PNW)
 what your plant is telling you
 
 ## The 9 grid panels
-1. Tiny bulbs → plant earlier in fall
-2. Wet soil → use raised beds
-3. Yellow leaves → often harvest is near
-4. Weak spring growth → side-dress in March
-5. Small cloves → plant the largest cloves
-6. Missed scapes → cut after one curl
-7. Poor storage → cure before trimming
-8. Softneck trouble → choose hardneck varieties
-9. Broken tops → lift with a fork
+1. Yellowing leaves → mostly natural; means harvest is approaching
+2. Bulbs rotted at harvest → drainage issue
+3. Tiny bulbs at harvest → planted too late, soil too poor, or didn't
+4. White rot fungus (white fluffy growth → soil-borne disease that destroys bulbs
+5. Orange spots on leaves → garlic rust
+6. Mold on stored bulbs → improper curing
+7. Bulbs not separating into distinct cloves → variety issue, planted too small, or harvested too
+8. Silvery streaks on leaves → onion thrips
+9. Stunted growth in spring → planted too late, planted too shallow, or poor
 
 ## Final copy-paste DALL·E prompt
 
@@ -44,15 +44,15 @@ Each panel contains:
 - 1-line explanation
 
 Panels include:
-1. Tiny bulbs → plant earlier in fall
-2. Wet soil → use raised beds
-3. Yellow leaves → often harvest is near
-4. Weak spring growth → side-dress in March
-5. Small cloves → plant the largest cloves
-6. Missed scapes → cut after one curl
-7. Poor storage → cure before trimming
-8. Softneck trouble → choose hardneck varieties
-9. Broken tops → lift with a fork
+1. Yellowing leaves → mostly natural; means harvest is approaching
+2. Bulbs rotted at harvest → drainage issue
+3. Tiny bulbs at harvest → planted too late, soil too poor, or didn't
+4. White rot fungus (white fluffy growth → soil-borne disease that destroys bulbs
+5. Orange spots on leaves → garlic rust
+6. Mold on stored bulbs → improper curing
+7. Bulbs not separating into distinct cloves → variety issue, planted too small, or harvested too
+8. Silvery streaks on leaves → onion thrips
+9. Stunted growth in spring → planted too late, planted too shallow, or poor
 
 STYLE:
 - warm paper background (#f6efe5)

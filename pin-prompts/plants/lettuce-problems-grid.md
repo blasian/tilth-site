@@ -13,15 +13,15 @@ Lettuce problems — quick diagnosis (PNW)
 what your plant is telling you
 
 ## The 9 grid panels
-1. Bolting → skip July planting
-2. Bitter leaves → heat pushed flowering
-3. Slug holes → bait at planting
-4. Afternoon wilt → usually heat stress
-5. Slow growth → plant in cool seasons
-6. Dry leaves → water consistently
-7. Crowded heads → thin seedlings early
-8. Summer scorch → use partial shade
-9. Winter loss → use row cover
+1. Bolting (sending up a flower stalk → heat-driven
+2. Slug damage → irregular holes with slime trails
+3. Wilting in afternoon heat → usually recovers overnight
+4. Bottom rot in heavy clay → drainage problem
+5. Aphids on growing tips → sticky residue, distorted growth
+6. Bitter taste before bolting → early heat or drought stress
+7. Brown crispy leaf edges (tipburn) → calcium availability problem during fast growth
+8. Squiggly trails on leaves → leaf miners
+9. Seedlings collapsing at soil line → damping off
 
 ## Final copy-paste DALL·E prompt
 
@@ -44,15 +44,15 @@ Each panel contains:
 - 1-line explanation
 
 Panels include:
-1. Bolting → skip July planting
-2. Bitter leaves → heat pushed flowering
-3. Slug holes → bait at planting
-4. Afternoon wilt → usually heat stress
-5. Slow growth → plant in cool seasons
-6. Dry leaves → water consistently
-7. Crowded heads → thin seedlings early
-8. Summer scorch → use partial shade
-9. Winter loss → use row cover
+1. Bolting (sending up a flower stalk → heat-driven
+2. Slug damage → irregular holes with slime trails
+3. Wilting in afternoon heat → usually recovers overnight
+4. Bottom rot in heavy clay → drainage problem
+5. Aphids on growing tips → sticky residue, distorted growth
+6. Bitter taste before bolting → early heat or drought stress
+7. Brown crispy leaf edges (tipburn) → calcium availability problem during fast growth
+8. Squiggly trails on leaves → leaf miners
+9. Seedlings collapsing at soil line → damping off
 
 STYLE:
 - warm paper background (#f6efe5)

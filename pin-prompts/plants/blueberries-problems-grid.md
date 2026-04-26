@@ -13,15 +13,15 @@ Blueberry problems — quick diagnosis (PNW)
 what your plant is telling you
 
 ## The 9 grid panels
-1. Yellow leaves → soil pH too high
-2. Few berries → plant a second cultivar
-3. Bird damage → net before ripening
-4. Browning leaves → check drainage
-5. Weak growth → test acidic soil
-6. Low yield → avoid heavy pruning
-7. Dry roots → mulch and water steadily
-8. Young plants → expect light early crops
-9. Clay soil → raise the bed
+1. Yellow leaves with green veins → iron deficiency from soil pH too high
+2. Few or no berries → single cultivar, heavy pruning of last year's wood
+3. Birds taking ripe fruit → netting is the only reliable answer
+4. Small worms in fruit → Spotted Wing Drosophila
+5. Browning leaves and dieback → likely root rot from poor drainage
+6. Stunted growth despite established planting → planted too deep, root rot, or wrong pH
+7. Berries that shrivel and dry → mummy berry fungal disease
+8. Aphids on new growth → sticky residue, distorted leaves
+9. Cracked or split berries during ripening → irregular watering
 
 ## Final copy-paste DALL·E prompt
 
@@ -44,15 +44,15 @@ Each panel contains:
 - 1-line explanation
 
 Panels include:
-1. Yellow leaves → soil pH too high
-2. Few berries → plant a second cultivar
-3. Bird damage → net before ripening
-4. Browning leaves → check drainage
-5. Weak growth → test acidic soil
-6. Low yield → avoid heavy pruning
-7. Dry roots → mulch and water steadily
-8. Young plants → expect light early crops
-9. Clay soil → raise the bed
+1. Yellow leaves with green veins → iron deficiency from soil pH too high
+2. Few or no berries → single cultivar, heavy pruning of last year's wood
+3. Birds taking ripe fruit → netting is the only reliable answer
+4. Small worms in fruit → Spotted Wing Drosophila
+5. Browning leaves and dieback → likely root rot from poor drainage
+6. Stunted growth despite established planting → planted too deep, root rot, or wrong pH
+7. Berries that shrivel and dry → mummy berry fungal disease
+8. Aphids on new growth → sticky residue, distorted leaves
+9. Cracked or split berries during ripening → irregular watering
 
 STYLE:
 - warm paper background (#f6efe5)

@@ -13,15 +13,15 @@ Pepper problems — quick diagnosis (PNW)
 what your plant is telling you
 
 ## The 9 grid panels
-1. Stalled growth → soil is too cold
-2. Few peppers → needs more heat
-3. Bell struggle → grow small-fruited types
-4. Shot holes → flea beetles; cover early
-5. Leafy plants → avoid excess nitrogen
-6. Late ripening → pick green if needed
-7. Cool nights → use season extenders
-8. Weak sun → give every available beam
-9. Cold beds → try black plastic mulch
+1. Pale, stunted, no growth in spring → cool soil
+2. Flower drop in summer → sustained heat above 90°F
+3. Tiny shotgun holes in leaves → flea beetles, especially on young plants
+4. Yellow lower leaves later in season → nitrogen depletion as fruit set begins
+5. Curling cupped leaves with sticky residue → aphids on new growth
+6. Whitish papery patches on fruit → sunscald on sun-exposed fruit
+7. Sunken black patch on fruit bottom → blossom end rot from inconsistent watering
+8. Wilting that doesn't recover → root rot from waterlogged soil or vascular wilt
+9. Young plants disappearing overnight → slugs at sprout time
 
 ## Final copy-paste DALL·E prompt
 
@@ -44,15 +44,15 @@ Each panel contains:
 - 1-line explanation
 
 Panels include:
-1. Stalled growth → soil is too cold
-2. Few peppers → needs more heat
-3. Bell struggle → grow small-fruited types
-4. Shot holes → flea beetles; cover early
-5. Leafy plants → avoid excess nitrogen
-6. Late ripening → pick green if needed
-7. Cool nights → use season extenders
-8. Weak sun → give every available beam
-9. Cold beds → try black plastic mulch
+1. Pale, stunted, no growth in spring → cool soil
+2. Flower drop in summer → sustained heat above 90°F
+3. Tiny shotgun holes in leaves → flea beetles, especially on young plants
+4. Yellow lower leaves later in season → nitrogen depletion as fruit set begins
+5. Curling cupped leaves with sticky residue → aphids on new growth
+6. Whitish papery patches on fruit → sunscald on sun-exposed fruit
+7. Sunken black patch on fruit bottom → blossom end rot from inconsistent watering
+8. Wilting that doesn't recover → root rot from waterlogged soil or vascular wilt
+9. Young plants disappearing overnight → slugs at sprout time
 
 STYLE:
 - warm paper background (#f6efe5)

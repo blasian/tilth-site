@@ -13,15 +13,15 @@ Kale problems — quick diagnosis (PNW)
 what your plant is telling you
 
 ## The 9 grid panels
-1. Cabbage worms → use row cover
-2. Yellow lowers → often natural aging
-3. Bitter leaves → heat stress or bolting
-4. Clubroot risk → keep pH slightly alkaline
-5. Weak growth → feed long-season plants
-6. Winter pause → harvest resumes in spring
-7. Bolting stalks → harvest buds early
-8. Summer pests → cover before butterflies
-9. Tough leaves → pick in cool weather
+1. Holes everywhere → cabbage worms or cabbage loopers
+2. Yellow lower leaves → often natural senescence as the plant grows tall
+3. Stunted growth with swollen, clubbed roots → clubroot disease
+4. Aphids clustered on growing tips → wash off with strong water; insecticidal soap if
+5. Tough, bitter leaves → heat stress or bolting
+6. Small white butterflies fluttering around plants → cabbage white butterflies
+7. Tiny shotgun holes in leaves → flea beetles, especially on young plants
+8. White powdery patches on leaves → powdery mildew
+9. Slug damage with slime trails → slugs love young kale
 
 ## Final copy-paste DALL·E prompt
 
@@ -44,15 +44,15 @@ Each panel contains:
 - 1-line explanation
 
 Panels include:
-1. Cabbage worms → use row cover
-2. Yellow lowers → often natural aging
-3. Bitter leaves → heat stress or bolting
-4. Clubroot risk → keep pH slightly alkaline
-5. Weak growth → feed long-season plants
-6. Winter pause → harvest resumes in spring
-7. Bolting stalks → harvest buds early
-8. Summer pests → cover before butterflies
-9. Tough leaves → pick in cool weather
+1. Holes everywhere → cabbage worms or cabbage loopers
+2. Yellow lower leaves → often natural senescence as the plant grows tall
+3. Stunted growth with swollen, clubbed roots → clubroot disease
+4. Aphids clustered on growing tips → wash off with strong water; insecticidal soap if
+5. Tough, bitter leaves → heat stress or bolting
+6. Small white butterflies fluttering around plants → cabbage white butterflies
+7. Tiny shotgun holes in leaves → flea beetles, especially on young plants
+8. White powdery patches on leaves → powdery mildew
+9. Slug damage with slime trails → slugs love young kale
 
 STYLE:
 - warm paper background (#f6efe5)

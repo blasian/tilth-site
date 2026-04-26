@@ -13,15 +13,15 @@ Dahlia problems — quick diagnosis (PNW)
 what your plant is telling you
 
 ## The 9 grid panels
-1. Missing sprouts → protect from slugs
-2. Rotten tubers → wait for warm soil
-3. No blooms → avoid excess nitrogen
-4. Powdery mildew → thin crowded foliage
-5. Winter rot → lift or improve drainage
-6. Floppy stems → stake at planting
-7. Weak branching → pinch at 12 inches
-8. Dry tubers → store cool, not wet
-9. Late flowers → pre-sprout in April
+1. Sprouts disappearing as they emerge → slugs
+2. Powdery mildew on leaves late season → improve airflow by removing crowded interior foliage
+3. No blooms despite leafy growth → too much nitrogen, too little sun, or both
+4. Tubers rotted over winter → drainage issue
+5. Floppy plants in summer → needs staking
+6. Chewed petals with brown frass → earwigs
+7. Fine webbing and pinprick damage → spider mites in dry hot weather
+8. Gray mold on flowers in wet → botrytis
+9. Distorted leaves with yellow-green swellings → dahlia smut, fungal
 
 ## Final copy-paste DALL·E prompt
 
@@ -44,15 +44,15 @@ Each panel contains:
 - 1-line explanation
 
 Panels include:
-1. Missing sprouts → protect from slugs
-2. Rotten tubers → wait for warm soil
-3. No blooms → avoid excess nitrogen
-4. Powdery mildew → thin crowded foliage
-5. Winter rot → lift or improve drainage
-6. Floppy stems → stake at planting
-7. Weak branching → pinch at 12 inches
-8. Dry tubers → store cool, not wet
-9. Late flowers → pre-sprout in April
+1. Sprouts disappearing as they emerge → slugs
+2. Powdery mildew on leaves late season → improve airflow by removing crowded interior foliage
+3. No blooms despite leafy growth → too much nitrogen, too little sun, or both
+4. Tubers rotted over winter → drainage issue
+5. Floppy plants in summer → needs staking
+6. Chewed petals with brown frass → earwigs
+7. Fine webbing and pinprick damage → spider mites in dry hot weather
+8. Gray mold on flowers in wet → botrytis
+9. Distorted leaves with yellow-green swellings → dahlia smut, fungal
 
 STYLE:
 - warm paper background (#f6efe5)
