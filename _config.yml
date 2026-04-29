@@ -14,6 +14,15 @@ url: https://gettilth.com
 # files that already contain full HTML doctype.
 theme: minima
 
+# Restrict the minima header nav to legal pages only. Without this,
+# minima auto-includes every page on the site (including all 26
+# article pages), which pollutes the privacy/terms page navigation.
+# The article pages use the custom `guide.html` layout and aren't
+# affected by minima's nav.
+header_pages:
+  - privacy.md
+  - terms.md
+
 # Exclude dev / editor noise from the published site.
 exclude:
   - README.md
